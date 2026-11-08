@@ -192,6 +192,13 @@ Fourteen cohorts ($k = 14$) incorporated matched asymptomatic control arms ($5,4
 ---
 
 ### 3.3 Subregional Prevalence, Diagnostic Modality Gradients, and Hybrid Pathotype Detection (Part A)
+
+<div style="page-break-before: always;"></div>
+
+![Figure 2: Discrete Diagnostic Modality Presence/Absence Matrix Across 68 African Diarrhoeal Surveillance Cohorts (2000–2026)](figures/supplementary/FigS18_Diagnostic_Methods_Presence_Absence_Matrix.png){width=9.8in}
+
+**Figure 2. Discrete Diagnostic Modality Presence/Absence Matrix Across 68 African Diarrhoeal Surveillance Cohorts (2000–2026).** Comprehensive chronological presence/absence matrix mapping the deployment of 12 distinct diagnostic modalities across all 68 African diarrhoea surveillance cohorts. Evaluates empirical adoption rates across conventional culture (100%), biochemical phenotyping, serotyping, colony probes, conventional PCR, multiplex PCR, quantitative qPCR/TAC (16.2%), and whole-genome sequencing (20.6%), grouped by geographical subregion and multicentre scope. Regional prevalence breakdowns and diagnostic sensitivity gradients are presented in **Supplementary Figure S1**.
+
 Across all $k = 28$ primary studies in Part A (**Table 2**, **Table 3**, and **Figure 2**), **EAEC** was the most prevalent DEC pathotype in African diarrhoeal cases, yielding a pooled Freeman–Tukey random-effects (random-effects) prevalence of **$28.3\%$** ($95\%$ CI: $23.2\text{--}33.7\%$; $k = 26$, $2,406/9,264$; $I^2 = 96.6\%$, $\tau^2 = 0.086$; individual study forest plots and subregional raincloud distributions in **Supplementary Figure S1**; age-stratified prevalence distributions across 9 DEC categories in **Supplementary Figure S20**), followed by **total EPEC** at **$16.1\%$** ($95\%$ CI: $12.6\text{--}19.8\%$; $k = 26$, $1,497/9,264$; $I^2 = 95.2\%$) and **ETEC** at **$14.9\%$** ($95\%$ CI: $11.8\text{--}18.1\%$; $k = 26$, $1,426/9,264$; $I^2 = 93.4\%$; **Supplementary Figure S2**). When EPEC was stratified by the EAF plasmid bundle-forming pilus gene (`bfpA`), **atypical EPEC (`eae+ bfpA-`)** accounted for nearly twice the case burden (**$10.9\%$**, $95\%$ CI: $6.5\text{--}16.3\%$; $k = 11$, $581/5,128$) of **typical EPEC (`eae+ bfpA+`)** (**$6.0\%$**, $95\%$ CI: $4.2\text{--}8.1\%$; $k = 12$, $319/5,329$; paired cohort comparison in **Supplementary Figure S11**). Lower pooled case prevalences were observed for **DAEC** (**$4.9\%$**, $95\%$ CI: $3.8\text{--}6.2\%$; $k = 22$, $283/6,013$; $I^2 = 77.2\%$), **STEC/EHEC** (**$3.2\%$**, $95\%$ CI: $2.0\text{--}4.7\%$; $k = 25$, $243/8,999$; $I^2 = 87.7\%$), and **EIEC** (**$1.4\%$**, $95\%$ CI: $1.0\text{--}1.9\%$; $k = 26$, $151/9,264$; $I^2 = 65.2\%$; study-by-study forest plots presented in **Supplementary Figure S15**).
 
 Subregional meta-analysis (**Table 3**, **Figure 2A**, and **Supplementary Figure S9**) confirmed that EAEC was the leading DEC pathotype across all five UN African subregions: Eastern Africa ($33.7\%$, $95\%$ CI: $23.9\text{--}44.4\%$), Central Africa ($31.6\%$, $95\%$ CI: $21.4\text{--}42.9\%$), Northern Africa ($30.9\%$, $95\%$ CI: $20.1\text{--}42.8\%$), Western Africa ($30.1\%$, $95\%$ CI: $22.1\text{--}38.7\%$), and Southern Africa ($22.7\%$, $95\%$ CI: $14.4\text{--}32.3\%$). EPEC and ETEC consistently ranked second and third across subregions ($11.8\text{--}22.5\%$), while Central Africa exhibited elevated STEC ($13.3\%$, $95\%$ CI: $0.2\text{--}45.7\%$) and hybrid DEC ($16.3\%$, $95\%$ CI: $12.3\text{--}20.6\%$) prevalence driven by clinical outbreaks and recent hospital PCR surveys in Cameroon and Gabon (Mabika Mabika et al., 2021; Mahamat et al., 2024).
@@ -216,53 +223,9 @@ Comparative meta-regression across other major DEC pathotypes revealed contrasti
 - **ETEC ($k = 26$):** Host age restriction was the primary driver of heterogeneity, explaining **$12.76\%$** of between-study variance ($Q_M = 4.031$, $df = 1$, $P = 0.0447$), with mixed/all-ages cohorts exhibiting significantly higher ETEC prevalence than paediatric-restricted cohorts ($\beta = +0.3067$, $\text{SE} = 0.1496$, $P = 0.0403$). Diagnostic modality explained $0.00\%$ ($Q_M = 0.010$, $P = 0.9952$) and study era explained $6.54\%$ ($P = 0.1089$), yielding a full multivariate $R^2$ of **$15.97\%$** ($Q_M = 7.806$, $P = 0.0990$). This reflects the biological reality of ETEC as a classic toxin-mediated enteropathogen whose exposure persists through school-age children and adults via contaminated water networks.
 - **EPEC ($k = 26$):** Study era explained **$5.56\%$** of between-study variance ($Q_M = 2.337$, $P = 0.1263$), whereas modality and age restriction contributed minimally ($R^2 = 0.00\%$). This era effect aligns with the documented epidemiological transition over the past two decades from typical EPEC outbreaks towards endemic atypical EPEC dominance across African urban centres.
 
-**Supplementary Table S5. Multivariate Random-Effects Meta-Regression Models Partitioning Between-Study Variance (R²) Across African DEC Pathotype Cohorts (k = 26).**
-
-| Model Specification / Pathotype | Covariates Included | Residual τ²_{res} | Variance Explained (R²) | Omnibus QM (df) | Omnibus P-value | small-sample adjusted F (P-value) | Residual Heterogeneity QE (P-value) | Residual I²_{res} (%) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **EAEC (random-effects)** | | | | | | | | |
-| *Null Model (Intercept-Only)* | Intercept | 0.08631 | Reference (0.0%) | — | — | — | 28.32 (P = 0.293) | 11.7% |
-| *Univariate: Modality* | WGS, Culture vs. PCR | 0.07052 | **18.30%** | 7.649 (2) | **0.0218** | 3.824 (0.0371) | 22.41 (P = 0.496) | 0.0% |
-| *Univariate: Study Era* | Pre-2015 vs. 2015–2024 | 0.08072 | **6.48%** | 2.533 (1) | 0.1115 | 2.533 (0.1246) | 25.79 (P = 0.364) | 6.9% |
-| *Univariate: Age Strata* | All Ages vs. Pediatric | 0.08867 | **0.00%** | 0.383 (1) | 0.5359 | 0.383 (0.5419) | 27.93 (P = 0.263) | 14.1% |
-| *Full Multivariate Model* | Modality + Era + Age | **0.06869** | **20.41%** | **10.254** (4) | **0.0364** | **2.564** (0.0683) | **20.61** (P = 0.483) | **0.0%** |
-| **EAEC (Logit REML Sensitivity)** | | | | | | | | |
-| *Null Model (Intercept-Only)* | Intercept | 0.46302 | Reference (0.0%) | — | — | — | 25.17 (P = 0.452) | 0.7% |
-| *Univariate: Modality* | WGS, Culture vs. PCR | 0.38029 | **17.87%** | 7.412 (2) | **0.0246** | 3.706 (0.0406) | 22.76 (P = 0.475) | 0.0% |
-| *Univariate: Study Era* | Pre-2015 vs. 2015–2024 | 0.43652 | **5.72%** | 2.393 (1) | 0.1218 | 2.393 (0.1350) | 22.78 (P = 0.533) | 0.0% |
-| *Univariate: Age Strata* | All Ages vs. Pediatric | 0.47576 | **0.00%** | 0.400 (1) | 0.5270 | 0.400 (0.5332) | 24.77 (P = 0.418) | 0.0% |
-| *Full Multivariate Model* | Modality + Era + Age | **0.37462** | **19.09%** | **9.772** (4) | **0.0445** | **2.443** (0.0785) | **20.87** (P = 0.467) | **0.0%** |
-| **ETEC (random-effects)** | | | | | | | | |
-| *Null Model (Intercept-Only)* | Intercept | 0.04760 | Reference (0.0%) | — | — | — | 28.53 (P = 0.284) | 12.4% |
-| *Univariate: Modality* | WGS, Culture vs. PCR | 0.05187 | **0.00%** | 0.010 (2) | 0.9952 | 0.005 (0.9952) | 22.82 (P = 0.471) | 0.0% |
-| *Univariate: Study Era* | Pre-2015 vs. 2015–2024 | 0.04449 | **6.54%** | 2.570 (1) | 0.1089 | 2.570 (0.1220) | 25.96 (P = 0.355) | 7.6% |
-| *Univariate: Age Strata* | All Ages vs. Pediatric | 0.04153 | **12.76%** | 4.031 (1) | **0.0447** | 4.031 (0.0559) | 24.50 (P = 0.433) | 2.0% |
-| *Full Multivariate Model* | Modality + Era + Age | **0.04000** | **15.97%** | **7.806** (4) | **0.0990** | **1.951** (0.1392) | **20.73** (P = 0.476) | **0.0%** |
-| **EPEC (random-effects)** | | | | | | | | |
-| *Null Model (Intercept-Only)* | Intercept | 0.05987 | Reference (0.0%) | — | — | — | 24.23 (P = 0.506) | 0.0% |
-| *Univariate: Modality* | WGS, Culture vs. PCR | 0.06294 | **0.00%** | 0.886 (2) | 0.6422 | 0.443 (0.6476) | 22.59 (P = 0.485) | 0.0% |
-| *Univariate: Study Era* | Pre-2015 vs. 2015–2024 | 0.05654 | **5.56%** | 2.337 (1) | 0.1263 | 2.337 (0.1394) | 21.89 (P = 0.586) | 0.0% |
-| *Univariate: Age Strata* | All Ages vs. Pediatric | 0.06210 | **0.00%** | 0.149 (1) | 0.6997 | 0.149 (0.7032) | 24.08 (P = 0.457) | 0.3% |
-| *Full Multivariate Model* | Modality + Era + Age | **0.06278** | **0.00%** | **2.814** (4) | **0.5894** | **0.704** (0.5983) | **20.72** (P = 0.476) | **0.0%** |
-
-*Note:* All meta-regressions fit via Restricted Maximum Likelihood (REML). Reference categories: Conventional Multiplex PCR (modality), Contemporary 2015–2024 (era), and Pediatric $<59$ months (age strata). $\tau^2_{\text{res}}$ represents residual between-study variance; $R^2$ is the percentage of true between-study variance explained by moderators relative to the null model ($\max(0, (\tau^2_0 - \tau^2_{\text{res}})/\tau^2_0) \times 100\%$). $Q_M$ is Cochran's Wald test for moderators; $Q_E$ is the test of residual unexplained heterogeneity; $I^2_{\text{res}}$ is residual inconsistency.
-
- mapping the deployment of 12 distinct diagnostic modalities across all $k = 68$ African surveillance cohorts. Features an integrated United Nations African Subregion metadata layer (Western, Eastern, Southern, Central, and Northern Africa, alongside Multicentre Inter-Regional cohorts) and marginal modality adoption metrics. Confirms that while conventional culture is ubiquitous ($68/68$, $100.0\%$) as the primary isolation substrate, modern molecular modalities remain severely under-deployed (qPCR/TAC: $16.2\%$, WGS/NGS: $20.6\%$, cell adherence assays: $14.7\%$), explaining the pronounced between-study variance across the continental literature. **(B) Subregional prevalence dynamics and diagnostic sensitivity gradients** demonstrating the stepwise escalation in pooled DEC detection from conventional endpoint multiplex PCR ($23.5\%$) to quantitative qPCR ($39.2\%$) and whole-genome sequencing ($41.1\%$), and illustrating persistent EAEC dominance across all five UN African subregions.
-
----
-
- Sector widths and chord link ribbons are strictly proportional to verified isolate counts across African surveillance: `EAEC/ETEC` ($52.3\%$, $n = 184$), `EAEC/EPEC` ($25.5\%$, $n = 128$), `EAEC/STEC` ($11.6\%$, $n = 58$), `EAEC/DAEC` ($7.6\%$, $n = 38$), `EPEC/ETEC` ($9.2\%$, $n = 46$), `EPEC/STEC` ($5.6\%$, $n = 28$), `ETEC/STEC` ($2.4\%$, $n = 12$), and `EIEC/EAEC` ($1.6\%$, $n = 8$). Demonstrates that EAEC serves as the primary genomic crossroad and plasmid/phage donor in African enteric ecosystems. **(B) Multi-pathotype UpSet intersection matrix (`figures/Fig3_Real_UpSet_UpSetR.png`) quantifying co-infection architecture across $9,360$ African paediatric cases.** Confirms that while single-pathotype infections dominate (EAEC $n = 1,928$, EPEC $n = 1,239$, ETEC $n = 1,083$), two-way hybrid combinations involving EAEC represent the vast majority of dual infections, driven by stable conjugative plasmid persistence, with complete absence of three-way or four-way hybrid combinations.**
-
----
-
-<div style="page-break-before: always;"></div>
-
-![Figure 2: Discrete Diagnostic Modality Presence/Absence Matrix Across 68 African Diarrhoeal Surveillance Cohorts (2000–2026)](figures/supplementary/FigS18_Diagnostic_Methods_Presence_Absence_Matrix.png){width=9.8in}
-
-**Figure 2. Discrete Diagnostic Modality Presence/Absence Matrix Across 68 African Diarrhoeal Surveillance Cohorts (2000–2026).** Comprehensive chronological presence/absence matrix mapping the deployment of 12 distinct diagnostic modalities across all 68 African diarrhoea surveillance cohorts. Evaluates empirical adoption rates across conventional culture (100%), biochemical phenotyping, serotyping, colony probes, conventional PCR, multiplex PCR, quantitative qPCR/TAC (16.2%), and whole-genome sequencing (20.6%), grouped by geographical subregion and multicentre scope. Regional prevalence breakdowns and diagnostic sensitivity gradients are presented in **Supplementary Figure S1**. Illustrates pooled DEC pathotype prevalence across the five United Nations African subregions (Eastern, Central, Northern, Western, Southern Africa) and demonstrates the stepwise diagnostic sensitivity staircase from conventional endpoint PCR (23.5% EAEC) to quantitative qPCR (39.2%) and whole-genome sequencing (41.1%). mapping the deployment of 12 distinct diagnostic modalities across all $k = 68$ African surveillance cohorts. Features an integrated United Nations African Subregion metadata layer (Western, Eastern, Southern, Central, and Northern Africa, alongside Multicentre Inter-Regional cohorts) and marginal modality adoption metrics. Confirms that while conventional culture is ubiquitous ($68/68$, $100.0\%$) as the primary isolation substrate, modern molecular modalities remain severely under-deployed (qPCR/TAC: $16.2\%$, WGS/NGS: $20.6\%$, cell adherence assays: $14.7\%$), explaining the pronounced between-study variance across the continental literature. **(B) Subregional prevalence dynamics and diagnostic sensitivity gradients** demonstrating the stepwise escalation in pooled DEC detection from conventional endpoint multiplex PCR ($23.5\%$) to quantitative qPCR ($39.2\%$) and whole-genome sequencing ($41.1\%$), and illustrating persistent EAEC dominance across all five UN African subregions.**
+*[The complete multivariate meta-regression models and between-study variance estimates are presented in **Supplementary Table S5** and the online data repository.]*
 
 
----
 
 ### 3.4 The DEC Carriage Paradox: Single-Arm Case Prevalence vs. Matched Case-Control Odds Ratios (Part A)
 
@@ -377,61 +340,9 @@ Funnel plot diagnostics (**Supplementary Figure S9**), Egger's weighted regressi
 
  Includes the first resolved African DAEC antimicrobial susceptibility profile ($n = 80$, showing $91.3\%$ ampicillin and $82.5\%$ trimethoprim-sulfamethoxazole resistance), aligned with WHO AWaRe classification (Access, Watch, Reserve) and multidrug resistance (MDR; $\ge 3$ classes) bars exceeding $80\%$ across all pathotypes. **(B) 25-Year longitudinal resistance escalation trajectory (2000–2026) (`figures/Fig5_Africa_AMR_By_Pathotype_Heatmap_and_Forest.png`, Panel B)** documenting the 6.8-fold surge in extended-spectrum beta-lactamase (ESBL; $bla_{\text{CTX-M-15}}$) production ($6.2\% \to 42.4\%$, $P < 0.0001$) and fluoroquinolone resistance ($5.8\% \to 39.5\%$, $P < 0.0001$) across African DEC isolates. **(C) Paired developmental age-ontogeny slopegraph (`figures/Fig5_Host_Age_Ontogeny_and_Funnel_Diagnostics.png`, Panel A)** demonstrating within-cohort age transitions in DAEC (`daaC` / `afa/draBC`) and typical EPEC (`bfpA`) across global surveillance cohorts, establishing the post-weaning pathogenic surge in DAEC (pooled $\text{OR } 0.91 \to 2.21$, $+143\%$, $P = 1.8 \times 10^{-10}$) versus the early-infancy virulence concentration in tEPEC (pooled $\text{OR } 2.82 \to 1.89$, $-33\%$, $P = 2.3 \times 10^{-6}$). **(D) Contour-enhanced publication bias funnel plot and radial Galbraith precision plot (`figures/Fig5_Host_Age_Ontogeny_and_Funnel_Diagnostics.png`, Panels B–C)** confirming absence of small-study publication bias across primary virulence loci ($89.4\%$ of cohorts falling strictly within the $\pm 2\,\text{SE}$ homogeneity corridor).**
 
-**Supplementary Table S8. Summary of global and African case-control cohorts included in the Part B virulence locus meta-analysis (k = 30 cohort entries across 5 continents, 154 locus evaluations).**
+*[A comprehensive summary of all 30 global and African case-control cohorts included in Part B is provided in **Supplementary Table S8**.]*
 
-| Study Entry (Author, Year) | Country (Region) | Age Group | Diagnostic Platform | Cases n / Controls n | Pathotype & Virulence Loci Evaluated |
-| :--- | :--- | :--- | :--- | :---: | :--- |
-| **Boisen et al. (2012)** | Mali (Western Africa) | 0–59m | Multiplex PCR & CGH | 60 / 61 | EAEC (14 loci: `sepA, aggR, aatA, aap, aaiC, pic, sat, pet, astA, aggA, aafA, agg3A, agg4A, AAF_any`) |
-| **Boisen et al. (2020)** | Mali, Mozambique, Bangladesh (Africa/Asia) | 0–59m | WGS | 57 / 40 | EAEC (15 loci: `sepA, CS22, aggR, aatA, aap, aaiC, aggA, aafA, agg3A, agg4A, AAF_any, pic, sat, irp2, fyuA`) |
-| **Okeke et al. (2000)** | Nigeria (Western Africa) | 0–59m | Probe & PCR | 81 / 50 | EAEC (11 loci: `aafA, aggA, AAF_any, aggR, aatA, aap, pic, pet, astA, irp2, fyuA`) |
-| **Lima et al. (2013)** | Brazil (Latin America) | 0–59m | Multiplex PCR | 75 / 91 | EAEC (15 loci: `pet, aafA, agg3A, aggA, AAF_any, aaiC, aatA, aggR, aap, pic, sat, astA, sepA, irp2, fyuA`) |
-| **Havt et al. (2017)** | Brazil (Latin America) | 0–59m | Multiplex PCR & qPCR | 100 / 100 | EAEC (8 loci: `aatA, aaiC, aggR, aap, pic, sat, aafA, sepA`) |
-| **Jenkins et al. (2007)** | United Kingdom (Europe) | All Ages | Multiplex PCR | 70 / 69 | EAEC (10 loci: `aafA, aggR, aatA, aap, pic, pet, sat, astA, irp2, fyuA`) |
-| **Mohamed et al. (2007)** | Mexico (Latin America) | All Ages | Multiplex PCR | 72 / 34 | EAEC (11 loci: `aggR, aatA, aap, aafA, aggA, agg3A, AAF_any, pet, sat, pic, astA`) |
-| **Pabst et al. (2003)** | Switzerland (Europe) | 0–16y | PCR | 187 / 137 | EAEC (2 loci: `aatA, aggR`) |
-| **Sarantuya et al. (2004)** | Mongolia (East Asia) | 0–59m | Multiplex PCR | 235 / 134 | EAEC (3 loci: `aggR, aatA, astA`) |
-| **Robins-Browne et al. (2004)** | Australia (Oceania) | All Ages | Multiplex PCR & Probe | 696 / 489 | EAEC (3 loci: `aatA, aggR, astA`) |
-| **Estrada-Garcia et al. (2009)** | Mexico (Latin America) | 0–24m | Multiplex PCR | 142 / 142 | EAEC (3 loci: `aatA, aggR, astA`) |
-| **Ochoa et al. (2009)** | Peru (Latin America) | 0–24m | Multiplex Real-Time PCR | 517 / 517 | EAEC (2 loci: `aggR, aatA`) |
-| **Girón et al. (1991)** | Mexico (Latin America) | 0–59m | DNA Probe | 283 / 283 | DAEC (1 loci: `daaC_all`) |
-| **Girón et al. (1991) [<12m]** | Mexico (Latin America) | <12m | DNA Probe | 128 / 128 | DAEC (1 loci: `daaC_infants`) |
-| **Girón et al. (1991) [>=12m]** | Mexico (Latin America) | >=12m | DNA Probe | 155 / 155 | DAEC (1 loci: `daaC_toddlers`) |
-| **Jallat et al. (1993)** | France (Europe) | 0–59m | DNA Probe | 358 / 110 | DAEC (1 loci: `daaC_all`) |
-| **Jallat et al. (1993) [>=12m]** | France (Europe) | >=12m | DNA Probe | 210 / 75 | DAEC (1 loci: `daaC_toddlers`) |
-| **Levine et al. (1993)** | Chile (Latin America) | 0–59m | DNA Probe | 510 / 510 | DAEC (1 loci: `daaC_all`) |
-| **Levine et al. (1993) [<12m]** | Chile (Latin America) | <12m | DNA Probe | 190 / 190 | DAEC (1 loci: `daaC_infants`) |
-| **Levine et al. (1993) [>=12m]** | Chile (Latin America) | >=12m | DNA Probe | 320 / 320 | DAEC (1 loci: `daaC_toddlers`) |
-| **Scaletsky et al. (2002)** | Brazil (Latin America) | 0–24m | DNA Probe | 647 / 419 | DAEC (1 loci: `daaC_all`) |
-| **Scaletsky et al. (2002) [<12m]** | Brazil (Latin America) | <12m | DNA Probe | 382 / 239 | DAEC (1 loci: `daaC_infants`) |
-| **Scaletsky et al. (2002) [>=12m]** | Brazil (Latin America) | >=12m | DNA Probe | 265 / 180 | DAEC (1 loci: `daaC_toddlers`) |
-| **Spano et al. (2008)** | Brazil (Latin America) | 0–60m | PCR | 218 / 86 | DAEC (2 loci: `daaC_all, sat_DAEC`) |
-| **Spano et al. (2008) [>=12m]** | Brazil (Latin America) | >=12m | PCR | 132 / 54 | DAEC (1 loci: `daaC_toddlers`) |
-| **Ochoa et al. (2009) [<12m]** | Peru (Latin America) | <12m | Multiplex Real-Time PCR | 165 / 165 | DAEC (1 loci: `daaC_infants`) |
-| **Ochoa et al. (2009) [>=12m]** | Peru (Latin America) | >=12m | Multiplex Real-Time PCR | 352 / 352 | DAEC (1 loci: `daaC_toddlers`) |
-| **Mansan-Almeida et al. (2013)** | Brazil (Latin America) | 0–59m | PCR | 180 / 120 | DAEC (3 loci: `daaC_all, afaE, sat_DAEC`) |
-| **Garrine et al. (2020)** | Mozambique (Southern Africa) | 0–59m | Multiplex PCR | 588 / 591 | DAEC (1 loci: `daaC_all`) |
-| **Garrine et al. (2020) [<12m]** | Mozambique (Southern Africa) | <12m | Multiplex PCR | 240 / 245 | DAEC (1 loci: `daaC_infants`) |
-| **Garrine et al. (2020) [>=12m]** | Mozambique (Southern Africa) | >=12m | Multiplex PCR | 348 / 346 | DAEC (1 loci: `daaC_toddlers`) |
-| **Kotloff et al. (2013) [GEMS]** | Multi-Country (Africa/Asia) | 0–59m | Multiplex PCR | 9,439 / 13,129 | EPEC (1 loci: `eae_unstratified`) |
-| **Kotloff et al. (2013) [<12m]** | Multi-Country (Africa/Asia) | <12m | Multiplex PCR | 4,026 / 5,612 | EPEC (1 loci: `bfpA_infants`) |
-| **Kotloff et al. (2013) [>=12m]** | Multi-Country (Africa/Asia) | >=12m | Multiplex PCR | 5,413 / 7,517 | EPEC (1 loci: `bfpA_toddlers`) |
-| **Ochieng et al. (2023) [VIDA]** | The Gambia, Mali, Kenya (Western/Eastern Africa) | 0–59m | Quantitative TAC | 480 / 462 | EPEC (1 loci: `eae_unstratified`) |
-| **Ochieng et al. (2023) [<12m]** | The Gambia, Mali, Kenya (Western/Eastern Africa) | <12m | Quantitative TAC | 220 / 215 | EPEC (1 loci: `bfpA_infants`) |
-| **Ochieng et al. (2023) [>=12m]** | The Gambia, Mali, Kenya (Western/Eastern Africa) | >=12m | Quantitative TAC | 260 / 247 | EPEC (1 loci: `bfpA_toddlers`) |
-| **Hazen et al. (2016)** | Multi-Country (Africa/Asia) | 0–59m | WGS | 43 / 27 | EPEC (4 loci: `bfpA_infants, lifA_efa1, nleB, nleE`) |
-| **Afset et al. (2004)** | Norway (Europe) | 0–59m | PCR | 251 / 210 | EPEC (1 loci: `eae_unstratified`) |
-| **Afset et al. (2006)** | Norway (Europe) | 0–59m | DNA Microarray & PCR | 37 / 20 | EPEC (3 loci: `lifA_efa1, nleB, nleE`) |
-| **Scaletsky et al. (2009)** | Brazil (Latin America) | 0–59m | PCR & Hybridization | 91 / 35 | EPEC (4 loci: `lifA_efa1, nleB, nleE, astA_aEPEC`) |
-| **Dulguer et al. (2003)** | Brazil (Latin America) | 0–59m | PCR & Hybridization | 49 / 30 | EPEC (1 loci: `astA_aEPEC`) |
-| **Robins-Browne et al. (2004)** | Australia (Oceania) | All Ages | Multiplex PCR & Probe | 89 / 11 | EPEC (2 loci: `lifA_efa1, astA_aEPEC`) |
-| **Jenkins et al. (2006)** | United Kingdom (Europe) | All Ages | Multiplex PCR | 75 / 50 | EAEC (3 loci: `agg4A, CS22, aaiC`) |
-| **Patzi-Vargas et al. (2015)** | Mexico (Latin America) | 0–59m | Multiplex PCR | 68 / 54 | DAEC, EAEC (4 loci: `sepA, CS22, sat_DAEC, afaE`) |
-| **Blanc-Potard et al. (2002)** | France, Brazil (Europe/Latin America) | 0–59m | PCR | 64 / 45 | DAEC (1 loci: `afaE`) |
-| **Akinlabi et al. (2023a)** | Nigeria (Western Africa) | 0–59m | WGS | 120 / 240 | EAEC, EPEC (4 loci: `aggR, aatA, aaiC, eae_unstratified`) |
-| **Akinlabi et al. (2023a)** | Nigeria (Western Africa) | <12m | WGS | 60 / 120 | EPEC (1 loci: `bfpA_infants`) |
-| **Akinlabi et al. (2023a)** | Nigeria (Western Africa) | >=12m | WGS | 60 / 120 | EPEC (1 loci: `bfpA_toddlers`) |
 
----
 
 ### 3.9 GRADE Evidence Profile and Summary of Findings for DEC Pathotypes and Virulence Loci
 To synthesize the clinical, microbiological, and public health strength of evidence generated across Part A and Part B, we conducted a formal Grading of Recommendations Assessment, Development and Evaluation (GRADE) evaluation (**Table 4**). Rather than presenting repetitive unadjusted forest plots, this multi-domain evidence profile establishes a transparent, objective hierarchy of evidence certainty that reconciles single-arm carriage with genuine etiological pathogenicity across all DEC pathotypes and accessory loci.
