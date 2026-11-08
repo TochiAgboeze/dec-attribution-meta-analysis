@@ -1,0 +1,157 @@
+study_id,author_year,country,region,pathotype,locus,cases_pos,cases_total,ctrl_pos,ctrl_total,age_strata,modality,doi
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,sepA,21,60,5,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aggR,44,60,46,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aatA,38,60,39,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aap,35,60,37,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aaiC,24,60,22,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,pic,12,60,11,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,sat,19,60,14,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,pet,7,60,5,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,astA,25,60,27,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aggA,11,60,12,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aafA,9,60,4,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,agg3A,8,60,4,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,agg4A,5,60,3,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,AAF_any,33,60,23,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,sepA,27,57,7,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,CS22,9,57,2,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aggR,45,57,36,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aatA,39,57,30,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aap,36,57,27,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aaiC,28,57,18,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aggA,11,57,9,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aafA,12,57,4,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,agg3A,10,57,3,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,agg4A,4,57,3,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,AAF_any,44,57,23,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,pic,11,57,7,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,sat,16,57,8,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,irp2,38,57,27,40,0–59m,WGS,10.1371/journal.pntd.0008613
+BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,fyuA,38,57,27,40,0–59m,WGS,10.1371/journal.pntd.0008613
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aafA,19,81,4,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aggA,16,81,11,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,AAF_any,35,81,15,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aggR,34,81,21,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aatA,29,81,18,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aap,31,81,19,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,pic,13,81,8,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,pet,11,81,4,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,astA,28,81,18,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,irp2,42,81,24,50,0–59m,Probe & PCR,10.1086/315204
+OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,fyuA,42,81,24,50,0–59m,Probe & PCR,10.1086/315204
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,pet,12,75,4,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aafA,15,75,7,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,agg3A,4,75,1,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aggA,8,75,7,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,AAF_any,27,75,15,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aaiC,21,75,16,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aatA,31,75,33,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aggR,28,75,30,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aap,29,75,32,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,pic,18,75,20,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,sat,14,75,9,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,astA,20,75,22,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,sepA,11,75,3,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,irp2,26,75,28,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,fyuA,26,75,28,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aatA,38,100,26,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aaiC,22,100,11,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aggR,31,100,24,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aap,34,100,28,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,pic,19,100,21,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,sat,16,100,10,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aafA,11,100,4,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,sepA,14,100,4,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aafA,16,70,5,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aggR,58,70,56,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aatA,62,70,60,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aap,55,70,53,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,pic,14,70,12,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,pet,12,70,7,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,sat,22,70,14,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,astA,27,70,25,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,irp2,48,70,45,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,fyuA,48,70,45,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aggR,58,72,25,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aatA,60,72,26,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aap,52,72,23,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aafA,18,72,3,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aggA,19,72,8,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,agg3A,11,72,2,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,AAF_any,48,72,13,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,pet,15,72,3,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,sat,17,72,4,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,pic,15,72,7,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,astA,31,72,15,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
+PABST_2003,Pabst et al. (2003),Switzerland,Europe,EAEC,aatA,19,187,3,137,0–16y,PCR,10.1128/JCM.41.6.2289-2293.2003
+PABST_2003,Pabst et al. (2003),Switzerland,Europe,EAEC,aggR,17,187,3,137,0–16y,PCR,10.1128/JCM.41.6.2289-2293.2003
+SARANTUYA_2004,Sarantuya et al. (2004),Mongolia,East Asia,EAEC,aggR,36,235,8,134,0–59m,Multiplex PCR,10.1128/JCM.42.1.133-139.2004
+SARANTUYA_2004,Sarantuya et al. (2004),Mongolia,East Asia,EAEC,aatA,38,235,9,134,0–59m,Multiplex PCR,10.1128/JCM.42.1.133-139.2004
+SARANTUYA_2004,Sarantuya et al. (2004),Mongolia,East Asia,EAEC,astA,45,235,22,134,0–59m,Multiplex PCR,10.1128/JCM.42.1.133-139.2004
+ROBINS_2004,Robins-Browne et al. (2004),Australia,Oceania,EAEC,aatA,23,696,15,489,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
+ROBINS_2004,Robins-Browne et al. (2004),Australia,Oceania,EAEC,aggR,21,696,14,489,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
+ROBINS_2004,Robins-Browne et al. (2004),Australia,Oceania,EAEC,astA,48,696,32,489,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
+ESTRADA_2009,Estrada-Garcia et al. (2009),Mexico,Latin America,EAEC,aatA,19,142,16,142,0–24m,Multiplex PCR,10.1128/JCM.01166-08
+ESTRADA_2009,Estrada-Garcia et al. (2009),Mexico,Latin America,EAEC,aggR,17,142,15,142,0–24m,Multiplex PCR,10.1128/JCM.01166-08
+ESTRADA_2009,Estrada-Garcia et al. (2009),Mexico,Latin America,EAEC,astA,24,142,22,142,0–24m,Multiplex PCR,10.1128/JCM.01166-08
+OCHOA_2009,Ochoa et al. (2009),Peru,Latin America,EAEC,aggR,78,517,76,517,0–24m,Multiplex Real-Time PCR,10.1086/648069
+OCHOA_2009,Ochoa et al. (2009),Peru,Latin America,EAEC,aatA,82,517,79,517,0–24m,Multiplex Real-Time PCR,10.1086/648069
+GIRON_1991,Girón et al. (1991),Mexico,Latin America,DAEC,daaC_all,58,283,37,283,0–59m,DNA Probe,10.1093/infdis/163.3.507
+GIRON_1991_INF,Girón et al. (1991) [<12m],Mexico,Latin America,DAEC,daaC_infants,16,128,16,128,<12m,DNA Probe,10.1093/infdis/163.3.507
+GIRON_1991_OLD,Girón et al. (1991) [>=12m],Mexico,Latin America,DAEC,daaC_toddlers,42,155,21,155,>=12m,DNA Probe,10.1093/infdis/163.3.507
+JALLAT_1993,Jallat et al. (1993),France,Europe,DAEC,daaC_all,52,358,5,110,0–59m,DNA Probe,10.1128/jcm.31.8.2031-2037.1993
+JALLAT_1993_OLD,Jallat et al. (1993) [>=12m],France,Europe,DAEC,daaC_toddlers,38,210,3,75,>=12m,DNA Probe,10.1128/jcm.31.8.2031-2037.1993
+LEVINE_1993,Levine et al. (1993),Chile,Latin America,DAEC,daaC_all,92,510,65,510,0–59m,DNA Probe,10.1093/oxfordjournals.aje.a116788
+LEVINE_1993_INF,Levine et al. (1993) [<12m],Chile,Latin America,DAEC,daaC_infants,28,190,31,190,<12m,DNA Probe,10.1093/oxfordjournals.aje.a116788
+LEVINE_1993_OLD,Levine et al. (1993) [>=12m],Chile,Latin America,DAEC,daaC_toddlers,64,320,34,320,>=12m,DNA Probe,10.1093/oxfordjournals.aje.a116788
+SCALETSKY_2002,Scaletsky et al. (2002),Brazil,Latin America,DAEC,daaC_all,118,647,64,419,0–24m,DNA Probe,10.1128/JCM.40.2.645-648.2002
+SCALETSKY_2002_INF,Scaletsky et al. (2002) [<12m],Brazil,Latin America,DAEC,daaC_infants,62,382,40,239,<12m,DNA Probe,10.1128/JCM.40.2.645-648.2002
+SCALETSKY_2002_OLD,Scaletsky et al. (2002) [>=12m],Brazil,Latin America,DAEC,daaC_toddlers,56,265,24,180,>=12m,DNA Probe,10.1128/JCM.40.2.645-648.2002
+SPANO_2008,Spano et al. (2008),Brazil,Latin America,DAEC,daaC_all,40,218,7,86,0–60m,PCR,10.1099/jmm.0.47660-0
+SPANO_2008_OLD,Spano et al. (2008) [>=12m],Brazil,Latin America,DAEC,daaC_toddlers,29,132,4,54,>=12m,PCR,10.1099/jmm.0.47660-0
+SPANO_2008,Spano et al. (2008),Brazil,Latin America,DAEC,sat_DAEC,28,218,4,86,0–60m,PCR,10.1099/jmm.0.47660-0
+OCHOA_2009_INF,Ochoa et al. (2009) [<12m],Peru,Latin America,DAEC,daaC_infants,8,165,11,165,<12m,Multiplex Real-Time PCR,10.1086/648069
+OCHOA_2009_OLD,Ochoa et al. (2009) [>=12m],Peru,Latin America,DAEC,daaC_toddlers,31,352,14,352,>=12m,Multiplex Real-Time PCR,10.1086/648069
+MANSAN_2013,Mansan-Almeida et al. (2013),Brazil,Latin America,DAEC,daaC_all,35,180,14,120,0–59m,PCR,10.1186/1471-2180-13-22
+MANSAN_2013,Mansan-Almeida et al. (2013),Brazil,Latin America,DAEC,afaE,24,180,7,120,0–59m,PCR,10.1186/1471-2180-13-22
+MANSAN_2013,Mansan-Almeida et al. (2013),Brazil,Latin America,DAEC,sat_DAEC,21,180,5,120,0–59m,PCR,10.1186/1471-2180-13-22
+GARRINE_2020,Garrine et al. (2020),Mozambique,Southern Africa,DAEC,daaC_all,24,588,19,591,0–59m,Multiplex PCR,10.1186/s12879-020-05380-1
+GARRINE_2020_INF,Garrine et al. (2020) [<12m],Mozambique,Southern Africa,DAEC,daaC_infants,9,240,11,245,<12m,Multiplex PCR,10.1186/s12879-020-05380-1
+GARRINE_2020_OLD,Garrine et al. (2020) [>=12m],Mozambique,Southern Africa,DAEC,daaC_toddlers,15,348,8,346,>=12m,Multiplex PCR,10.1186/s12879-020-05380-1
+KOTLOFF_2013,Kotloff et al. (2013) [GEMS],Multi-Country (Africa/Asia),Africa/Asia,EPEC,eae_unstratified,1255,9439,1588,13129,0–59m,Multiplex PCR,10.1016/S0140-6736(13)60844-2
+KOTLOFF_2013_INF,Kotloff et al. (2013) [<12m],Multi-Country (Africa/Asia),Africa/Asia,EPEC,bfpA_infants,198,4026,102,5612,<12m,Multiplex PCR,10.1016/S0140-6736(13)60844-2
+KOTLOFF_2013_OLD,Kotloff et al. (2013) [>=12m],Multi-Country (Africa/Asia),Africa/Asia,EPEC,bfpA_toddlers,113,5413,82,7517,>=12m,Multiplex PCR,10.1016/S0140-6736(13)60844-2
+OCHIENG_2023_EPEC,Ochieng et al. (2023) [VIDA],"The Gambia, Mali, Kenya",Western/Eastern Africa,EPEC,eae_unstratified,112,480,126,462,0–59m,Quantitative TAC,10.1093/cid/ciad035
+OCHIENG_2023_INF,Ochieng et al. (2023) [<12m],"The Gambia, Mali, Kenya",Western/Eastern Africa,EPEC,bfpA_infants,36,220,14,215,<12m,Quantitative TAC,10.1093/cid/ciad035
+OCHIENG_2023_OLD,Ochieng et al. (2023) [>=12m],"The Gambia, Mali, Kenya",Western/Eastern Africa,EPEC,bfpA_toddlers,20,260,12,247,>=12m,Quantitative TAC,10.1093/cid/ciad035
+HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,bfpA_infants,24,43,8,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
+HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,lifA_efa1,16,43,2,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
+HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,nleB,19,43,4,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
+HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,nleE,18,43,4,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
+AFSET_2004,Afset et al. (2004),Norway,Europe,EPEC,eae_unstratified,37,251,21,210,0–59m,PCR,10.1099/jmm.0.45719-0
+AFSET_2006,Afset et al. (2006),Norway,Europe,EPEC,lifA_efa1,18,37,1,20,0–59m,DNA Microarray & PCR,10.1128/JCM.00429-06
+AFSET_2006,Afset et al. (2006),Norway,Europe,EPEC,nleB,20,37,2,20,0–59m,DNA Microarray & PCR,10.1128/JCM.00429-06
+AFSET_2006,Afset et al. (2006),Norway,Europe,EPEC,nleE,19,37,2,20,0–59m,DNA Microarray & PCR,10.1128/JCM.00429-06
+SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,lifA_efa1,25,91,3,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
+SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,nleB,28,91,5,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
+SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,nleE,26,91,5,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
+SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,astA_aEPEC,24,91,6,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
+DULGUER_2003,Dulguer et al. (2003),Brazil,Latin America,EPEC,astA_aEPEC,24,49,5,30,0–59m,PCR & Hybridization,10.1086/379666
+ROBINS_2004_EPEC,Robins-Browne et al. (2004),Australia,Oceania,EPEC,lifA_efa1,26,89,1,11,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
+ROBINS_2004_EPEC,Robins-Browne et al. (2004),Australia,Oceania,EPEC,astA_aEPEC,29,89,2,11,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
+JENKINS_2006,Jenkins et al. (2006),United Kingdom,Europe,EAEC,agg4A,7,75,2,50,All Ages,Multiplex PCR,10.1016/j.diagmicrobio.2005.10.019
+JENKINS_2006,Jenkins et al. (2006),United Kingdom,Europe,EAEC,CS22,8,75,2,50,All Ages,Multiplex PCR,10.1016/j.diagmicrobio.2005.10.019
+JENKINS_2006,Jenkins et al. (2006),United Kingdom,Europe,EAEC,aaiC,39,75,19,50,All Ages,Multiplex PCR,10.1016/j.diagmicrobio.2005.10.019
+PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,EAEC,sepA,18,68,4,54,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
+PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,EAEC,CS22,10,68,2,54,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
+PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,DAEC,sat_DAEC,16,52,4,38,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
+PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,DAEC,afaE,19,52,5,38,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
+BLANC_2002,Blanc-Potard et al. (2002),"France, Brazil",Europe/Latin America,DAEC,afaE,22,64,6,45,0–59m,PCR,10.1128/IAI.70.6.3102-3110.2002
+AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EAEC,aggR,38,120,72,240,0–59m,WGS,10.1371/journal.pgph.0001539
+AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EAEC,aatA,34,120,66,240,0–59m,WGS,10.1371/journal.pgph.0001539
+AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EAEC,aaiC,28,120,48,240,0–59m,WGS,10.1371/journal.pgph.0001539
+AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EPEC,eae_unstratified,15,120,28,240,0–59m,WGS,10.1371/journal.pgph.0001539
+AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EPEC,bfpA_infants,4,60,2,120,<12m,WGS,10.1371/journal.pgph.0001539
+AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EPEC,bfpA_toddlers,2,60,2,120,>=12m,WGS,10.1371/journal.pgph.0001539
+
+AKINLABI_2023B,Akinlabi et al. (2023b),Nigeria,Western Africa,EAEC,pic,22,120,68,377,0–59m,Multiplex PCR & WGS,10.4269/ajtmh.22-0618
