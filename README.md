@@ -1,10 +1,10 @@
-# Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa & Globally: A Systematic Review and Hierarchical Meta-Analysis
+# Diarrhoeagenic *Escherichia coli* Disease Attribution and Asymptomatic Colonization in Africa and Globally: A Systematic Review and Hierarchical Meta-Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Target Journal](https://img.shields.io/badge/Target%20Journal-PLOS%20Neglected%20Tropical%20Diseases-orange.svg)](https://journals.plos.org/plosntds/)
 
 This repository hosts the official submission package and supplementary repository for the manuscript:
-**"Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa and Globally: A Systematic Review and Hierarchical Meta-Analysis"**
+**"Diarrhoeagenic *Escherichia coli* Disease Attribution and Asymptomatic Colonization in Africa and Globally: A Systematic Review and Hierarchical Meta-Analysis"**
 
 ---
 
