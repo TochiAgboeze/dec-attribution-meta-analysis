@@ -13,13 +13,14 @@ This repository hosts the official submission package and supplementary reposito
 ```
 dec-attribution-meta-analysis/
 ├── manuscript/                    # Core manuscript submission files
-│   ├── PLOS_NTD_DEC_Meta_Analysis_Manuscript.docx  # Publication Word document
-│   ├── PLOS_NTD_DEC_Meta_Analysis_Manuscript.pdf   # Compiled PDF (3 Figures, 5 Tables)
+│   ├── PLOS_NTD_DEC_Meta_Analysis_Manuscript.docx  # Publication Word document (Landscape formatted tables)
+│   ├── PLOS_NTD_DEC_Meta_Analysis_Manuscript.pdf   # Compiled PDF (4 Main Figures, 5 Main Tables)
 │   └── PLOS_NTD_DEC_Meta_Analysis_Manuscript.md    # Source Markdown
-├── figures/                       # Main Figures (Exactly 3 Figures, 300 DPI)
+├── figures/                       # Main Manuscript Figures (Exactly 4 Figures, 300 DPI)
 │   ├── Figure_1_PRISMA2020_Flowchart.png           # Dual-track PRISMA 2020 flow diagram
 │   ├── Figure_2_Diagnostic_Modality_Matrix.png      # 68-cohort diagnostic deployment matrix
-│   └── Figure_3_Virulome_Locus_Attribution.png      # Balanced bubble matrix & REML forest plot
+│   ├── Figure_3_Virulome_Locus_Attribution.png      # Multi-attribute virulome bubble matrix
+│   └── Figure_4_Virulome_Prevalence_Boxplots.png    # Case vs. control carrier frequency boxplots (Africa vs. Global)
 ├── tables/                        # Main Tables (Standalone Excel & CSV)
 │   ├── Table_1_African_Cohort_Characteristics.xlsx
 │   ├── Table_1B_Two_Way_Hybrid_Pathotypes.xlsx
@@ -28,26 +29,9 @@ dec-attribution-meta-analysis/
 │   └── Table_4_GRADE_Summary_of_Findings.xlsx
 ├── supplementary/                 # Supplementary Information Suite
 │   ├── figures/                   # Supplementary Figures S1 through S22 (300 DPI)
-│   │   ├── Figure_S01_African_EAEC_Prevalence_Forest.png
-│   │   ├── ...
-│   │   └── Figure_S22_African_DEC_AMR_Spectrum_and_Escalation.png
-│   ├── tables/                    # Supplementary Tables in Excel (.xlsx)
-│   │   ├── Master_Supplementary_Dataset.xlsx       # Multi-tab indexed master workbook
-│   │   ├── Supplementary_Table_S1.xlsx             # PRISMA 2020 Checklist
-│   │   ├── Supplementary_Table_S2.xlsx             # Search Strategies (6 Databases)
-│   │   ├── Supplementary_Table_S3.xlsx             # Primary African Cohorts (k=28, N=15,750)
-│   │   ├── Supplementary_Table_S4.xlsx             # Quality Appraisal (NOS & JBI Scores)
-│   │   ├── Supplementary_Table_S5.xlsx             # Multivariate Meta-Regression Models
-│   │   ├── Supplementary_Table_S6.xlsx             # Part B 2x2 Contingency Tables (154 Strata)
-│   │   ├── Supplementary_Table_S7.xlsx             # Subgroup & Sensitivity Analyses
-│   │   ├── Supplementary_Table_S8.xlsx             # Global & African AMR Profiles
-│   │   ├── Supplementary_Table_S9.xlsx             # GRADE Certainty Assessment
-│   │   └── Supplementary_Table_S10.xlsx            # Comparative Methodological Architecture
-│   └── document/                  # Supplementary Information Document
-│       ├── Supplementary_Information.docx
-│       ├── Supplementary_Information.pdf
-│       └── Supplementary_Information.md
-├── data/                          # Raw and Curated Datasets
+│   ├── tables/                    # Master Excel Workbook + Tables S1 through S10
+│   └── document/                  # Supplementary Information Document (.docx, .pdf, .md)
+├── data/                          # Underlying Datasets
 │   ├── Master_Supplementary_Dataset.xlsx           # Complete Multi-Tab Excel Workbook
 │   ├── part_a_african_cohorts.csv                  # African Surveillance Cohort Data (k=28, N=15,750)
 │   └── part_b_global_virulence_loci.csv            # Global Virulome Contingency Data (154 Strata)
@@ -62,7 +46,8 @@ dec-attribution-meta-analysis/
 ### Main Figures:
 1. **Figure 1:** PRISMA 2020 Flow Diagram of Included Studies.
 2. **Figure 2:** Discrete Diagnostic Modality Presence/Absence Matrix Across 68 African Diarrhoeal Surveillance Cohorts.
-3. **Figure 3:** Global and African DEC Virulome Dissection and Locus-Level Disease Attribution.
+3. **Figure 3:** Multi-Attribute DEC Virulome Bubble Matrix Across Global and African Surveillance Cohorts.
+4. **Figure 4:** Comparative Carrier Frequency Boxplots of DEC Virulence Determinants in African vs. Global Cohorts.
 
 ### Main Tables:
 1. **Table 1:** Primary African Cohort Characteristics & Diagnostic Modalities ($k = 28, N = 15,750$).
