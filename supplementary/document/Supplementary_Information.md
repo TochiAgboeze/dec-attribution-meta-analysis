@@ -1,6 +1,6 @@
 # Supplementary Information
 
-## Resolving the Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa and Globally: A Two-Part PRISMA 2020 Systematic Review and Meta-Analysis of Pathotypes, Diagnostic Platforms, Hybrid Lineages, and Virulence Loci
+## Resolving the Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa and Globally: A PRISMA 2020 Systematic Review and Hierarchical and Meta-Analysis of Pathotypes, Diagnostic Platforms, Hybrid Lineages, and Virulence Loci
 
 **Target Journal:** *PLOS Neglected Tropical Diseases* (*PLOS NTDs*) / *PLOS Global Public Health*
 
@@ -37,14 +37,14 @@
 
 - **S1 Table:** PRISMA 2020 27-Item Checklist for Systematic Reviews and Meta-Analyses.
 - **S2 Table:** Comprehensive Electronic Database Search Strategies and Boolean Syntax across 6 Bibliographic Databases.
-- **S3 Table:** Methodological, Geographic, Clinical, and Diagnostic Attributes of Primary African DEC Cohorts Included in Part A ($k = 28$ primary cohorts, $N = 15,750$).
-- **S4 Table:** Methodological Quality and Risk of Bias Evaluation Across Included Part A Cohorts (Newcastle–Ottawa Scale 9-Star Breakdown for Case-Control Studies and JBI 9-Item Appraisal for Cross-Sectional / Genomic Surveys).
+- **S3 Table:** Methodological, Geographic, Clinical, and Diagnostic Attributes of Primary African DEC Cohorts Included in the surveillance synthesis ($k = 28$ primary cohorts, $N = 15,750$).
+- **S4 Table:** Methodological Quality and Risk of Bias Evaluation Across Included the surveillance synthesis Cohorts (Newcastle–Ottawa Scale 9-Star Breakdown for Case-Control Studies and JBI 9-Item Appraisal for Cross-Sectional / Genomic Surveys).
 - **S5 Table:** Univariate and Multivariate Meta-Regression Model Parameters Partitioning Between-Study Variance ($R^2$, Omnibus $Q_M$, Knapp–Hartung Adjusted $F$-Statistics, Residual $\tau^2_{\text{res}}$ and $I^2_{\text{res}}$) Across African DEC Pathotypes.
-- **S6 Table:** Complete Locus-Level $2 \times 2$ Contingency Tables, Haldane–Anscombe Continuity-Corrected Odds Ratios, and Standard Errors Across 29 Virulence Determinants in Part B ($k = 30$ cohort entries, $154$ locus strata).
+- **S6 Table:** Complete Locus-Level $2 \times 2$ Contingency Tables, Haldane–Anscombe Continuity-Corrected Odds Ratios, and Standard Errors Across 29 Virulence Determinants in the virulome synthesis ($k = 30$ cohort entries, $154$ locus strata).
 - **S7 Table:** Subgroup Meta-Analysis of Virulence Loci Stratified by Diagnostic Platform (PCR vs. qPCR/TAC vs. WGS), Age Strata, and Continental Region (Africa vs. Other Global Settings).
 - **S8 Table:** Comprehensive Phenotypic Antimicrobial Susceptibility Profiles and Resistance Rates (%) Across African DEC Pathotypes, Including the Resolved African DAEC AST Profile ($n = 80$) and WHO AWaRe Classification.
 - **S9 Table:** Full GRADE Evidence Profile and Assessment of Certainty Matrix Across All Evaluated DEC Pathotypes and Accessory Virulence Loci.
-- **S10 Table:** Comparative Structural and Methodological Framework Contrasting the Present Dual-Track Systematic Synthesis Against Historical Unadjusted Enteric Reviews.
+- **S10 Table:** Comparative Structural and Methodological Framework Contrasting the Present Hierarchical Systematic Synthesis Against Historical Unadjusted Enteric Reviews.
 
 ---
 
@@ -85,7 +85,7 @@
 ### S4 Fig
 ![Supplementary Figure S4](figures/supplementary/FigS4_EAEC_Locus_Level_Forest_Plots.png)
 
-**S4 Fig.** Multi-attribute virulome bubble matrix of high-attribution EAEC virulence determinants (Part B).**
+**S4 Fig.** Multi-attribute virulome bubble matrix of high-attribution EAEC virulence determinants (virulome analysis).**
 - **Panel A (Virulome Bubble Matrix):** Bubble matrix mapping 17 EAEC loci across 15 global and African cohorts grouped by geographic region (Western Africa, North Africa/Multi-site, Latin America, Europe, East Asia, and Oceania). Bubble area corresponds to cohort sample size ($N$); bubble color fill denotes effect size ($\log_2 \text{Odds Ratio}$ on a diverging RdBu scale); bubble border denotes statistical significance (solid black with asterisk for $P < 0.05$; dashed gray for $P \ge 0.05$).
 - **Panel B (Integrated Meta-Analysis Summary Panel):** Displays pooled REML Odds Ratios with 95% confidence intervals, confirming robust disease risk multipliers for `sepA` ($\text{OR} = 4.68$, $95\%$ CI: $2.85\text{--}7.69$, $P < 0.0001$, $I^2 = 0.0\%$), `CS22` ($\text{OR} = 3.59$, $95\%$ CI: $1.44\text{--}8.94$, $P = 0.0061$, $I^2 = 0.0\%$), and `aafA` ($\text{OR} = 3.08$, $95\%$ CI: $2.00\text{--}4.74$, $P < 0.0001$, $I^2 = 0.0\%$), contrasted against non-discriminatory master regulon markers (`aggR`: $\text{OR} = 1.17$, $95\%$ CI: $0.98\text{--}1.40$, $P = 0.0905$, $I^2 = 13.9\%$; `aatA`: $\text{OR} = 1.21$, $95\%$ CI: $1.01\text{--}1.45$, $P = 0.0347$, $I^2 = 14.4\%$).
 
@@ -94,7 +94,7 @@
 ### S5 Fig
 ![Supplementary Figure S5](figures/supplementary/FigS5_EPEC_OI122_Effectors_Forest_Plot.png)
 
-**S5 Fig.** Multi-attribute virulome bubble matrix of EPEC genomic island OI-122 effectors, core LEE factors, and DAEC adhesins (Part B).**
+**S5 Fig.** Multi-attribute virulome bubble matrix of EPEC genomic island OI-122 effectors, core LEE factors, and DAEC adhesins (virulome analysis).**
 - **Panel A (Virulome Bubble Matrix):** Bubble matrix evaluating OI-122 non-LEE effectors (`lifA/efa1`, `nleB`, `nleE`, `astA`), core adherence determinants (`eae`, infant/toddler `bfpA`), and DAEC adhesin variants (`sat`, `afaE`, infant/toddler `daaC`) across 19 international surveillance cohorts. Bubble area indicates study sample size ($N$); color fill encodes $\log_2 \text{Odds Ratio}$; border line style signifies statistical significance ($P < 0.05$).
 - **Panel B (Integrated Pooled REML Estimates):** Confirms that OI-122 effector `lifA` confers the highest diarrhoeal risk in paediatric cohorts ($\text{OR} = 6.01$, $95\%$ CI: $2.64\text{--}13.69$, $P < 0.0001$, $I^2 = 0.0\%$), followed by `nleB` ($\text{OR} = 4.20$, $95\%$ CI: $2.06\text{--}8.56$, $P < 0.0001$, $I^2 = 1.4\%$) and `nleE` ($\text{OR} = 3.80$, $95\%$ CI: $1.86\text{--}7.75$, $P = 0.0002$, $I^2 = 0.9\%$).
 
@@ -121,7 +121,7 @@
 ### S8 Fig
 ![Supplementary Figure S8](figures/supplementary/FigS8_Risk_of_Bias_Dashboard.png)
 
-**S8 Fig.** Methodological quality and risk of bias dashboard across primary African cohorts (Part A).**
+**S8 Fig.** Methodological quality and risk of bias dashboard across primary African cohorts (African surveillance).**
 - **Panel A (Newcastle–Ottawa Scale Quality Distribution):** Quality evaluation across $k = 14$ matched case-control cohorts ($100\%$ scoring 8 or 9 stars), assessing selection of cases and controls, comparability of cohorts, and ascertainment of exposure.
 - **Panel B (Joanna Briggs Institute Critical Appraisal):** Distribution across $k = 14$ cross-sectional and genomic cohorts ($100\%$ scoring 8 or 9 items), evaluating sampling frame, sample size adequacy, detailed setting descriptions, validated diagnostic criteria, and standard statistical reporting.
 
@@ -228,7 +228,7 @@
   4. *Generation 1: Classical Phenotyping & Colony Hybridization Era (2000–2008, $k = 10$ cohorts):* Baseline historical studies relying primarily on culture, biochemical assays, serotyping, and radioactive/digoxigenin DNA hybridization probes (Okeke et al., 2000; Mandomando et al., 2007; Moyo et al., 2007; Obi et al., 2004; Al-Gallas et al., 2007; Metwally et al., 2007; Ateba et al., 2008; Raji et al., 2008; Dow et al., 2006; Scaletsky et al., 2002).
   Cells depict Primary Pathotyping Modalities (rich navy tiles with `"PRIM"` badges), Adjunctive/Secondary Characterization (soft sky blue tiles with `"ADJ"` badges), and Unassayed Modalities (clean white tiles with `"–"` badges).
 - **Panel B (Diagnostic Generation Paradigm Shift, 2000–2026):** Stacked bar chart tracking the structural evolution of primary diagnostic platforms across surveillance eras. Illustrates the rapid decline of culture/serology-only diagnostics ($45.0\%$ in 2000–2008 down to $0.0\%$ by 2017–2026), the rise and subsequent displacement of gel-based multiplex PCR ($74.0\%$ in 2009–2016 down to $22.0\%$ in 2023–2026), and the exponential expansion of quantitative microfluidic TAC ($36.0\%$) and whole-genome sequencing ($42.0\%$) in the modern era.
-- **Panel C (Methodological Utilization Across Surveillance Corpus):** Horizontal bar chart detailing the proportional deployment of each characterization modality across the complete systematic review evidence base ($k = 75$ total cohorts), demonstrating high genomic sequencing coverage ($35.7\%$), quantitative microfluidic TAC deployment ($28.6\%$), hybrid mobilome characterization ($85.7\%$), and matched case-control attribution modeling ($75.0\%$ overall, $100\%$ in Part B).
+- **Panel C (Methodological Utilization Across Surveillance Corpus):** Horizontal bar chart detailing the proportional deployment of each characterization modality across the complete systematic review evidence base ($k = 75$ total cohorts), demonstrating high genomic sequencing coverage ($35.7\%$), quantitative microfluidic TAC deployment ($28.6\%$), hybrid mobilome characterization ($85.7\%$), and matched case-control attribution modeling ($75.0\%$ overall, $100\%$ in the virulome synthesis).
 
 ---
 
@@ -329,7 +329,7 @@
 | | 10b | List and define all other variables sought (covariates, modifiers). | Section 2.4 (Subgroups & Meta-Regression) |
 | Study risk of bias | 11 | Methods used to assess risk of bias in the included studies. | Section 2.5 (Risk of Bias Assessment; NOS/JBI) |
 | Effect measures | 12 | Specify for each outcome the effect measure(s) used in synthesis. | Section 2.6 (Freeman–Tukey REML & Odds Ratios) |
-| Synthesis methods | 13a | Describe processes used to decide which studies were eligible for each synthesis. | Section 2.6 (Part A and Part B Partitioning) |
+| Synthesis methods | 13a | Describe processes used to decide which studies were eligible for each synthesis. | Section 2.6 (the surveillance synthesis and the virulome synthesis Partitioning) |
 | | 13b | Describe any methods required to prepare the data for presentation. | Section 2.6 (Haldane–Anscombe Continuity Correction) |
 | | 13c | Describe any methods used to tabulate or visually display results. | Section 2.6 & Supplementary Figures S1–S22 |
 | | 13d | Describe any methods used to synthesize results and statistical models. | Section 2.6 (REML, Knapp–Hartung, Meta-Regression) |
@@ -374,15 +374,15 @@
 | **Embase** | Elsevier | `('diarrheagenic Escherichia coli'/exp OR 'enteroaggregative Escherichia coli'/exp OR 'enteropathogenic Escherichia coli'/exp OR 'enterotoxigenic Escherichia coli'/exp) AND ('diarrhea'/exp OR 'childhood diarrhea'/exp) AND ('Africa'/exp OR 'sub-Saharan Africa'/exp) AND [2000-2026]/py` | 234 |
 | **African Journals Online (AJOL)** | AJOL Platform | `("Escherichia coli" OR "diarrhoea" OR "enteric pathogens") AND ("prevalence" OR "PCR" OR "antimicrobial resistance") [Filter: All African Journals, 2000–2026]` | 98 |
 | **Global Health** | CAB Direct | `(diarrhoeagenic E. coli OR enteroaggregative E. coli OR EPEC OR ETEC) AND (Africa OR paediatric diarrhoea) AND yr:[2000 TO 2026]` | 63 |
-| **Total Records Identified (Part A)** | | *Total across 6 bibliographic databases* | **2,640** |
+| **Total Records Identified (African surveillance)** | | *Total across 6 bibliographic databases* | **2,640** |
 | *Duplicates Removed* | EndNote & Rayyan | Duplicate citations identified and removed via automated and manual title-author-journal matching | 984 |
 | *Unique Records Screened* | | Titles and abstracts evaluated against PICOS eligibility criteria | **1,656** |
 
 ---
 
-### S3 Table: Primary African DEC Cohorts Included in Part A
+### S3 Table: Primary African DEC Cohorts Included in the surveillance synthesis
 
-**S3 Table.** Comprehensive epidemiological, geographical, clinical, and diagnostic attributes of primary African DEC surveillance cohorts included in Part A ($k = 28$ primary cohorts, $N = 15,750$).**
+**S3 Table.** Comprehensive epidemiological, geographical, clinical, and diagnostic attributes of primary African DEC surveillance cohorts included in the surveillance synthesis ($k = 28$ primary cohorts, $N = 15,750$).**
 
 | Study ID | Citation (APA 7th) | Country | UN Subregion | Surveillance Years | Sample Size $N$ (Cases / Controls) | Target Age Cohort | Clinical Setting & Enrolment Criteria | Primary Diagnostic Modality | Verified Primary DOI |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -421,7 +421,7 @@
 
 **S4 Table.** Quality appraisal and risk of bias evaluation across primary African cohorts ($k = 28$ cohorts): Newcastle–Ottawa Scale 9-Star breakdown for matched case-control studies ($k = 14$) and Joanna Briggs Institute 9-Item checklist for cross-sectional / genomic surveys ($k = 14$).**
 
-#### Part A1: Newcastle–Ottawa Scale (NOS) Breakdown for Case-Control Studies ($k = 14$)
+#### the surveillance synthesis1: Newcastle–Ottawa Scale (NOS) Breakdown for Case-Control Studies ($k = 14$)
 
 | Study ID | Case Definition Adequacy | Representativeness of Cases | Selection of Controls | Definition of Controls | Comparability on Age ($\star$) | Comparability on Other Factors ($\star$) | Ascertainment of Exposure | Same Ascertainment Method | Non-Response Rate | Total Score (Stars / 9) | Risk of Bias Verdict |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -440,7 +440,7 @@
 | `OKEKE_2000` | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | **9 / 9** | Low Risk |
 | `FOSTER_2021` | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | $\star$ | **9 / 9** | Low Risk |
 
-#### Part A2: Joanna Briggs Institute (JBI) Critical Appraisal for Prevalence & Genomic Studies ($k = 14$)
+#### the surveillance synthesis2: Joanna Briggs Institute (JBI) Critical Appraisal for Prevalence & Genomic Studies ($k = 14$)
 
 | Study ID | Q1: Appropriate Sampling Frame | Q2: Proper Sampling Strategy | Q3: Adequate Sample Size | Q4: Detailed Setting & Subjects | Q5: Sufficient Data Coverage | Q6: Validated Diagnostic Method | Q7: Standardized Measurement | Q8: Appropriate Statistical Analysis | Q9: Adequate Subgroup Response | Total JBI Score (/9) | Overall Quality Verdict |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -494,9 +494,9 @@
 
 ---
 
-### S6 Table: Part B Virulence Locus $2 \times 2$ Contingency Tables
+### S6 Table: the virulome synthesis Virulence Locus $2 \times 2$ Contingency Tables
 
-**S6 Table.** Complete study-by-study $2 \times 2$ contingency tables, Haldane–Anscombe continuity-corrected effect sizes ($\log_2 \text{Odds Ratio}$), and standard errors across 29 virulence determinants in Part B ($k = 30$ cohort entries, $154$ locus strata).**
+**S6 Table.** Complete study-by-study $2 \times 2$ contingency tables, Haldane–Anscombe continuity-corrected effect sizes ($\log_2 \text{Odds Ratio}$), and standard errors across 29 virulence determinants in the virulome synthesis ($k = 30$ cohort entries, $154$ locus strata).**
 
 | Pathotype | Gene Locus | Cohort ID & Citation | Cases Pos ($a$) | Cases Neg ($b$) | Controls Pos ($c$) | Controls Neg ($d$) | Unadjusted OR | Log2 OR (HA +0.5) | SE (ln OR) | 95% Confidence Interval |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -577,7 +577,7 @@
 
 ### S7 Table: Subgroup and Sensitivity Analyses of Virulence Loci
 
-**S7 Table.** Subgroup meta-analysis and sensitivity evaluations of virulence loci stratified by diagnostic platform, host age strata, and geographic region (Part B).**
+**S7 Table.** Subgroup meta-analysis and sensitivity evaluations of virulence loci stratified by diagnostic platform, host age strata, and geographic region (virulome analysis).**
 
 | Virulence Locus / Subgroup Stratum | Subgroup Category | Studies ($k$) | Cases ($r/n$, %) | Controls ($r/n$, %) | Pooled REML OR [95% CI] | $P$-value | $I^2$ (%) | Subgroup Difference $P$ |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -627,7 +627,7 @@
 
 | Domain / Target Evaluated | Cohorts ($k$) & Design | Sample Size ($N_{\text{cases}} / N_{\text{ctrl}}$) | Risk of Bias | Inconsistency ($I^2$, $\tau^2$) | Indirectness | Imprecision | Other Considerations | Pooled Effect Estimate ($95\%$ CI) | Overall GRADE Certainty | Clinical Interpretation & Actionability |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **PART A: DEC PATHOTYPES (AFRICA)** | | | | | | | | | | |
+| **DEC PATHOTYPES (AFRICAN SURVEILLANCE)** | | | | | | | | | | |
 | **ETEC (Enterotoxigenic)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.37$ [$2.08\text{--}2.70$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Primary target for syndromic therapy & vaccines. |
 | **EIEC (Enteroinvasive)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.43$ [$1.69\text{--}3.50$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | True dysenteric pathogen; high clinical specificity. |
 | **Typical EPEC (`bfpA+ eae+`, <12m)**| 4 (Matched CC) | 4,349 / 5,974 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.82$ [$2.27\text{--}3.52$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Infant-specific acute killer; vaccine candidate. |
@@ -636,7 +636,7 @@
 | **Atypical EPEC (Unstratified)** | 11 (Matched CC) | 5,128 / 5,047 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null-crossing CI | $\text{mOR} = 0.89$ [$0.78\text{--}1.01$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Unstratified `eae` is uninformative; require subtyping. |
 | **EAEC (Unstratified `aatA`/`aggR`)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | Serious ($I^2 = 73.2\%$) | Serious$^a$ | Not serious | Borderline effect | $\text{mOR} = 1.38$ [$1.03\text{--}1.85$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Carriage paradox; single-gene PCR uninformative. |
 | **STEC (Shiga Toxin-Producing)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | Serious ($I^2 = 53.8\%$) | Not serious | Serious$^b$ | Wide 95% CI | $\text{mOR} = 1.81$ [$0.97\text{--}3.37$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Low-frequency, high-acuity; outbreak vigilance. |
-| **PART B: VIRULENCE LOCI (GLOBAL)**| | | | | | | | | | |
+| **ACCESSORY VIRULENCE LOCI (GLOBAL & AFRICAN COHORTS)**| | | | | | | | | | |
 | **EPEC OI-122 `lifA/efa1`** | 4 (Matched CC) | 260 / 93 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Very large effect ($\text{OR} > 5$) | $\text{mOR} = 6.01$ [$2.64\text{--}13.69$]| **HIGH** ($\oplus\oplus\oplus\oplus$) | Pathognomonic marker for atypical EPEC diarrhoea. |
 | **EAEC SPATE `sepA`** | 5 (Matched CC) | 360 / 346 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 4.5$) | $\text{mOR} = 4.68$ [$2.85\text{--}7.69$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | True virulent EAEC driver; top vaccine antigen. |
 | **EPEC OI-122 `nleB`** | 3 (Matched CC) | 171 / 82 | Not serious | None ($I^2 = 1.4\%$) | Not serious | Not serious | Large effect ($\text{OR} > 4.0$) | $\text{mOR} = 4.20$ [$2.06\text{--}8.56$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Essential Type III effector of severe illness. |
@@ -675,9 +675,9 @@ Upgraded by 1 or 2 levels for Large or Very Large Effect Magnitude ($\text{OR} >
 
 **S10 Table.** Structural and methodological framework contrasting the present dual-track systematic review and meta-analysis against historical unadjusted enteric syntheses.**
 
-| Methodological Dimension | Historical Single-Arm Syntheses | Present Dual-Track Systematic Synthesis | Scientific Advancement & Clinical Value |
+| Methodological Dimension | Historical Single-Arm Syntheses | Present Hierarchical Systematic Synthesis | Scientific Advancement & Clinical Value |
 | :--- | :--- | :--- | :--- |
-| **Evidence Architecture** | Single-arm pooled proportions only ($k = 45$ African studies, $N = 14,927$ cases). | **Dual-Track Synthesis:** Part A continental surveillance ($k = 28$ cohorts, $N = 15,750$) and Part B global virulome meta-analysis ($k = 47$ cohorts, $N = 18,920$). | Integrates global case-control datasets with continental surveillance, resolving pathotypic and geographic generalizability. |
+| **Evidence Architecture** | Single-arm pooled proportions only ($k = 45$ African studies, $N = 14,927$ cases). | **Hierarchical Synthesis:** the surveillance synthesis continental surveillance ($k = 28$ cohorts, $N = 15,750$) and the virulome synthesis global virulome meta-analysis ($k = 47$ cohorts, $N = 18,920$). | Integrates global case-control datasets with continental surveillance, resolving pathotypic and geographic generalizability. |
 | **Healthy Controls & Attribution** | Zero healthy controls evaluated; assumed all detected isolates caused clinical diarrhoea. | **$100\%$ Matched Case-Control Attribution:** Synthesizes matched Odds Ratios across 13 multi-centre African cohorts ($N = 11,402$) and 47 global cohorts. | Resolves the "attribution paradox" by demonstrating that EAEC ($\text{OR} = 1.38$) and DAEC ($\text{OR} = 1.21$) are carried at high rates in healthy children. |
 | **Virulence Locus Resolution** | Coarse, monolithic pathotype categories; zero individual virulence genes evaluated. | **29 Distinct Virulence Determinants:** Analyzes SPATEs (`sepA`, `pet`, `sat`, `pic`), fimbriae (`aafA`, `CS22`, `agg3A`), regulon (`aggR`, `aatA`), and OI-122 effectors. | Pinpoints `sepA` ($\text{OR} = 4.68$), `lifA` ($\text{OR} = 6.01$), and `aafA` ($\text{OR} = 3.08$) as the true drivers of acute clinical illness. |
 | **Age-Stratified Ontogeny** | Aggregated broad age groups ($0\text{--}5$ years) without developmental stratification. | **Pristine Paediatric Strata (<12m vs. 12–59m vs. $\ge 60$m):** Direct within-cohort slopegraphs for DAEC (`daaC`) and EPEC (`bfpA`). | Discovers that DAEC is harmless in breastfed infants ($\text{OR} = 0.91$) but surges into an acute pathogen in toddlers ($\text{OR} = 2.21$, $+143\%$). |

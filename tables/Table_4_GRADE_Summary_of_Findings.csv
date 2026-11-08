@@ -1,5 +1,5 @@
 Domain / Target Evaluated,Studies (k) & Design,Sample Size (Cases / Controls),Pooled Effect Estimate [95% CI],GRADE Certainty & Domain Appraisal,Clinical Interpretation & Actionability
-PART A: DEC PATHOTYPES (AFRICA),,,,,
+DEC PATHOTYPES (AFRICAN SURVEILLANCE),,,,,
 EAEC (Unstratified carriage),k = 26 (Prev),"9,264 cases",Prev: 28.3% [23.2–33.7%],Moderate (⊕⊕⊕○); Inconsistency: Serious (I² = 96.6%); Indirectness: Not serious; Imprecision: Not serious,Leading DEC detected in African children; pervasive circulation.
 EAEC (Case-Control Association),k = 13 (Matched CC),"5,449 / 5,953",mOR: 1.38 [1.03–1.85],Low (⊕⊕○○); Inconsistency: Serious (I² = 73.2%); Indirectness: Serious^a; Imprecision: Not serious,High carriage in healthy controls obscures clinical attribution.
 ETEC,k = 13 (Matched CC),"5,449 / 5,953",mOR: 2.37 [2.08–2.70],High (⊕⊕⊕⊕); Inconsistency: Not serious (I² = 0.0%); Indirectness: Not serious; Imprecision: Not serious; Magnitude: Large effect (+1)^b,Definitive acute diarrhoeal pathogen across all African regions.
@@ -9,7 +9,7 @@ DAEC (Unstratified),k = 9 (Matched CC),"4,580 / 5,084",mOR: 1.21 [0.86–1.71],M
 STEC / EHEC,k = 13 (Matched CC),"5,449 / 5,953",mOR: 1.81 [0.97–3.37],Low (⊕⊕○○); Inconsistency: Serious (I² = 53.8%); Indirectness: Not serious; Imprecision: Serious^d,Sporadic transmission; confidence interval crosses null threshold.
 EIEC,k = 13 (Matched CC),"5,449 / 5,953",mOR: 2.43 [1.69–3.50],High (⊕⊕⊕⊕); Inconsistency: Not serious (I² = 0.0%); Indirectness: Not serious; Imprecision: Not serious; Magnitude: Large effect (+1)^b,High pathogenicity; low prevalence (1.4%) in routine surveys.
 Hybrid DEC (DEC–DEC/ExPEC),k = 27 (Prev),"9,039 cases",Prev: 7.4% [5.5–9.6%],Moderate (⊕⊕⊕○); Inconsistency: Serious (I² = 89.7%); Indirectness: Not serious; Imprecision: Not serious,Frequent two-way combinations; elevated detection under WGS.
-PART B: VIRULENCE LOCI (GLOBAL & AFRICA),,,,,
+ACCESSORY VIRULENCE LOCI (GLOBAL & AFRICAN COHORTS),,,,,
 EAEC: sepA (SPATE Protease),k = 5 (Matched CC),"1,510 / 1,515",mOR: 4.68 [2.85–7.69],High (⊕⊕⊕⊕); Inconsistency: Not serious (I² = 0.0%); Indirectness: Not serious; Imprecision: Not serious; Magnitude: Large effect (+1)^b,Premier diagnostic and vaccine target; strong mucosal destruction.
 EAEC: aafA (AAF/II Fimbriae),k = 7 (Matched CC),"1,840 / 1,840",mOR: 3.08 [2.00–4.74],High (⊕⊕⊕⊕); Inconsistency: Not serious (I² = 0.0%); Indirectness: Not serious; Imprecision: Not serious; Magnitude: Large effect (+1)^b,Critical colonization factor driving persistent paediatric diarrhoea.
 EAEC: CS22 (Adhesin Variant),k = 3 (Matched CC),590 / 590,mOR: 3.59 [1.44–8.94],Moderate (⊕⊕⊕○); Inconsistency: Not serious (I² = 0.0%); Indirectness: Not serious; Imprecision: Serious^f; Magnitude: Large effect (+1)^b,High-attribution adhesin; warrants broader global cohort assay.

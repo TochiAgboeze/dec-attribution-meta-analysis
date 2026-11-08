@@ -1,10 +1,10 @@
-# Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa & Globally: A Two-Part Systematic Review and Meta-Analysis
+# Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa & Globally: A Systematic Review and Hierarchical Meta-Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Target Journal](https://img.shields.io/badge/Target%20Journal-PLOS%20Neglected%20Tropical%20Diseases-orange.svg)](https://journals.plos.org/plosntds/)
 
 This repository hosts the official submission package and supplementary repository for the manuscript:
-**"Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa and Globally: A Two-Part Systematic Review, Meta-Analysis, and Virulome Case-Control Synthesis"**
+**"Diarrhoeagenic *Escherichia coli* Attribution Paradox in Africa and Globally: A Systematic Review and Hierarchical Meta-Analysis"**
 
 ---
 
@@ -33,8 +33,8 @@ dec-attribution-meta-analysis/
 │   └── document/                  # Supplementary Information Document (.docx, .pdf, .md)
 ├── data/                          # Underlying Datasets
 │   ├── Master_Supplementary_Dataset.xlsx           # Complete Multi-Tab Excel Workbook
-│   ├── part_a_african_cohorts.csv                  # African Surveillance Cohort Data (k=28, N=15,750)
-│   └── part_b_global_virulence_loci.csv            # Global Virulome Contingency Data (154 Strata)
+│   ├── african_surveillance_cohorts.csv                  # African Surveillance Cohort Data (k=28, N=15,750)
+│   └── global_virulome_case_control.csv            # Global Virulome Contingency Data (154 Strata)
 ├── LICENSE                        # MIT Open Source License
 └── README.md                      # Repository Manifest & Navigation
 ```
@@ -52,7 +52,7 @@ dec-attribution-meta-analysis/
 ### Main Tables:
 1. **Table 1:** Primary African Cohort Characteristics & Diagnostic Modalities ($k = 28, N = 15,750$).
 2. **Table 1B:** Distribution of Two-Way Hybrid Pathotype Combinations in African Children ($N = 502$ isolates across $k = 27$ cohorts).
-3. **Table 2:** Part A Pooled DEC Prevalence vs. Matched Case-Control Odds Ratios.
+3. **Table 2:** Pooled DEC Prevalence vs. Matched Case-Control Odds Ratios.
 4. **Table 3:** Summary of Key Locus-Level Pathogenicity Determinants & Age Strata in African and Global Child Health.
 5. **Table 4:** GRADE Evidence Profile and Summary of Findings (SoF) Table.
 
