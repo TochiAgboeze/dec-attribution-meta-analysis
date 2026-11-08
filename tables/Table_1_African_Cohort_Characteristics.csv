@@ -1,0 +1,29 @@
+"Study (Author, Year)",Country (Subregion / Scope),Study Design,Age Group,Diagnostic Modality,Sample Size N (Cases / Controls),EAEC Cases n (%),ETEC Cases n (%),EPEC Cases n (%),DAEC Cases n (%),STEC Cases n (%),EIEC Cases n (%),Hybrid DEC n (%) & Dominant Combinations,Quality Score
+Kotloff et al. (2013) [GEMS Africa Sites],"The Gambia, Mali, Mozambique, Kenya (Western/Eastern/Southern Africa)",Matched Case-Control,0–59m,Multiplex PCR & Quantitative TAC,"4,110 (1,890 / 2,220)",397 (21.0%),284 (15.0%),246 (13.0%),NA,19 (1.0%),38 (2.0%),64/1890 (3.4%),NOS 9/9
+Ochieng et al. (2023) [VIDA Consortium],"The Gambia, Mali, Kenya (Western/Eastern Africa)",Matched Case-Control,0–59m,Quantitative TAC (qPCR),942 (480 / 462),280 (58.3%),112 (23.3%),168 (35.0%),NA,24 (5.0%),14 (2.9%),28/480 (5.8%),NOS 9/9
+Platts-Mills et al. (2015) [MAL-ED Africa],"South Africa, Tanzania (Eastern/Southern Africa)",Matched Case-Control / Birth Cohort,0–24m,Quantitative TAC (qPCR),"1,420 (680 / 740)",272 (40.0%),156 (22.9%),163 (24.0%),NA,14 (2.1%),21 (3.1%),34/680 (5.0%),NOS 9/9
+Akinlabi et al. (2023a),Nigeria (Western Africa),Matched Case-Control,0–59m,WGS & Multiplex PCR Platform Evaluation,360 (120 / 240),46 (38.3%),11 (9.2%),15 (12.5%),6 (5.0%),1 (0.8%),1 (0.8%),12/120 (10.0%),NOS 9/9
+Akinlabi et al. (2023b),Nigeria (Western Africa),Matched Case-Control,0–59m,Multiplex PCR & WGS,497 (120 / 377),44 (36.7%),10 (8.3%),16 (13.3%),7 (5.8%),1 (0.8%),1 (0.8%),11/120 (9.2%),NOS 9/9
+Akinlabi et al. (2025),Nigeria (Western Africa),Case-Control Genomic Survey,0–59m,WGS (Illumina),96 (96 / 0),NA,NA,NA,NA,NA,NA,15/96 (15.6%),JBI 8/9
+Olayinka et al. (2024),Nigeria (Western Africa),Matched Case-Control,0–59m,Multiplex PCR,501 (167 / 334),52 (31.1%),24 (14.4%),21 (12.6%),9 (5.4%),3 (1.8%),2 (1.2%),9/167 (5.4%),NOS 9/9
+Zelelie et al. (2023),Ethiopia (Eastern Africa),Matched Case-Control,0–59m,Multiplex PCR,476 (391 / 85),66 (16.9%),35 (9.0%),23 (5.9%),1 (0.3%),3 (0.8%),20 (5.1%),13/183 (7.1%),NOS 9/9
+Wolde et al. (2024),Ethiopia (Eastern Africa),Cross-Sectional WGS,Mixed,WGS (Illumina),260 (79 / 0),34 (43.0%),18 (22.8%),21 (26.6%),6 (7.6%),7 (8.9%),2 (2.5%),14/79 (17.7%),JBI 8/9
+Mwape et al. (2023),Zambia (Eastern/Southern Africa),Matched Case-Control,0–36m,Quantitative Real-Time PCR Array,385 (314 / 71),124 (39.5%),93 (29.6%),143 (45.5%),18 (5.7%),14 (4.5%),6 (1.9%),62/314 (19.7%),NOS 9/9
+"Kiiru et al. (2024, 2025)",Kenya (Eastern Africa),Cross-Sectional WGS,0–59m,WGS (Illumina),219 (75 / 0),38 (50.7%),19 (25.3%),24 (32.0%),5 (6.7%),4 (5.3%),1 (1.3%),14/75 (18.7%),JBI 8/9
+Mkuhlu et al. (2020),South Africa (Southern Africa),Cross-Sectional Hospital,Mixed,Multiplex PCR,265 (265 / 0),48 (18.1%),106 (40.0%),31 (11.7%),37 (14.0%),NA,0 (0.0%),14/265 (5.3%),JBI 8/9
+Garrine et al. (2020),Mozambique (Southern Africa),Matched Case-Control,0–59m,Multiplex PCR,"1,179 (588 / 591)",48 (8.2%),42 (7.1%),52 (8.8%),24 (4.1%),2 (0.3%),1 (0.2%),14/588 (2.4%),NOS 9/9
+Onanuga et al. (2014),Nigeria (Western Africa),Matched Case-Control,0–24m,Multiplex PCR,730 (201 / 529),16 (8.0%),8 (4.0%),6 (3.0%),NA,19 (9.5%),1 (0.5%),NA,NOS 9/9
+Mahamat et al. (2024),Cameroon (Central Africa),Cross-Sectional Hospital,0–59m,Multiplex PCR,184 (184 / 0),68 (37.0%),31 (16.8%),42 (22.8%),14 (7.6%),6 (3.3%),3 (1.6%),28/184 (15.2%),JBI 8/9
+Medugu et al. (2025),Nigeria (Western Africa),Cross-Sectional WGS,Mixed,WGS (Illumina),107 (107 / 0),44 (41.1%),12 (11.2%),19 (17.8%),8 (7.5%),2 (1.9%),1 (0.9%),20/107 (18.7%),JBI 8/9
+Foster-Nyarko et al. (2021),The Gambia (Western Africa),Community Genomic Cohort,36–60m,WGS (Illumina),88 (0 / 88),NA,NA,NA,NA,NA,NA,8/88 (9.1%),NOS 9/9
+Dela et al. (2022),Ghana (Western Africa),Cross-Sectional Hospital,0–59m,Multiplex PCR,122 (98 / 0),18 (18.4%),8 (8.2%),9 (9.2%),2 (2.0%),1 (1.0%),0 (0.0%),3/98 (3.1%),JBI 8/9
+Mabika Mabika et al. (2021),Gabon (Central Africa),Cross-Sectional Hospital,0–59m,Multiplex PCR,120 (120 / 0),31 (25.8%),34 (28.3%),26 (21.7%),8 (6.7%),34 (28.3%),2 (1.7%),21/120 (17.5%),JBI 8/9
+Bonkoungou et al. (2021),Burkina Faso (Western Africa),Cross-Sectional Clinical,0–59m,16-Plex PCR,285 (285 / 0),61 (21.4%),26 (9.1%),27 (9.5%),9 (3.2%),11 (3.9%),4 (1.4%),18/285 (6.3%),JBI 8/9
+Ali et al. (2014),Egypt (Northern Africa),Matched Case-Control,0–59m,Multiplex PCR,105 (62 / 43),19 (30.6%),8 (12.9%),11 (17.7%),2 (3.2%),3 (4.8%),1 (1.6%),4/62 (6.5%),NOS 9/9
+Mandomando et al. (2007),Mozambique (Southern Africa),Matched Case-Control,0–59m,Multiplex PCR,529 (352 / 177),51 (14.5%),34 (9.7%),38 (10.8%),11 (3.1%),4 (1.1%),2 (0.6%),8/352 (2.3%),NOS 9/9
+Moyo et al. (2007),Tanzania (Eastern Africa),Cross-Sectional Hospital,0–59m,Multiplex PCR,647 (647 / 0),95 (14.7%),42 (6.5%),39 (6.0%),18 (2.8%),7 (1.1%),3 (0.5%),14/647 (2.2%),JBI 8/9
+Okeke et al. (2000),Nigeria (Western Africa),Matched Case-Control,0–59m,Colony Hybridization & PCR,168 (84 / 84),42 (50.0%),12 (14.3%),14 (16.7%),5 (6.0%),1 (1.2%),1 (1.2%),6/84 (7.1%),NOS 9/9
+Sang et al. (2012),Kenya (Eastern Africa),Cross-Sectional Hospital,0–59m,Multiplex PCR,855 (855 / 0),248 (29.0%),162 (18.9%),179 (20.9%),42 (4.9%),26 (3.0%),11 (1.3%),29/855 (3.4%),JBI 8/9
+Obi et al. (2004),South Africa (Southern Africa),Cross-Sectional Survey,0–59m,Colony Hybridization & PCR,350 (350 / 0),84 (24.0%),49 (14.0%),56 (16.0%),21 (6.0%),14 (4.0%),7 (2.0%),12/350 (3.4%),JBI 8/9
+Ifeanyi et al. (2015),Nigeria (Western Africa),Cross-Sectional Hospital,0–59m,Multiplex PCR,300 (300 / 0),72 (24.0%),36 (12.0%),45 (15.0%),12 (4.0%),9 (3.0%),3 (1.0%),11/300 (3.7%),JBI 8/9
+Opintan et al. (2010),Ghana (Western Africa),Cross-Sectional Hospital,0–59m,Multiplex PCR,450 (450 / 0),108 (24.0%),54 (12.0%),63 (14.0%),18 (4.0%),14 (3.1%),5 (1.1%),16/450 (3.6%),JBI 8/9

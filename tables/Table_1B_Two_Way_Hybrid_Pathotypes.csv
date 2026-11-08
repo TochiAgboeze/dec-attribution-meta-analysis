@@ -1,0 +1,10 @@
+Hybrid Combination,Isolate Count (),Percentage (%),Key Virulence & Plasmid Markers,Mobilome & Pathogenic Determinants
+EAEC / ETEC,184,36.7%,pAA + pENT,"Dispersin (aatA), aggregative fimbriae (aafA), heat-labile/stable enterotoxins (elt, estA)"
+EAEC / EPEC,128,25.5%,pAA + LEE,"Aggregative adherence plasmid + Locus of Enterocyte Effacement (eae, tir)"
+EAEC / STEC,58,11.6%,pAA + Stx,"pAA plasmid backbone + Shiga toxin 1/2 prophages (stx1, stx2)"
+EPEC / ETEC,46,9.2%,LEE + pENT,Chromosomal eae intimin + enterotoxigenic plasmid (elt/estA)
+EAEC / DAEC,38,7.6%,pAA + afa,Aggregative plasmid + Afa/Dr diffusely adhering adhesin gene cluster
+EPEC / STEC,28,5.6%,LEE + Stx,Attaching & effacing Shiga-toxigenic lineage
+ETEC / STEC,12,2.4%,pENT + Stx,Enterotoxigenic plasmid + Shiga toxin prophage acquisition
+EIEC / EAEC,8,1.6%,pINV + pAA,Large invasion plasmid (ipaH) + aggregative adherence plasmid
+Total Hybrids,502,100.0%,Bilateral exchange,Zero 3-way hybrids detected ()

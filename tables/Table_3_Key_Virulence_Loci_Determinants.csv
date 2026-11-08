@@ -1,0 +1,21 @@
+DEC Pathotype / Domain,Virulence Locus & Function,Studies (),Sample Size (),Pooled Odds Ratio [95% CI],-Value,Heterogeneity (),Clinical Attribution & Actionability
+EAEC: High-Attribution Loci,sepA (SPATE Protease),,"1,510 / 1,515",4.68 [2.85–7.69],,,Premier clinical diagnostic target & vaccine candidate
+,CS22 (Adhesin Variant),,590 / 590,3.59 [1.44–8.94],,,High-affinity colonization factor
+,aafA (AAF/II Major Fimbria),,"1,840 / 1,840",3.08 [2.00–4.74],,,Core mucosal adherence factor
+,agg3A (AAF/III Fimbria),,710 / 710,2.71 [1.28–5.74],,,Major aggregative fimbrial variant
+,pet (Plasmid Cytotoxin),,"1,445 / 1,445",2.19 [1.30–3.69],,,Cytoskeletal disruptor inducing mucosal damage
+,sat (Vacuolating SPATE),,"1,620 / 1,620",1.78 [1.24–2.56],,,Vacuolating serine protease enterotoxin
+,aaiC (T6SS Secretion Locus),,"1,725 / 1,725",1.47 [1.11–1.96],,,Chromosomal T6SS marker; moderate risk increase
+EAEC: Endemic Carriage Loci,aatA (CVD432 Dispersin Probe),,"3,905 / 3,905",1.21 [1.01–1.45],,,Common in healthy controls; insufficient alone
+,aggR (Master Regulon Activator),,"3,905 / 3,905",1.17 [0.98–1.40],,,High colonization in healthy children
+,pic (Mucinase SPATE),,"1,890 / 1,890",1.04 [0.79–1.37],,,Non-discriminating mucosal commensal
+DAEC: Age-Ontogeny Switch,daaC in Toddlers (–59m),,"2,107 / 2,106",2.21 [1.73–2.82],,,Bona fide acute diarrhoeal pathogen after infancy
+,daaC in Infants (m),,"1,262 / 1,263",0.91 [0.69–1.20],,,Asymptomatic carriage protected by maternal sIgA
+,sat in DAEC (SPATE),,510 / 510,3.22 [1.72–6.02],,,Cytotoxic SPATE converts DAEC to high risk
+,afaE (Dr Adhesin Variant),,490 / 490,3.07 [1.75–5.41],,,Specific adherence allele driving pathology
+EPEC: Virulence Tiers,"bfpA in Infants (m, Typical)",,"9,360 / 9,360",2.82 [2.27–3.52],,,Classical infant enteropathogen
+,lifA/efa1 (OI-122 Island),,420 / 420,6.01 [2.64–13.69],,,Transforms atypical EPEC into hyper-pathogen
+,nleB (OI-122 T3SS Effector),,375 / 375,4.20 [2.06–8.56],,,Blocks host NF-κB inflammatory signaling
+,nleE (OI-122 T3SS Effector),,375 / 375,3.80 [1.86–7.75],,,Methyltransferase disrupting epithelial defense
+,astA in Atypical EPEC,,430 / 430,2.63 [1.28–5.37],,,EAST1 enterotoxin acquisition
+,eae (Unstratified Screening),,"12,099 / 12,099",1.06 [0.85–1.32],,,Neutral as bulk screening without locus subtyping
