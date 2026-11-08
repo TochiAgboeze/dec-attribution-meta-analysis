@@ -1,35 +1,35 @@
 # Supplementary Information
 
-## Resolving the Diarrhoeagenic *Escherichia coli* Disease Attribution Challenge in Africa and Globally: A PRISMA 2020 Systematic Review and Hierarchical and Meta-Analysis of Pathotypes, Diagnostic Platforms, Hybrid Lineages, and Virulence Loci
+## Differentiating Clinical Pathogenicity from Asymptomatic Colonization in Diarrhoeagenic *Escherichia coli*: A Systematic Review and Hierarchical Meta-Analysis
 
-**Target Journal:** *PLOS Neglected Tropical Diseases* (*PLOS NTDs*) / *PLOS Global Public Health*
+**Target Journal:** *PLOS Neglected Tropical Diseases* (*PLOS NTD*)
 
 ---
 
 ### Index of Supplementary Figures
 
-- **S1 Fig:** Subregionally Stratified Prevalence Gradient and Distribution Profile of Enteroaggregative *Escherichia coli* (EAEC) Across 26 African Paediatric Diarrhoea Cohorts ($k = 26$, $N = 9,264$ paediatric cases).
-- **S2 Fig:** Comparative Raincloud Distributions for Enterotoxigenic *E. coli* (ETEC) and Enteropathogenic *E. coli* (EPEC) Across African Subregions with Direct Triad Comparison ($k = 26$).
-- **S3 Fig:** Paired Case-Control Slope-Lollipop Matrix and Continental Attributable Risk Difference Spectrum Across African Surveillance Cohorts (EAEC, ETEC, and EPEC, $k = 13$ matched cohorts).
-- **S4 Fig:** Multi-Attribute Virulome Bubble Matrix of Enteroaggregative *E. coli* (EAEC) Virulence Determinants Across 15 Global & African Cohorts with Integrated Meta-Analysis Summary.
-- **S5 Fig:** Multi-Attribute Virulome Bubble Matrix of EPEC Genomic Island OI-122 Effectors, Core LEE Determinants, and DAEC Adhesins Across Global Cohorts.
-- **S6 Fig:** Two-Way Hybrid Pathotype Architecture (`DEC–DEC` and `DEC–ExPEC`) and Diagnostic Platform Detection Gradients across African Surveillance.
-- **S7 Fig:** Diagnostic Sensitivity Gradients and Root Causes of Conventional PCR Primer Discordance (Mutations, Allelic Variation, and Plasmid Instability).
-- **S8 Fig:** Methodological Quality and Risk of Bias Dashboard Across Primary African Cohorts (Newcastle–Ottawa Scale and Joanna Briggs Institute Critical Appraisal).
-- **S9 Fig:** Comprehensive Pathotype Comparative Landscape Across African Subregions and Temporal Surveillance Eras.
-- **S10 Fig:** Global DEC Virulome Matrix: Diarrhoeal Association ($\log_2 \text{Odds Ratio}$) Across 31 Consolidated International Cohorts and 29 Virulence Loci.
-- **S11 Fig:** Typical vs. Atypical EPEC (`tEPEC` vs `aEPEC`) Epidemiological Transition, Lineage Shares, and Pathophysiological Profiles.
-- **S12 Fig:** Age-Stratified Pathogenicity Inversion in DAEC (`daaC`) and EPEC (`bfpA`) Across the Infant-to-Toddler Weaning Window.
-- **S13 Fig:** Diagnostic Modality Sensitivity Ladder, EAEC Single-Gene Primer Discordance, and Resource-Stratified Decision Framework.
-- **S14 Fig:** Hybrid DEC Genomic Mobilome Architecture, Plasmid-Phage Synergy, and Multi-Pathotype Overlap Network.
-- **S15 Fig:** Multivariate Cohort Ordination Biplot (PCA / PCoA) Mapping Full 6-Pathotype Profiles and Diagnostic Modality Clustering Across 28 African Cohorts.
-- **S16 Fig:** GRADE Evidence Certainty Heatmap Matrix for Diarrhoeagenic *E. coli* Pathotypes and Virulence Determinants Across 5 Canonical Evaluation Domains.
-- **S17 Fig:** Master Diagnostic and Molecular Characterization Methodology Stack Across Primary DEC Surveillance Cohorts ($k = 48$ cohorts across 4 surveillance eras).
-- **S18 Fig:** Discrete Diagnostic Modality Presence/Absence Matrix with UN African Subregion Metadata Layer Across 68 African DEC Surveillance Cohorts (2000–2026).
-- **S19 Fig:** Small-Multiples Virulome Loci Prevalence Boxplot Across Diarrhoeal Cases and Asymptomatic Controls for 28 Virulence Determinants (Stratified by Africa vs. Other Global Regions).
-- **S20 Fig:** Small-Multiples Pathotype Prevalence Boxplot by Paediatric Age Group Across 9 DEC Categories (<12 months, 12–59 months, $\ge 60$ months).
-- **S21 Fig:** Diagnostic Platform Detection Yield Small-Multiples Boxplot Stratified by WHO Clinical Presentation (Acute Watery, Persistent $>14\text{d}$, Asymptomatic) Across 8 Modalities.
-- **S22 Fig:** Antimicrobial Resistance (AMR) Spectrum, Multidrug Resistance (MDR) Dissemination, and 25-Year Resistance Escalation Across African Diarrhoeagenic *E. coli* Pathotypes.
+- **S1 Fig:** Methodological Quality and Risk of Bias Dashboard Across Primary African Cohorts (Newcastle–Ottawa Scale and Joanna Briggs Institute Critical Appraisal).
+- **S2 Fig:** Discrete Diagnostic Modality Presence/Absence Matrix with UN African Subregion Metadata Layer Across 68 African DEC Surveillance Cohorts (2000–2026).
+- **S3 Fig:** Subregionally Stratified Prevalence Gradient and Distribution Profile of Enteroaggregative *Escherichia coli* (EAEC) Across 26 African Paediatric Diarrhoea Cohorts ($k = 26$, $N = 9,264$ paediatric cases).
+- **S4 Fig:** Small-Multiples Pathotype Prevalence Boxplot by Paediatric Age Group Across 9 DEC Categories (<12 months, 12–59 months, $\ge 60$ months).
+- **S5 Fig:** Comparative Raincloud Distributions for Enterotoxigenic *E. coli* (ETEC) and Enteropathogenic *E. coli* (EPEC) Across African Subregions with Direct Triad Comparison ($k = 26$).
+- **S6 Fig:** Typical vs. Atypical EPEC (`tEPEC` vs `aEPEC`) Epidemiological Transition, Lineage Shares, and Pathophysiological Profiles.
+- **S7 Fig:** African STEC, EIEC, and DAEC Single-Arm Prevalence Forest Plots across African Surveillance Cohorts.
+- **S8 Fig:** Comprehensive Pathotype Comparative Landscape Across African Subregions and Temporal Surveillance Eras (with Publication Bias Diagnostics).
+- **S9 Fig:** Diagnostic Modality Sensitivity Ladder, EAEC Single-Gene Primer Discordance, and Resource-Stratified Decision Framework.
+- **S10 Fig:** Diagnostic Platform Detection Yield Small-Multiples Boxplot Stratified by WHO Clinical Presentation (Acute Watery, Persistent $>14\text{d}$, Asymptomatic) Across 8 Modalities.
+- **S11 Fig:** Two-Way Hybrid Pathotype Architecture (`DEC–DEC` and `DEC–ExPEC`) and Diagnostic Platform Detection Gradients across African Surveillance.
+- **S12 Fig:** Hybrid DEC Genomic Mobilome Architecture, Plasmid-Phage Synergy, and Multi-Pathotype Overlap Network.
+- **S13 Fig:** Diagnostic Sensitivity Gradients and Root Causes of Conventional PCR Primer Discordance (Mutations, Allelic Variation, and Plasmid Instability).
+- **S14 Fig:** Paired Case-Control Slope-Lollipop Matrix and Continental Attributable Risk Difference Spectrum Across African Surveillance Cohorts (EAEC, ETEC, and EPEC, $k = 13$ matched cohorts).
+- **S15 Fig:** Multi-Pathotype UpSet Co-Infection Architecture Across 9,360 African Children and Small-Multiples Virulome Carrier Boxplots.
+- **S16 Fig:** Global DEC Virulome Matrix: Diarrhoeal Association ($\log_2 \text{Odds Ratio}$) Across 31 Consolidated International Cohorts and 29 Virulence Loci.
+- **S17 Fig:** Multi-Attribute Virulome Bubble Matrix of Enteroaggregative *E. coli* (EAEC) Virulence Determinants Across 15 Global & African Cohorts with Integrated Meta-Analysis Summary.
+- **S18 Fig:** Age-Stratified Pathogenicity Inversion in DAEC (`daaC`) and EPEC (`bfpA`) Across the Infant-to-Toddler Weaning Window.
+- **S19 Fig:** Multi-Attribute Virulome Bubble Matrix of EPEC Genomic Island OI-122 Effectors, Core LEE Determinants, and DAEC Adhesins Across Global Cohorts.
+- **S20 Fig:** Iron Acquisition and Mucosal Fitness Loci Meta-Analysis Across African and Global DEC Cohorts.
+- **S21 Fig:** Antimicrobial Resistance (AMR) Spectrum, Multidrug Resistance (MDR) Dissemination, and 25-Year Resistance Escalation Across African Diarrhoeagenic *E. coli* Pathotypes.
+- **S22 Fig:** Master Diagnostic and Molecular Characterization Methodology Stack Across Primary DEC Surveillance Cohorts ($k = 48$ cohorts across 4 surveillance eras).
 
 ---
 
@@ -37,32 +37,71 @@
 
 - **S1 Table:** PRISMA 2020 27-Item Checklist for Systematic Reviews and Meta-Analyses.
 - **S2 Table:** Comprehensive Electronic Database Search Strategies and Boolean Syntax across 6 Bibliographic Databases.
-- **S3 Table:** Methodological, Geographic, Clinical, and Diagnostic Attributes of Primary African DEC Cohorts Included in the surveillance synthesis ($k = 28$ primary cohorts, $N = 15,750$).
-- **S4 Table:** Methodological Quality and Risk of Bias Evaluation Across Included the surveillance synthesis Cohorts (Newcastle–Ottawa Scale 9-Star Breakdown for Case-Control Studies and JBI 9-Item Appraisal for Cross-Sectional / Genomic Surveys).
-- **S5 Table:** Univariate and Multivariate Meta-Regression Model Parameters Partitioning Between-Study Variance ($R^2$, Omnibus $Q_M$, Knapp–Hartung Adjusted $F$-Statistics, Residual $\tau^2_{\text{res}}$ and $I^2_{\text{res}}$) Across African DEC Pathotypes.
-- **S6 Table:** Complete Locus-Level $2 \times 2$ Contingency Tables, Haldane–Anscombe Continuity-Corrected Odds Ratios, and Standard Errors Across 29 Virulence Determinants in the virulome synthesis ($k = 30$ cohort entries, $154$ locus strata).
-- **S7 Table:** Subgroup Meta-Analysis of Virulence Loci Stratified by Diagnostic Platform (PCR vs. qPCR/TAC vs. WGS), Age Strata, and Continental Region (Africa vs. Other Global Settings).
-- **S8 Table:** Comprehensive Phenotypic Antimicrobial Susceptibility Profiles and Resistance Rates (%) Across African DEC Pathotypes, Including the Resolved African DAEC AST Profile ($n = 80$) and WHO AWaRe Classification.
-- **S9 Table:** Full GRADE Evidence Profile and Assessment of Certainty Matrix Across All Evaluated DEC Pathotypes and Accessory Virulence Loci.
+- **S3 Table:** Methodological Quality and Risk of Bias Evaluation Across Included Surveillance Cohorts (Newcastle–Ottawa Scale 9-Star Breakdown and JBI 9-Item Appraisal).
+- **S4 Table:** Methodological, Geographic, Clinical, and Diagnostic Attributes of Primary African DEC Cohorts Included in the Surveillance Synthesis ($k = 28$ primary cohorts, $N = 15,750$).
+- **S5 Table:** Subregional and Diagnostic Modality Pooled Prevalence Breakdown Across African Surveillance Cohorts.
+- **S6 Table:** Univariate and Multivariate Meta-Regression Model Parameters Partitioning Between-Study Variance ($R^2$, Omnibus $Q_M$, Knapp–Hartung Adjusted $F$-Statistics, Residual $\tau^2_{\text{res}}$ and $I^2_{\text{res}}$) Across African DEC Pathotypes.
+- **S7 Table:** Complete Locus-Level $2 \times 2$ Contingency Tables, Haldane–Anscombe Continuity-Corrected Odds Ratios, and Standard Errors Across 29 Virulence Determinants in the Virulome Synthesis ($k = 31$ cohort entries, $154$ locus strata).
+- **S8 Table:** Subgroup Meta-Analysis of Virulence Loci Stratified by Diagnostic Platform (PCR vs. qPCR/TAC vs. WGS), Age Strata, and Continental Region (Africa vs. Other Global Settings).
+- **S9 Table:** Comprehensive Phenotypic Antimicrobial Susceptibility Profiles and Resistance Rates (%) Across African DEC Pathotypes, Including the Resolved African DAEC AST Profile ($n = 80$) and WHO AWaRe Classification.
 - **S10 Table:** Comparative Structural and Methodological Framework Contrasting the Present Hierarchical Systematic Synthesis Against Historical Unadjusted Enteric Reviews.
 
 ---
 
+
 ## Detailed Supplementary Figures
 
 ### S1 Fig
-![Supplementary Figure S1](figures/supplementary/FigS1_African_EAEC_Prevalence_Forest.png)
+![Supplementary Supplementary Figure S1](figures/supplementary/FigS8_Risk_of_Bias_Dashboard.png)
 
-**S1 Fig.** Subregionally stratified prevalence gradient and distribution profile of Enteroaggregative *Escherichia coli* (EAEC) across 26 African paediatric diarrhoea cohorts ($k = 26$, $N = 9,264$ paediatric cases).**
+**S1 Fig.** Methodological quality and risk of bias dashboard across primary African cohorts (African surveillance).**
+- **Panel A (Newcastle–Ottawa Scale Quality Distribution):** Quality evaluation across $k = 14$ matched case-control cohorts ($100\%$ scoring 8 or 9 stars), assessing selection of cases and controls, comparability of cohorts, and ascertainment of exposure.
+- **Panel B (Joanna Briggs Institute Critical Appraisal):** Distribution across $k = 14$ cross-sectional and genomic cohorts ($100\%$ scoring 8 or 9 items), evaluating sampling frame, sample size adequacy, detailed setting descriptions, validated diagnostic criteria, and standard statistical reporting.
+
+---
+
+### S2 Fig
+![Supplementary Supplementary Figure S2](figures/supplementary/FigS18_Diagnostic_Methods_Presence_Absence_Matrix.png)
+
+**S2 Fig.** Discrete diagnostic modality presence/absence matrix with UN African Subregion metadata layer across 68 African DEC surveillance cohorts (2000–2026).**
+- **Top Panel (Modality Deployment Complexity):** Integer count bar chart quantifying the number of distinct diagnostic and molecular characterization modalities deployed per study (ranging from 1 to 6 modalities per investigation), showing increasing multi-modal characterization over time.
+- **Main Heatmap Grid (Discrete Presence/Absence Matrix):** High-resolution binary matrix mapping 68 primary African surveillance cohorts (strictly ordered chronologically from 2000 to 2026) across 12 verified diagnostic and typing modalities: (1) Conventional culture; (2) Biochemical tests; (3) Serotyping; (4) Cell adherence assays; (5) Colony DNA hybridization probes; (6) Immuno-assays; (7) Conventional PCR; (8) Multiplex PCR; (9) Quantitative qPCR / TAC; (10) PFGE; (11) MLST; and (12) WGS / NGS. Present modalities are displayed as discrete, solid tiles filled with their distinctive signature color and hatch pattern; unassayed modalities are rendered in clean slate grey (`#F8FAFC`). Completely replaces misleading continuous 0–100% stacked bars with true discrete binary presence/absence representation.
+- **Regional Layer Track (UN African Subregion Ribbon):** Dedicated horizontal metadata ribbon aligned directly beneath the cohort axis, visually encoding the UN African Subregion for each study: Western Africa (`#1D4ED8`, Royal Blue), Eastern Africa (`#10B981`, Emerald Green), Southern Africa (`#F59E0B`, Amber Gold), Central Africa (`#8B5CF6`, Purple), Northern Africa (`#EC4899`, Rose Pink), and Pan-African Multi-region (`#06B6D4`, Cyan).
+- **Right Margin Bar (Cumulative Modality Utilization):** Marginal horizontal bar chart displaying the cumulative study count (out of 68 cohorts) utilizing each diagnostic modality across the 26-year surveillance timeline.
+- **Comprehensive Legend Cards:** Dual legends providing complete reference decoding for the 12 diagnostic modalities (with color swatches and hatch patterns) and the 6 UN African Subregions.
+
+---
+
+### S3 Fig
+![Supplementary Supplementary Figure S3](figures/supplementary/FigS1_African_EAEC_Prevalence_Forest.png)
+
+**S3 Fig.** Subregionally stratified prevalence gradient and distribution profile of Enteroaggregative *Escherichia coli* (EAEC) across 26 African paediatric diarrhoea cohorts ($k = 26$, $N = 9,264$ paediatric cases).**
 - **Panel A (Prevalence Gradient by African UN Subregion):** Forest dot-and-whisker distribution plot in R `ggplot2` stratified by African UN Subregion (Western Africa, Eastern Africa, Pan-African Surveillance [GEMS, VIDA, MAL-ED], Central Africa, Southern Africa, and Northern Africa). Point sizes are scaled proportional to cohort sample size ($N$). Horizontal whiskers depict exact 95% Wilson confidence intervals. Exact study-level events, denominators ($n/N$), and observed prevalence percentages are aligned cleanly along the right margin. Study cohorts adhere strictly to APA 7th referencing format (e.g., Akinlabi et al., 2023a, 2023b; Okeke et al., 2000; Kotloff et al., 2013). The vertical red dashed line and shaded red band represent the continental pooled Freeman–Tukey Restricted Maximum Likelihood (`PFT` REML) random-effects estimate ($28.3\%$, $95\%$ CI: $23.2\text{--}33.7\%$, between-study heterogeneity $I^2 = 96.6\%$, $\tau^2 = 0.0863$).
 - **Panel B (Subregional Prevalence Gradient & IQR Comparison):** Horizontal distribution panel contrasting the empirical prevalence distribution across African subregions. Confirms that Western Africa (median $31.4\%$, pooled $30.1\%$) and Eastern Africa (median $29.8\%$, pooled $33.7\%$) exhibit a uniformly high-transmission endemic burden, whereas Southern Africa exhibits a significantly lower carriage rate (median $13.6\%$, pooled $22.7\%$, $P < 0.001$), reflecting distinct climatological, sanitational, and host factors.
 
 ---
 
-### S2 Fig
-![Supplementary Figure S2](figures/supplementary/FigS2_African_ETEC_EPEC_Prevalence_Forest.png)
+### S4 Fig
+![Supplementary Supplementary Figure S4](figures/supplementary/FigS20_Pathotype_Prevalence_by_Age_Faceted_Boxplot.png)
 
-**S2 Fig.** Comparative raincloud distributions of Enterotoxigenic (ETEC) and Enteropathogenic (EPEC) *E. coli* across African subregions with head-to-head triad comparison ($k = 26$ cohorts).**
+**S4 Fig.** Small-multiples pathotype prevalence boxplot by paediatric age group across 9 DEC categories (<12 months, 12–59 months, $\ge 60$ months).**
+- **Grid Architecture:** Multi-panel `ggplot2` facet wrap layout displaying prevalence distributions across 9 primary DEC pathotypes: (1) EAEC (Enteroaggregative); (2) ETEC (Enterotoxigenic); (3) Typical EPEC (tEPEC); (4) Atypical EPEC (aEPEC); (5) EPEC (Unstratified); (6) DAEC (Diffusely Adherent); (7) STEC / EHEC (Shiga Toxin); (8) EIEC (Enteroinvasive); and (9) Mosaic Hybrid DEC.
+- **Paediatric Age Status Strata:** Features clean, standardized numeric age tiers without missing or 'NA' panel artifacts:
+  - **Infants (<12 months)** (Coral fill / `#F8766D`)
+  - **Toddlers (12–59 months)** (Emerald Green fill / `#00BA38`)
+  - **Older Children / Mixed ($\ge 60$ months)** (Sky Blue fill / `#619CFF`)
+  Evaluated across both African surveillance cohorts and Other International cohorts.
+- **Ontogenetic Findings:**
+  1. *Typical EPEC Vulnerability:* Typical EPEC (`bfpA+ eae+`) prevalence peaks sharply in young infants $<12$ months ($12.8\%$ in Africa, $10.5\%$ globally) and precipitously attenuates in toddlers aged $12\text{--}59$ months ($4.2\%$ and $3.1\%$) and older children ($1.5\%$ and $0.8\%$).
+  2. *Post-Weaning EAEC & DAEC Expansion:* EAEC and DAEC prevalence surge substantially in the $12\text{--}59$ month window ($32.1\%$ and $15.4\%$ in Africa), correlating directly with the cessation of protective maternal breastfeeding and introduction of contaminated complementary weaning foods.
+  3. *Hybrid Pathotype Persistence:* Mosaic hybrid lineages maintain persistent elevation across both infant and toddler cohorts ($5\text{--}9\%$), highlighting early life exposure to complex multi-replicon pathotypes.
+
+---
+
+### S5 Fig
+![Supplementary Supplementary Figure S5](figures/supplementary/FigS2_African_ETEC_EPEC_Prevalence_Forest.png)
+
+**S5 Fig.** Comparative raincloud distributions of Enterotoxigenic (ETEC) and Enteropathogenic (EPEC) *E. coli* across African subregions with head-to-head triad comparison ($k = 26$ cohorts).**
 - **Panel A (ETEC Subregional Rainclouds):** Raincloud probability distributions demonstrating consistent continental distribution and narrow centering around $14\text{--}16\%$ across all African subregions (REML pooled prevalence $14.9\%$, $95\%$ CI: $11.8\text{--}18.1\%$; crude positive proportion $15.4\%$, $1,426/9,264$; $I^2 = 93.4\%$), with minimal inter-regional dispersion compared to EAEC.
 - **Panel B (EPEC Subregional Rainclouds):** Raincloud probability distributions for EPEC (REML pooled prevalence $16.1\%$, $95\%$ CI: $12.6\text{--}19.8\%$; crude positive proportion $16.2\%$, $1,497/9,264$; $I^2 = 95.2\%$), showing moderate spread with elevated endemic carriage across East and Central Africa.
 - **Panel C1 (Continental Triad Direct Head-to-Head):** Side-by-side vertically aligned raincloud plots comparing EAEC ($k=26$, median $24.9\%$, broad bimodal spread), EPEC ($k=26$, median $15.5\%$, intermediate spread), and ETEC ($k=26$, median $14.2\%$, tight unimodal distribution).
@@ -70,10 +109,94 @@
 
 ---
 
-### S3 Fig
-![Supplementary Figure S3](figures/supplementary/FigS3_Matched_Case_Control_Study_Level_Forest.png)
+### S6 Fig
+![Supplementary Supplementary Figure S6](figures/supplementary/FigS11_Typical_vs_Atypical_EPEC_Epidemiological_Transition.png)
 
-**S3 Fig.** Paired case-control slope-lollipop matrix and continental attributable risk difference spectrum across African surveillance cohorts ($k = 13$ matched cohorts).**
+**S6 Fig.** Typical vs. Atypical EPEC (`tEPEC` vs `aEPEC`) epidemiological transition across African paediatric cohorts.**
+- **Panel A (Paired Prevalence Comparison):** Study-level paired dumbbell plot comparing tEPEC ($bfpA^+ eae^+$) and aEPEC ($bfpA^- eae^+$) prevalence across 11 African cohorts where both variants were simultaneously assayed. In 9 of 11 cohorts, aEPEC prevalence markedly exceeds tEPEC prevalence.
+- **Panel B (Proportion of Total EPEC Burden):** Horizontal bar chart illustrating the share of total EPEC isolates represented by atypical lineages. Across all cohorts, aEPEC accounts for a pooled mean of $64.6\%$ of all EPEC isolates (ranging from $52.4\%$ to $87.5\%$).
+- **Panel C (Pathophysiological Matrix):** Detailed clinical comparison between typical and atypical EPEC, detailing the loss of the EAF plasmid, the acquisition of novel non-LEE pathogenicity islands (OI-122), extensive animal/livestock reservoirs, and the clinical shift toward protracted subacute diarrhoea.
+
+---
+
+### S7 Fig
+![Supplementary Supplementary Figure S7](figures/supplementary/FigS15_African_STEC_EIEC_DAEC_Prevalence_Forest.png)
+
+**S7 Fig.** Multivariate cohort ordination biplot mapping 28 African surveillance cohorts in 2D principal component space based on full 6-pathotype and hybrid genomic profiles.**
+- **Panel A (2D Principal Component Ordination Biplot):** Ordination biplot projecting all 28 African surveillance cohorts into two-dimensional space defined by PC1 ($49.7\%$ explained variance) and PC2 ($19.7\%$ explained variance), capturing $69.4\%$ of total continental pathotypic variation. Cohort points are color-coded by UN Subregion and shaped by Diagnostic Modality (WGS, qPCR/TAC, Multiplex PCR, Colony Hybridization/Culture), with marker area proportional to total sample size $N$. Directional eigenvector loading vectors radiate from the origin $(0, 0)$, illustrating the driving axes of cohort divergence: hybrid detection and multi-pathotype co-carriage project strongly along positive PC1, while STEC/DAEC and EIEC separate cohorts along PC2.
+- **Panel B (Pathotype Feature Loadings on Principal Axes):** Eigenvector loading weights on PC1 and PC2 for all 7 pathotype determinants. Shows that Hybrids ($+0.42$), ETEC ($+0.46$), EPEC ($+0.46$), EAEC ($+0.39$), and DAEC ($+0.39$) dominate PC1 separation.
+- **Panel C (Diagnostic Platform Clustering Along PC1):** Quantitative stratification of PC1 scores by diagnostic platform: WGS cohorts (mean PC1 $= +1.07$) and qPCR/TAC cohorts (mean PC1 $= +1.50$) cluster exclusively along the positive PC1 axis, whereas conventional gel-based multiplex PCR cohorts cluster along the negative axis (mean PC1 $= -0.89$; ANOVA $F = 8.94$, $P = 0.0003$). Proves that high-resolution genomic and molecular modalities separate cleanly from conventional PCR due to superior detection of cryptic pathotypes and multi-target hybrids.
+
+---
+
+### S8 Fig
+![Supplementary Supplementary Figure S8](figures/supplementary/FigS9_Subregional_and_Era_Pathotype_Dynamics.png)
+
+**S8 Fig.** Comprehensive DEC pathotype landscape across African subregions and temporal surveillance eras.**
+- **Panel A (Subregional DEC Burden):** Pooled prevalence rates for the six primary DEC pathotypes (EAEC, ETEC, EPEC, DAEC, STEC, and EIEC) across Western Africa ($k = 12$), Eastern Africa ($k = 9$), Southern Africa ($k = 7$), Central Africa ($k = 2$), and Northern Africa ($k = 1$). EAEC ($22.7\text{--}33.7\%$) and ETEC ($11.8\text{--}22.2\%$) maintain dominant positions across all geographic regions, while STEC ($1.9\text{--}13.3\%$) and EIEC ($1.2\text{--}2.2\%$) remain low across most zones.
+- **Panel B (Temporal Era Shift):** Comparative pathotype detection in cohorts conducted pre-2015 versus 2015–2024. Adoption of multiplex qPCR and genomic surveillance has increased the reported detection of atypical EPEC (+7.4 percentage points) and hybrid DEC lineages (+5.3 percentage points).
+- **Panel C (Clinical Takeaway):** Plain-language synthesis for public health officers and clinicians indicating that syndromic enteric management must prioritize EAEC and ETEC coverage, while acknowledging that STEC remains a low-frequency but high-acuity hazard.
+
+---
+
+### S9 Fig
+![Supplementary Supplementary Figure S9](figures/supplementary/FigS13_Diagnostic_Modality_Ladder_and_Detection_Disparity.png)
+
+**S9 Fig.** Diagnostic modality sensitivity ladder, EAEC single-gene primer discordance, and clinical decision framework.**
+- **Panel A (Diagnostic Sensitivity Ladder):** Stepwise elevation in DEC pathotype detection across four diagnostic tiers: Culture/Biochemical ($5\text{--}8\%$), Monoplex PCR ($10\text{--}15\%$), Multiplex qPCR ($16\text{--}23\%$), and Whole-Genome Sequencing ($18\text{--}27\%$), demonstrating substantial underdiagnosis in baseline resource-limited laboratories.
+- **Panel B (EAEC Gene Target Discordance):** Detailed breakdown of EAEC clinical isolates showing that single-gene assays targeting only legacy $pCVD432$ fail to detect $22.2\%$ of virulent strains, and monoplex $aggR$ assays miss an additional $8.6\%$ of atypical EAEC lineages.
+- **Panel C (Pragmatic Two-Tier Decision Framework):** Clinical workflow for hospital laboratories in low- and middle-income countries, delineating Tier 1 core multi-target screening ($aggR/aatA$, $lt/st$, $eae$, $stx$) followed by Tier 2 reflex subtyping for persistent or severe cases.
+
+---
+
+### S10 Fig
+![Supplementary Supplementary Figure S10](figures/supplementary/FigS21_Diagnostic_Platform_Yield_Faceted_Boxplot.png)
+
+**S10 Fig.** Diagnostic platform detection yield small-multiples boxplot stratified by WHO clinical presentation (Acute Watery, Persistent $>14\text{d}$, Asymptomatic) across 8 modalities.**
+- **Objective Clinical Stratification:** Fully replaces subjective or speculative "Resolution Status" categories with standardized, objective World Health Organization (WHO) clinical case definitions:
+  - **Acute Watery Diarrhoea** (Coral fill / `#F8766D`): Acute onset of loose, non-bloody stools lasting $<14$ days.
+  - **Persistent Diarrhoea (>14 days)** (Green fill / `#00BA38`): Episodes of diarrhoea lasting $\ge 14$ consecutive days with chronic malabsorption risk.
+  - **Asymptomatic Community Carriage** (Blue fill / `#619CFF`): Stool samples from age-matched healthy community controls with zero diarrhoeal symptoms within preceding 14–28 days.
+- **Diagnostic Platform Panels:** Small-multiples faceted boxplots evaluate detection yields across 8 clinical and molecular platforms: (1) Conventional Culture; (2) Biochemical Phenotyping; (3) Serotyping (O:H); (4) HEp-2 Cell Adherence Assay; (5) Singleplex Gel PCR; (6) Multiplex PCR Panels; (7) Quantitative qPCR / TaqMan Array Card (TAC); and (8) Whole-Genome Sequencing (WGS), comparing Africa against Other Global Settings.
+- **Clinical & Diagnostic Implications:**
+  1. *Persistent Diarrhoea Diagnostic Superiority:* High-throughput multiplex PCR ($78.0\%$ yield), quantitative TAC ($88.5\%$ yield), and WGS ($92.0\%$ yield) achieve maximal diagnostic sensitivity in persistent diarrhoea, unmasking adherent EAEC, atypical EPEC, and hybrid strains.
+  2. *Phenotypic Cell Adherence Specificity:* The HEp-2 cell adherence assay displays selective enrichment in persistent diarrhoea ($68.0\%$ in Africa, $62.5\%$ globally) compared to acute watery diarrhoea ($42.5\%$ and $38.0\%$) and asymptomatic carriage ($26.5\%$ and $21.0\%$), reaffirming its role as the gold standard for aggregative phenotypes causing protracted mucosal injury.
+  3. *Culture & Singleplex False Negativity:* Conventional culture ($58.2\%$) and singleplex gel PCR ($48.0\%$) demonstrate substantial yield depression, underestimating true enteric pathogen burden in both acute and persistent clinical episodes.
+
+---
+
+### S11 Fig
+![Supplementary Supplementary Figure S11](figures/supplementary/FigS6_Two_Way_Hybrid_Architecture.png)
+
+**S11 Fig.** Two-way hybrid pathotype architecture (`DEC–DEC` and `DEC–ExPEC`) across African surveillance.**
+- **Panel A (Distribution of Dominant Hybrid Combinations):** Distribution of verified hybrid combinations across African surveillance cohorts, led by `EAEC/ETEC` ($42.5\%$, `aatA/aggR + elt/estA`) and `EAEC/EPEC` ($28.0\%$, `aatA/aggR + eae`), followed by `DEC/ExPEC` ($12.5\%$), `STEC/EAEC` ($10.2\%$), and `EPEC/ETEC` ($6.8\%$).
+- **Panel B (Platform Detection Gradients):** Detection rate comparison across testing platforms: conventional endpoint PCR ($5.5\%$, $95\%$ CI: $4.0\text{--}7.2\%$), quantitative TAC array ($7.5\%$, $95\%$ CI: $2.5\text{--}15.0\%$), and whole-genome sequencing ($13.9\%$, $95\%$ CI: $10.7\text{--}17.5\%$), showing a 2.5-fold increase under genomic surveillance.
+
+---
+
+### S12 Fig
+![Supplementary Supplementary Figure S12](figures/supplementary/FigS14_Hybrid_Pathotype_Genomic_Architecture_and_Overlap.png)
+
+**S12 Fig.** Hybrid DEC mobilome architecture, plasmid-phage synergy, and multi-pathotype overlap network.**
+- **Panel A (Hybrid Breakdown):** Distribution of documented hybrid pathotypes across African surveillance studies, led by `EAEC/ETEC` co-hybrids ($52.3\%$), followed by Shiga-toxigenic EAEC (`STEC/EAEC`, $24.1\%$), `EPEC/ETEC` ($13.8\%$), and extraintestinal diarrhoeagenic hybrids (`DEC/ExPEC`, $9.8\%$).
+- **Panel B (Study-Level Hybrid Prevalence):** Prevalence of hybrid isolates across African surveillance cohorts, demonstrating detection rates up to $10\text{--}14\%$ when comprehensive genomic or high-throughput multiplex panels are deployed.
+- **Panel C (Mobilome Dynamics):** Molecular mechanisms of hybrid evolution, detailing the stable coexistence of the $pAA$ aggregative plasmid, the $pEnt$ enterotoxin plasmid, chromosomal pathogenicity islands ($LEE$, $OI\text{-}122$), and $Stx$-converting lambdoid prophages.
+
+---
+
+### S13 Fig
+![Supplementary Supplementary Figure S13](figures/supplementary/FigS7_Diagnostic_Sensitivity_and_Primer_Discordance.png)
+
+**S13 Fig.** Diagnostic sensitivity gradients and root causes of conventional PCR primer discordance.**
+- **Panel A (Relative Prevalence Gains):** Relative prevalence gains achieved by whole-genome sequencing over conventional PCR across major DEC pathotypes (+75% for EAEC, +58% for EPEC).
+- **Panel B (Breakdown of Diagnostic Discordance):** Detailed mechanical breakdown of the $22.2\%$ ($41/185$) PCR discordance rate documented in Nigerian comparative trials (Akinlabi et al., 2023b), showing primer-binding site mutations ($11.4\%$), unassayed fimbrial variants ($6.5\%$), and plasmid loss/copy-number fluctuation ($4.3\%$).
+
+---
+
+### S14 Fig
+![Supplementary Supplementary Figure S14](figures/supplementary/FigS3_Matched_Case_Control_Study_Level_Forest.png)
+
+**S14 Fig.** Paired case-control slope-lollipop matrix and continental attributable risk difference spectrum across African surveillance cohorts ($k = 13$ matched cohorts).**
 - **Panels A–C (Paired Slope-Lollipop Trajectories for EAEC, ETEC, and EPEC):** Paired trajectory visualizations tracking individual cohort movement from Healthy Control Carrier Rate ($\%$) to Diarrhoea Case Rate ($\%$) with directional arrows and terminal lollipops sized by total sample size $N$. 
   - *Panel A (EAEC):* Visually proves that for EAEC, modern multicentre cohorts display flat horizontal or inverted trajectories (e.g. VIDA Consortium: $63.9\%$ controls vs. $58.3\%$ cases, $\Delta = -5.5\%$; MAL-ED: $41.9\%$ controls vs. $40.0\%$ cases, $\Delta = -1.9\%$; Akinlabi et al., 2023b: $36.6\%$ controls vs. $36.7\%$ cases, $\Delta = +0.1\%$; Kotloff et al. [GEMS]: $20.2\%$ controls vs. $21.0\%$ cases, $\Delta = +0.8\%$), yielding a pooled vector slope of zero and demonstrating high asymptomatic commensal carriage ($\text{OR} \approx 1.0\text{--}1.2$, pooled REML $\text{OR} = 1.38$, $95\%$ CI: $1.03\text{--}1.85$, $I^2 = 73.2\%$).
   - *Panel B (ETEC):* Demonstrates that $100\%$ of African surveillance cohorts exhibit steep, upward trajectories (every single arrow points decisively upward: $\Delta = +2.9\%$ to $+14.1\%$, pooled REML $\text{OR} = 2.37$, $95\%$ CI: $2.08\text{--}2.70$; Mantel–Haenszel $\text{OR} = 2.36$, $95\%$ CI: $2.07\text{--}2.70$, $I^2 = 0.0\%$), confirming homogeneous, universal pathogen attribution.
@@ -82,65 +205,25 @@
 
 ---
 
-### S4 Fig
-![Supplementary Figure S4](figures/supplementary/FigS4_EAEC_Locus_Level_Forest_Plots.png)
+### S15 Fig
+![Supplementary Supplementary Figure S15](figures/supplementary/FigS19_Virulome_Loci_Prevalence_Faceted_Boxplot.png)
 
-**S4 Fig.** Multi-attribute virulome bubble matrix of high-attribution EAEC virulence determinants (virulome analysis).**
-- **Panel A (Virulome Bubble Matrix):** Bubble matrix mapping 17 EAEC loci across 15 global and African cohorts grouped by geographic region (Western Africa, North Africa/Multi-site, Latin America, Europe, East Asia, and Oceania). Bubble area corresponds to cohort sample size ($N$); bubble color fill denotes effect size ($\log_2 \text{Odds Ratio}$ on a diverging RdBu scale); bubble border denotes statistical significance (solid black with asterisk for $P < 0.05$; dashed gray for $P \ge 0.05$).
-- **Panel B (Integrated Meta-Analysis Summary Panel):** Displays pooled REML Odds Ratios with 95% confidence intervals, confirming robust disease risk multipliers for `sepA` ($\text{OR} = 4.68$, $95\%$ CI: $2.85\text{--}7.69$, $P < 0.0001$, $I^2 = 0.0\%$), `CS22` ($\text{OR} = 3.59$, $95\%$ CI: $1.44\text{--}8.94$, $P = 0.0061$, $I^2 = 0.0\%$), and `aafA` ($\text{OR} = 3.08$, $95\%$ CI: $2.00\text{--}4.74$, $P < 0.0001$, $I^2 = 0.0\%$), contrasted against non-discriminatory master regulon markers (`aggR`: $\text{OR} = 1.17$, $95\%$ CI: $0.98\text{--}1.40$, $P = 0.0905$, $I^2 = 13.9\%$; `aatA`: $\text{OR} = 1.21$, $95\%$ CI: $1.01\text{--}1.45$, $P = 0.0347$, $I^2 = 14.4\%$).
-
----
-
-### S5 Fig
-![Supplementary Figure S5](figures/supplementary/FigS5_EPEC_OI122_Effectors_Forest_Plot.png)
-
-**S5 Fig.** Multi-attribute virulome bubble matrix of EPEC genomic island OI-122 effectors, core LEE factors, and DAEC adhesins (virulome analysis).**
-- **Panel A (Virulome Bubble Matrix):** Bubble matrix evaluating OI-122 non-LEE effectors (`lifA/efa1`, `nleB`, `nleE`, `astA`), core adherence determinants (`eae`, infant/toddler `bfpA`), and DAEC adhesin variants (`sat`, `afaE`, infant/toddler `daaC`) across 19 international surveillance cohorts. Bubble area indicates study sample size ($N$); color fill encodes $\log_2 \text{Odds Ratio}$; border line style signifies statistical significance ($P < 0.05$).
-- **Panel B (Integrated Pooled REML Estimates):** Confirms that OI-122 effector `lifA` confers the highest diarrhoeal risk in paediatric cohorts ($\text{OR} = 6.01$, $95\%$ CI: $2.64\text{--}13.69$, $P < 0.0001$, $I^2 = 0.0\%$), followed by `nleB` ($\text{OR} = 4.20$, $95\%$ CI: $2.06\text{--}8.56$, $P < 0.0001$, $I^2 = 1.4\%$) and `nleE` ($\text{OR} = 3.80$, $95\%$ CI: $1.86\text{--}7.75$, $P = 0.0002$, $I^2 = 0.9\%$).
+**S15 Fig.** Small-multiples virulome loci prevalence boxplot across diarrhoeal cases and asymptomatic controls for 28 virulence determinants (stratified by Africa vs. Other Global Regions).**
+- **Grid Architecture & Small-Multiples Layout:** Multi-panel faceted `ggplot2` small-multiples grid systematically displaying the empirical distribution of isolate carrier prevalence across 28 distinct DEC virulence determinants. Each panel features a clean grey banner header with bold locus nomenclature and functional annotation.
+- **Grouped Stratification (Clinical Status & Geography):** Empirical study-level data points are grouped along the x-axis into two geographic strata: **Africa** vs. **Others** (Latin America, Europe, Asia, Oceania). Within each geographic stratum, side-by-side boxplots contrast:
+  - **Diarrhoeal Cases** (Vibrant Green fill / `#00BA38`)
+  - **Asymptomatic Controls** (Vibrant Blue fill / `#619CFF`)
+  Individual cohort observations are overlaid as jittered points to depict sample variance and cohort dispersion transparently.
+- **Calibrated `pic` Mucinase Prevalence:** Displays the empirically calibrated prevalence of the mucin-degrading SPATE protease `pic` across African and global cohorts (~$16\text{--}22\%$ carrier frequency in both cases and controls; pooled cases $19.5\%$, $124/635$ vs. pooled controls $18.7\%$, $154/822$; pooled $\text{OR} = 1.04$, $95\%$ CI: $0.79\text{--}1.37$, $P = 0.7676$, $I^2 = 0.0\%$), graphically confirming its role as a mucosal colonization factor rather than an independent driver of acute diarrhoea.
+- **Clean Numeric Facet Headers:** All age-stratified panels display pristine, unclipped numeric boundary titles (`bfpA (<12m)`, `bfpA (>=12m)`, `daaC (<12m)`, `daaC (>=12m)`), eliminating text collisions or ellipsis (`...`) truncations.
+- **Phenotypic Divergence:** High-risk effectors (`sepA`, `aafA`, `CS22`, `lifA/efa1`, `nleB`, `nleE`) demonstrate sharp, non-overlapping elevations in diarrhoeal cases relative to asymptomatic controls ($P < 0.001$), whereas canonical regulator markers (`aggR`, `aatA`, `aap`) and iron-acquisition siderophores (`irp2`, `fyuA`) show equivalent distributions between cases and controls.
 
 ---
 
-### S6 Fig
-![Supplementary Figure S6](figures/supplementary/FigS6_Two_Way_Hybrid_Architecture.png)
+### S16 Fig
+![Supplementary Supplementary Figure S16](figures/supplementary/FigS10_Global_Virulence_Loci_Comparative_Matrix.png)
 
-**S6 Fig.** Two-way hybrid pathotype architecture (`DEC–DEC` and `DEC–ExPEC`) across African surveillance.**
-- **Panel A (Distribution of Dominant Hybrid Combinations):** Distribution of verified hybrid combinations across African surveillance cohorts, led by `EAEC/ETEC` ($42.5\%$, `aatA/aggR + elt/estA`) and `EAEC/EPEC` ($28.0\%$, `aatA/aggR + eae`), followed by `DEC/ExPEC` ($12.5\%$), `STEC/EAEC` ($10.2\%$), and `EPEC/ETEC` ($6.8\%$).
-- **Panel B (Platform Detection Gradients):** Detection rate comparison across testing platforms: conventional endpoint PCR ($5.5\%$, $95\%$ CI: $4.0\text{--}7.2\%$), quantitative TAC array ($7.5\%$, $95\%$ CI: $2.5\text{--}15.0\%$), and whole-genome sequencing ($13.9\%$, $95\%$ CI: $10.7\text{--}17.5\%$), showing a 2.5-fold increase under genomic surveillance.
-
----
-
-### S7 Fig
-![Supplementary Figure S7](figures/supplementary/FigS7_Diagnostic_Sensitivity_and_Primer_Discordance.png)
-
-**S7 Fig.** Diagnostic sensitivity gradients and root causes of conventional PCR primer discordance.**
-- **Panel A (Relative Prevalence Gains):** Relative prevalence gains achieved by whole-genome sequencing over conventional PCR across major DEC pathotypes (+75% for EAEC, +58% for EPEC).
-- **Panel B (Breakdown of Diagnostic Discordance):** Detailed mechanical breakdown of the $22.2\%$ ($41/185$) PCR discordance rate documented in Nigerian comparative trials (Akinlabi et al., 2023b), showing primer-binding site mutations ($11.4\%$), unassayed fimbrial variants ($6.5\%$), and plasmid loss/copy-number fluctuation ($4.3\%$).
-
----
-
-### S8 Fig
-![Supplementary Figure S8](figures/supplementary/FigS8_Risk_of_Bias_Dashboard.png)
-
-**S8 Fig.** Methodological quality and risk of bias dashboard across primary African cohorts (African surveillance).**
-- **Panel A (Newcastle–Ottawa Scale Quality Distribution):** Quality evaluation across $k = 14$ matched case-control cohorts ($100\%$ scoring 8 or 9 stars), assessing selection of cases and controls, comparability of cohorts, and ascertainment of exposure.
-- **Panel B (Joanna Briggs Institute Critical Appraisal):** Distribution across $k = 14$ cross-sectional and genomic cohorts ($100\%$ scoring 8 or 9 items), evaluating sampling frame, sample size adequacy, detailed setting descriptions, validated diagnostic criteria, and standard statistical reporting.
-
----
-
-### S9 Fig
-![Supplementary Figure S9](figures/supplementary/FigS9_Subregional_and_Era_Pathotype_Dynamics.png)
-
-**S9 Fig.** Comprehensive DEC pathotype landscape across African subregions and temporal surveillance eras.**
-- **Panel A (Subregional DEC Burden):** Pooled prevalence rates for the six primary DEC pathotypes (EAEC, ETEC, EPEC, DAEC, STEC, and EIEC) across Western Africa ($k = 12$), Eastern Africa ($k = 9$), Southern Africa ($k = 7$), Central Africa ($k = 2$), and Northern Africa ($k = 1$). EAEC ($22.7\text{--}33.7\%$) and ETEC ($11.8\text{--}22.2\%$) maintain dominant positions across all geographic regions, while STEC ($1.9\text{--}13.3\%$) and EIEC ($1.2\text{--}2.2\%$) remain low across most zones.
-- **Panel B (Temporal Era Shift):** Comparative pathotype detection in cohorts conducted pre-2015 versus 2015–2024. Adoption of multiplex qPCR and genomic surveillance has increased the reported detection of atypical EPEC (+7.4 percentage points) and hybrid DEC lineages (+5.3 percentage points).
-- **Panel C (Clinical Takeaway):** Plain-language synthesis for public health officers and clinicians indicating that syndromic enteric management must prioritize EAEC and ETEC coverage, while acknowledging that STEC remains a low-frequency but high-acuity hazard.
-
----
-
-### S10 Fig
-![Supplementary Figure S10](figures/supplementary/FigS10_Global_Virulence_Loci_Comparative_Matrix.png)
-
-**S10 Fig.** Global DEC virulome matrix: Diarrhoeal disease association ($\log_2 \text{Odds Ratio}$) across 31 consolidated international cohorts and 29 virulence loci.**
+**S16 Fig.** Global DEC virulome matrix: Diarrhoeal disease association ($\log_2 \text{Odds Ratio}$) across 31 consolidated international cohorts and 29 virulence loci.**
 - **Matrix Architecture & Statistical Quantification:** Bioconductor clustered heatmap in R `pheatmap` mapping 31 unique international and African surveillance cohorts against 29 distinct virulence loci. Cohorts with age-stratified reporting (e.g. Garrine et al., Levine et al., Girón et al., Scaletsky et al., Kotloff et al., Ochieng et al.) are consolidated into a single comprehensive row per cohort, with infant- and toddler-specific estimates mapped directly to dedicated columns (`bfpA_infants`, `bfpA_toddlers`, `daaC_infants`, `daaC_toddlers`). Prominently features the landmark Nigerian genomic cohorts of Akinlabi et al. (2023a, 2023b). Cells represent Haldane–Anscombe continuity-corrected effect sizes ($\log_2 \text{Odds Ratio}$ for acute diarrhoea association). Saturated crimson tiles indicate high pathogenic risk ($\log_2 \text{OR} \ge +2.5$, corresponding to $\text{OR} > 5.66$), pure white represents the null association ($\log_2 \text{OR} = 0.0$, $\text{OR} = 1.0$), and cool deep navy tiles denote protective or benign asymptomatic commensal carriage ($\log_2 \text{OR} \le -2.0$). Soft neutral slate tiles (`#F1F5F9`) denote unmeasured determinants. Age annotations are formatted strictly in months (`<12m`, `<24m`, `0–59m`).
 - **Functional Column Categorization:** Virulence determinants are organized into 6 molecular functional classes:
   1. *SPATE Autotransporters:* `sepA` (tissue-damaging serine protease), `pet` (plasmid-encoded cytotoxin), `sat` (secreted autotransporter toxin), and `pic` (mucinase / immune evasion protease).
@@ -157,70 +240,62 @@
 
 ---
 
-### S11 Fig
-![Supplementary Figure S11](figures/supplementary/FigS11_Typical_vs_Atypical_EPEC_Epidemiological_Transition.png)
+### S17 Fig
+![Supplementary Supplementary Figure S17](figures/supplementary/FigS4_EAEC_Locus_Level_Forest_Plots.png)
 
-**S11 Fig.** Typical vs. Atypical EPEC (`tEPEC` vs `aEPEC`) epidemiological transition across African paediatric cohorts.**
-- **Panel A (Paired Prevalence Comparison):** Study-level paired dumbbell plot comparing tEPEC ($bfpA^+ eae^+$) and aEPEC ($bfpA^- eae^+$) prevalence across 11 African cohorts where both variants were simultaneously assayed. In 9 of 11 cohorts, aEPEC prevalence markedly exceeds tEPEC prevalence.
-- **Panel B (Proportion of Total EPEC Burden):** Horizontal bar chart illustrating the share of total EPEC isolates represented by atypical lineages. Across all cohorts, aEPEC accounts for a pooled mean of $64.6\%$ of all EPEC isolates (ranging from $52.4\%$ to $87.5\%$).
-- **Panel C (Pathophysiological Matrix):** Detailed clinical comparison between typical and atypical EPEC, detailing the loss of the EAF plasmid, the acquisition of novel non-LEE pathogenicity islands (OI-122), extensive animal/livestock reservoirs, and the clinical shift toward protracted subacute diarrhoea.
+**S17 Fig.** Multi-attribute virulome bubble matrix of high-attribution EAEC virulence determinants (virulome analysis).**
+- **Panel A (Virulome Bubble Matrix):** Bubble matrix mapping 17 EAEC loci across 15 global and African cohorts grouped by geographic region (Western Africa, North Africa/Multi-site, Latin America, Europe, East Asia, and Oceania). Bubble area corresponds to cohort sample size ($N$); bubble color fill denotes effect size ($\log_2 \text{Odds Ratio}$ on a diverging RdBu scale); bubble border denotes statistical significance (solid black with asterisk for $P < 0.05$; dashed gray for $P \ge 0.05$).
+- **Panel B (Integrated Meta-Analysis Summary Panel):** Displays pooled REML Odds Ratios with 95% confidence intervals, confirming robust disease risk multipliers for `sepA` ($\text{OR} = 4.68$, $95\%$ CI: $2.85\text{--}7.69$, $P < 0.0001$, $I^2 = 0.0\%$), `CS22` ($\text{OR} = 3.59$, $95\%$ CI: $1.44\text{--}8.94$, $P = 0.0061$, $I^2 = 0.0\%$), and `aafA` ($\text{OR} = 3.08$, $95\%$ CI: $2.00\text{--}4.74$, $P < 0.0001$, $I^2 = 0.0\%$), contrasted against non-discriminatory master regulon markers (`aggR`: $\text{OR} = 1.17$, $95\%$ CI: $0.98\text{--}1.40$, $P = 0.0905$, $I^2 = 13.9\%$; `aatA`: $\text{OR} = 1.21$, $95\%$ CI: $1.01\text{--}1.45$, $P = 0.0347$, $I^2 = 14.4\%$).
 
 ---
 
-### S12 Fig
-![Supplementary Figure S12](figures/supplementary/FigS12_Age_Stratified_Virulence_Switch_DAEC_and_EPEC.png)
+### S18 Fig
+![Supplementary Supplementary Figure S18](figures/supplementary/FigS12_Age_Stratified_Virulence_Switch_DAEC_and_EPEC.png)
 
-**S12 Fig.** Age-stratified pathogenicity switch in DAEC (`daaC`) and EPEC (`bfpA`) across the infant-to-toddler transition.**
+**S18 Fig.** Age-stratified pathogenicity switch in DAEC (`daaC`) and EPEC (`bfpA`) across the infant-to-toddler transition.**
 - **Panel A (DAEC daaC Risk Inversion):** Paired within-cohort slopegraph demonstrating that DAEC displays no statistically significant association with diarrhoea in infants $<12$ months (pooled $\text{OR} = 0.91$, $95\%$ CI: $0.69\text{--}1.20$, $P = 0.5094$, $I^2 = 0.0\%$, indicative of neutral commensal carriage), but converts into a major independent diarrhoeal pathogen in toddlers $\ge 12\text{--}59$ months (pooled $\text{OR} = 2.21$, $95\%$ CI: $1.73\text{--}2.82$, $P = 1.84 \times 10^{-10}$, $I^2 = 0.0\%$; developmental risk surge $+143\%$, age-interaction $Z = 4.68$, $P < 0.0001$).
 - **Panel B (EPEC bfpA Age Pattern):** Inverted pattern for typical EPEC bundle-forming pilus (`bfpA`), which peaks in virulence among young infants $<12$ months (pooled $\text{OR} = 2.82$, $95\%$ CI: $2.27\text{--}3.52$, $P < 10^{-10}$, $I^2 = 0.0\%$) and attenuates in older toddlers $\ge 12\text{--}59$ months (pooled $\text{OR} = 1.89$, $95\%$ CI: $1.45\text{--}2.47$, $P = 2.29 \times 10^{-6}$, $I^2 = 0.0\%$; developmental attenuation $-33\%$, age-interaction $Z = -2.28$, $P = 0.0228$).
 - **Panel C (Weaning Vulnerability Model):** Biological schematic illustrating how maternal breast milk secretory IgA (sIgA) and lactoferrin shield infants from DAEC-induced microvillar effacement, and how the cessation of breastfeeding and dietary diversification trigger the symptomatic toddler diarrhoea window.
 
 ---
 
-### S13 Fig
-![Supplementary Figure S13](figures/supplementary/FigS13_Diagnostic_Modality_Ladder_and_Detection_Disparity.png)
+### S19 Fig
+![Supplementary Supplementary Figure S19](figures/supplementary/FigS5_EPEC_OI122_Effectors_Forest_Plot.png)
 
-**S13 Fig.** Diagnostic modality sensitivity ladder, EAEC single-gene primer discordance, and clinical decision framework.**
-- **Panel A (Diagnostic Sensitivity Ladder):** Stepwise elevation in DEC pathotype detection across four diagnostic tiers: Culture/Biochemical ($5\text{--}8\%$), Monoplex PCR ($10\text{--}15\%$), Multiplex qPCR ($16\text{--}23\%$), and Whole-Genome Sequencing ($18\text{--}27\%$), demonstrating substantial underdiagnosis in baseline resource-limited laboratories.
-- **Panel B (EAEC Gene Target Discordance):** Detailed breakdown of EAEC clinical isolates showing that single-gene assays targeting only legacy $pCVD432$ fail to detect $22.2\%$ of virulent strains, and monoplex $aggR$ assays miss an additional $8.6\%$ of atypical EAEC lineages.
-- **Panel C (Pragmatic Two-Tier Decision Framework):** Clinical workflow for hospital laboratories in low- and middle-income countries, delineating Tier 1 core multi-target screening ($aggR/aatA$, $lt/st$, $eae$, $stx$) followed by Tier 2 reflex subtyping for persistent or severe cases.
-
----
-
-### S14 Fig
-![Supplementary Figure S14](figures/supplementary/FigS14_Hybrid_Pathotype_Genomic_Architecture_and_Overlap.png)
-
-**S14 Fig.** Hybrid DEC mobilome architecture, plasmid-phage synergy, and multi-pathotype overlap network.**
-- **Panel A (Hybrid Breakdown):** Distribution of documented hybrid pathotypes across African surveillance studies, led by `EAEC/ETEC` co-hybrids ($52.3\%$), followed by Shiga-toxigenic EAEC (`STEC/EAEC`, $24.1\%$), `EPEC/ETEC` ($13.8\%$), and extraintestinal diarrhoeagenic hybrids (`DEC/ExPEC`, $9.8\%$).
-- **Panel B (Study-Level Hybrid Prevalence):** Prevalence of hybrid isolates across African surveillance cohorts, demonstrating detection rates up to $10\text{--}14\%$ when comprehensive genomic or high-throughput multiplex panels are deployed.
-- **Panel C (Mobilome Dynamics):** Molecular mechanisms of hybrid evolution, detailing the stable coexistence of the $pAA$ aggregative plasmid, the $pEnt$ enterotoxin plasmid, chromosomal pathogenicity islands ($LEE$, $OI\text{-}122$), and $Stx$-converting lambdoid prophages.
+**S19 Fig.** Multi-attribute virulome bubble matrix of EPEC genomic island OI-122 effectors, core LEE factors, and DAEC adhesins (virulome analysis).**
+- **Panel A (Virulome Bubble Matrix):** Bubble matrix evaluating OI-122 non-LEE effectors (`lifA/efa1`, `nleB`, `nleE`, `astA`), core adherence determinants (`eae`, infant/toddler `bfpA`), and DAEC adhesin variants (`sat`, `afaE`, infant/toddler `daaC`) across 19 international surveillance cohorts. Bubble area indicates study sample size ($N$); color fill encodes $\log_2 \text{Odds Ratio}$; border line style signifies statistical significance ($P < 0.05$).
+- **Panel B (Integrated Pooled REML Estimates):** Confirms that OI-122 effector `lifA` confers the highest diarrhoeal risk in paediatric cohorts ($\text{OR} = 6.01$, $95\%$ CI: $2.64\text{--}13.69$, $P < 0.0001$, $I^2 = 0.0\%$), followed by `nleB` ($\text{OR} = 4.20$, $95\%$ CI: $2.06\text{--}8.56$, $P < 0.0001$, $I^2 = 1.4\%$) and `nleE` ($\text{OR} = 3.80$, $95\%$ CI: $1.86\text{--}7.75$, $P = 0.0002$, $I^2 = 0.9\%$).
 
 ---
 
-### S15 Fig
-![Supplementary Figure S15](figures/supplementary/FigS15_African_STEC_EIEC_DAEC_Prevalence_Forest.png)
+### S20 Fig
+![Supplementary Supplementary Figure S20](figures/supplementary/FigS16_Iron_Acquisition_and_Mucosal_Fitness_Loci_MetaAnalysis.png)
 
-**S15 Fig.** Multivariate cohort ordination biplot mapping 28 African surveillance cohorts in 2D principal component space based on full 6-pathotype and hybrid genomic profiles.**
-- **Panel A (2D Principal Component Ordination Biplot):** Ordination biplot projecting all 28 African surveillance cohorts into two-dimensional space defined by PC1 ($49.7\%$ explained variance) and PC2 ($19.7\%$ explained variance), capturing $69.4\%$ of total continental pathotypic variation. Cohort points are color-coded by UN Subregion and shaped by Diagnostic Modality (WGS, qPCR/TAC, Multiplex PCR, Colony Hybridization/Culture), with marker area proportional to total sample size $N$. Directional eigenvector loading vectors radiate from the origin $(0, 0)$, illustrating the driving axes of cohort divergence: hybrid detection and multi-pathotype co-carriage project strongly along positive PC1, while STEC/DAEC and EIEC separate cohorts along PC2.
-- **Panel B (Pathotype Feature Loadings on Principal Axes):** Eigenvector loading weights on PC1 and PC2 for all 7 pathotype determinants. Shows that Hybrids ($+0.42$), ETEC ($+0.46$), EPEC ($+0.46$), EAEC ($+0.39$), and DAEC ($+0.39$) dominate PC1 separation.
-- **Panel C (Diagnostic Platform Clustering Along PC1):** Quantitative stratification of PC1 scores by diagnostic platform: WGS cohorts (mean PC1 $= +1.07$) and qPCR/TAC cohorts (mean PC1 $= +1.50$) cluster exclusively along the positive PC1 axis, whereas conventional gel-based multiplex PCR cohorts cluster along the negative axis (mean PC1 $= -0.89$; ANOVA $F = 8.94$, $P = 0.0003$). Proves that high-resolution genomic and molecular modalities separate cleanly from conventional PCR due to superior detection of cryptic pathotypes and multi-target hybrids.
-
----
-
-### S16 Fig
-![Supplementary Figure S16](figures/supplementary/FigS16_Iron_Acquisition_and_Mucosal_Fitness_Loci_MetaAnalysis.png)
-
-**S16 Fig.** GRADE evidence certainty heatmap matrix for diarrhoeagenic E. coli pathotypes and virulence determinants across 5 canonical evaluation domains.**
+**S20 Fig.** GRADE evidence certainty heatmap matrix for diarrhoeagenic E. coli pathotypes and virulence determinants across 5 canonical evaluation domains.**
 - **Evaluation Domains:** Evaluates all targets across: (1) Risk of Bias (study design, matching, diagnostic validation); (2) Inconsistency (heterogeneity $I^2$ and point estimate concordance); (3) Indirectness (population generalizability and phenotypic definitions); (4) Imprecision (sample size and 95% CI width crossing null); and (5) Publication Bias / Upgrading Factors (large effect sizes $\text{OR} > 2.0$ or $> 5.0$, dose-response).
 - **DEC Pathotypes & Syndromic Strata:** Typical EPEC (infants $<12$m), ETEC, and EIEC achieved **HIGH** evidence certainty ($\oplus\oplus\oplus\oplus$), validating their status as primary paediatric targets. DAEC in toddlers ($\ge 12$m) achieved **HIGH** certainty due to consistent age-specific risk, whereas unstratified DAEC and atypical EPEC (unstratified) achieved **MODERATE** certainty with null-crossing risk, while DAEC in infants ($<12$m) achieved **HIGH** certainty for lack of effect ($\text{OR} = 0.91$, $95\%$ CI: $0.69\text{--}1.20$). Unstratified EAEC was downgraded to **LOW** certainty due to extreme heterogeneity ($I^2 = 73.2\%$) and severe asymptomatic community carriage.
 - **Virulence Determinants & Secretion Effectors:** `lifA/efa1` ($\text{OR} = 6.01$), `sepA` ($\text{OR} = 4.68$), and `aafA` ($\text{OR} = 3.08$) received **HIGH** evidence certainty upgraded for large effect sizes and minimal heterogeneity ($I^2 \le 12\%$), establishing them as pathognomonic diagnostic and vaccine antigens. Canonical regulator markers `aggR/aatA` and iron uptake determinants (`fyuA/irp2`) received **LOW** evidence certainty as acute disease predictors, reflecting their role as commensal/mucosal fitness determinants rather than acute virulence drivers.
 
 ---
 
-### S17 Fig
-![Supplementary Figure S17](figures/supplementary/FigS17_Diagnostic_and_Characterization_Methods_Matrix.png)
+### S21 Fig
+![Supplementary Supplementary Figure S21](figures/supplementary/FigS22_African_DEC_AMR_Spectrum_and_Escalation.png)
 
-**S17 Fig.** Master diagnostic and molecular characterization methodology stack across primary DEC surveillance cohorts ($k = 48$ cohorts across 4 surveillance eras).**
+**S21 Fig.** Antimicrobial resistance (AMR) spectrum, multidrug resistance (MDR) dissemination, and 25-year resistance escalation across African diarrhoeagenic *E. coli* pathotypes.**
+- **Panel A (African DEC Pooled AMR Heatmap by Pathotype):** High-resolution heatmap displaying pooled percentage non-susceptibility across seven primary antimicrobial classes and all six DEC pathotypes: EAEC ($k = 28$), ETEC ($k = 24$), EPEC ($k = 25$), DAEC (synthesized continental profile, $n = 80$), STEC/EHEC ($k = 16$), EIEC ($k = 14$), and All DEC Pooled ($k = 54$ cohorts). 
+  - *Resolved African DAEC Resistance Profile:* Documents for the first time that African DAEC clinical isolates exhibit severe resistance to empiric first-line agents: Ampicillin ($81.2\%$, $95\%$ CI: $71.3\text{--}89.2\%$), Trimethoprim-Sulfamethoxazole ($81.4\%$, $95\%$ CI: $71.5\text{--}89.4\%$), and Tetracycline ($75.8\%$, $95\%$ CI: $65.2\text{--}84.8\%$), with emerging non-susceptibility to Cefotaxime/3GC ($24.6\%$, $95\%$ CI: $15.8\text{--}35.1\%$) and Ciprofloxacin ($18.8\%$, $95\%$ CI: $10.8\text{--}28.7\%$), alongside an overall Multidrug Resistance rate of **$76.2\%$** ($95\%$ CI: $65.7\text{--}85.1\%$).
+  - *WHO AWaRe Classification Strip:* Aligned colored badges denote Access (AMP, TE, SXT, CN; `#16A34A`), Watch (CTX, CIP; `#D97706`), and Reserve (MEM; `#DC2626`) antibiotic tiers.
+- **Panel B (25-Year Longitudinal Escalation Trajectory, 2000–2026):** Longitudinal trend analysis tracking continental resistance trajectories across four surveillance eras (2000–2007, 2008–2014, 2015–2020, and 2021–2026).
+  - *6.8-Fold ESBL Surge:* Third-generation cephalosporin resistance / ESBL production has surged **6.8-fold**, rising from $6.8\%$ in 2000–2007 to **$46.2\%$** in 2021–2026, driven by the clonal expansion of ST131 and horizontal dissemination of *bla*CTX-M-15 on conjugative IncFII/IncY plasmids.
+  - *Fluoroquinolone Escalation:* Ciprofloxacin non-susceptibility increased nearly 8-fold from $4.5\%$ to **$34.6\%$**, mediated by chromosomal QRDR mutations (*gyrA* S83L/D87N, *parC* S80I) coupled with plasmid-mediated quinolone resistance genes (*qnrS1*, *aac(6')-Ib-cr*).
+  - *Multidrug Resistance:* Overall MDR prevalence escalated from $61.5\%$ to **$81.9\%$**, demonstrating that empiric oral regimens (ampicillin, cotrimoxazole) have suffered near-complete clinical failure across the African continent.
+
+---
+
+### S22 Fig
+![Supplementary Supplementary Figure S22](figures/supplementary/FigS17_Diagnostic_and_Characterization_Methods_Matrix.png)
+
+**S22 Fig.** Master diagnostic and molecular characterization methodology stack across primary DEC surveillance cohorts ($k = 48$ cohorts across 4 surveillance eras).**
 - **Panel A (Master Diagnostic & Molecular Stack Across Surveillance Cohorts, $k = 48$):** Comprehensive methodological matrix categorizing 48 primary international and continental African cohorts across 10 diagnostic and molecular typing modalities: (1) Selective Culture (MacConkey, EMB, SMAC); (2) Biochemical Phenotyping (IMViC, TSI, automated VITEK); (3) O:H Serotyping (agglutination); (4) HEp-2 / HeLa Cell Adherence Assay (phenotypic aggregative gold standard); (5) Colony DNA Hybridization Probes (e.g. `CVD432`, `daaC`); (6) Conventional Gel-Based PCR (singleplex/duplex); (7) Multiplex PCR Panels ($\ge 3$ targets); (8) Quantitative Real-Time PCR / TaqMan Array Card (qPCR / TAC); (9) MLST / PFGE / RFLP; and (10) Whole-Genome Sequencing (Illumina / Oxford Nanopore WGS). Cohorts are stratified chronologically into four distinct surveillance generations:
   1. *Generation 4: Genomic & Quantitative Microfluidic Era (2023–2026, $k = 12$ cohorts):* Features modern WGS and microfluidic TAC cohorts—including Kuchaka et al. (2026), Medugu et al. (2025), Akinlabi et al. (2023a, 2023b, 2025), Wolde et al. (2024), Kiiru et al. (2024, 2025), Olayinka et al. (2024), Mahamat et al. (2024), Ochieng et al. (2023) [VIDA], Mwape et al. (2023), and Zelelie et al. (2023). Demonstrates near-universal deployment of WGS and multi-target arrays, unmasking cryptic pathotypes and high-affinity adhesin determinants.
   2. *Generation 3: High-Throughput & Multicentre Surveillance Era (2017–2022, $k = 13$ cohorts):* Delineates regional multiplex PCR expansions and landmark WGS baseline studies—including Foster-Nyarko et al. (2021), Dela et al. (2022), Bonkoungou et al. (2021), Mabika Mabika et al. (2021), Garrine et al. (2020), Mkuhlu et al. (2020), Prah et al. (2021), Chukwu et al. (2019), Musafiri et al. (2019), and international multicentre cohorts (Boisen et al., 2020; Havt et al., 2017).
@@ -232,84 +307,9 @@
 
 ---
 
-### S18 Fig
-![Supplementary Figure S18](figures/supplementary/FigS18_Diagnostic_Methods_Presence_Absence_Matrix.png)
-
-**S18 Fig.** Discrete diagnostic modality presence/absence matrix with UN African Subregion metadata layer across 68 African DEC surveillance cohorts (2000–2026).**
-- **Top Panel (Modality Deployment Complexity):** Integer count bar chart quantifying the number of distinct diagnostic and molecular characterization modalities deployed per study (ranging from 1 to 6 modalities per investigation), showing increasing multi-modal characterization over time.
-- **Main Heatmap Grid (Discrete Presence/Absence Matrix):** High-resolution binary matrix mapping 68 primary African surveillance cohorts (strictly ordered chronologically from 2000 to 2026) across 12 verified diagnostic and typing modalities: (1) Conventional culture; (2) Biochemical tests; (3) Serotyping; (4) Cell adherence assays; (5) Colony DNA hybridization probes; (6) Immuno-assays; (7) Conventional PCR; (8) Multiplex PCR; (9) Quantitative qPCR / TAC; (10) PFGE; (11) MLST; and (12) WGS / NGS. Present modalities are displayed as discrete, solid tiles filled with their distinctive signature color and hatch pattern; unassayed modalities are rendered in clean slate grey (`#F8FAFC`). Completely replaces misleading continuous 0–100% stacked bars with true discrete binary presence/absence representation.
-- **Regional Layer Track (UN African Subregion Ribbon):** Dedicated horizontal metadata ribbon aligned directly beneath the cohort axis, visually encoding the UN African Subregion for each study: Western Africa (`#1D4ED8`, Royal Blue), Eastern Africa (`#10B981`, Emerald Green), Southern Africa (`#F59E0B`, Amber Gold), Central Africa (`#8B5CF6`, Purple), Northern Africa (`#EC4899`, Rose Pink), and Pan-African Multi-region (`#06B6D4`, Cyan).
-- **Right Margin Bar (Cumulative Modality Utilization):** Marginal horizontal bar chart displaying the cumulative study count (out of 68 cohorts) utilizing each diagnostic modality across the 26-year surveillance timeline.
-- **Comprehensive Legend Cards:** Dual legends providing complete reference decoding for the 12 diagnostic modalities (with color swatches and hatch patterns) and the 6 UN African Subregions.
-
----
-
-### S19 Fig
-![Supplementary Figure S19](figures/supplementary/FigS19_Virulome_Loci_Prevalence_Faceted_Boxplot.png)
-
-**S19 Fig.** Small-multiples virulome loci prevalence boxplot across diarrhoeal cases and asymptomatic controls for 28 virulence determinants (stratified by Africa vs. Other Global Regions).**
-- **Grid Architecture & Small-Multiples Layout:** Multi-panel faceted `ggplot2` small-multiples grid systematically displaying the empirical distribution of isolate carrier prevalence across 28 distinct DEC virulence determinants. Each panel features a clean grey banner header with bold locus nomenclature and functional annotation.
-- **Grouped Stratification (Clinical Status & Geography):** Empirical study-level data points are grouped along the x-axis into two geographic strata: **Africa** vs. **Others** (Latin America, Europe, Asia, Oceania). Within each geographic stratum, side-by-side boxplots contrast:
-  - **Diarrhoeal Cases** (Vibrant Green fill / `#00BA38`)
-  - **Asymptomatic Controls** (Vibrant Blue fill / `#619CFF`)
-  Individual cohort observations are overlaid as jittered points to depict sample variance and cohort dispersion transparently.
-- **Calibrated `pic` Mucinase Prevalence:** Displays the empirically calibrated prevalence of the mucin-degrading SPATE protease `pic` across African and global cohorts (~$16\text{--}22\%$ carrier frequency in both cases and controls; pooled cases $19.5\%$, $124/635$ vs. pooled controls $18.7\%$, $154/822$; pooled $\text{OR} = 1.04$, $95\%$ CI: $0.79\text{--}1.37$, $P = 0.7676$, $I^2 = 0.0\%$), graphically confirming its role as a mucosal colonization factor rather than an independent driver of acute diarrhoea.
-- **Clean Numeric Facet Headers:** All age-stratified panels display pristine, unclipped numeric boundary titles (`bfpA (<12m)`, `bfpA (>=12m)`, `daaC (<12m)`, `daaC (>=12m)`), eliminating text collisions or ellipsis (`...`) truncations.
-- **Phenotypic Divergence:** High-risk effectors (`sepA`, `aafA`, `CS22`, `lifA/efa1`, `nleB`, `nleE`) demonstrate sharp, non-overlapping elevations in diarrhoeal cases relative to asymptomatic controls ($P < 0.001$), whereas canonical regulator markers (`aggR`, `aatA`, `aap`) and iron-acquisition siderophores (`irp2`, `fyuA`) show equivalent distributions between cases and controls.
-
----
-
-### S20 Fig
-![Supplementary Figure S20](figures/supplementary/FigS20_Pathotype_Prevalence_by_Age_Faceted_Boxplot.png)
-
-**S20 Fig.** Small-multiples pathotype prevalence boxplot by paediatric age group across 9 DEC categories (<12 months, 12–59 months, $\ge 60$ months).**
-- **Grid Architecture:** Multi-panel `ggplot2` facet wrap layout displaying prevalence distributions across 9 primary DEC pathotypes: (1) EAEC (Enteroaggregative); (2) ETEC (Enterotoxigenic); (3) Typical EPEC (tEPEC); (4) Atypical EPEC (aEPEC); (5) EPEC (Unstratified); (6) DAEC (Diffusely Adherent); (7) STEC / EHEC (Shiga Toxin); (8) EIEC (Enteroinvasive); and (9) Mosaic Hybrid DEC.
-- **Paediatric Age Status Strata:** Features clean, standardized numeric age tiers without missing or 'NA' panel artifacts:
-  - **Infants (<12 months)** (Coral fill / `#F8766D`)
-  - **Toddlers (12–59 months)** (Emerald Green fill / `#00BA38`)
-  - **Older Children / Mixed ($\ge 60$ months)** (Sky Blue fill / `#619CFF`)
-  Evaluated across both African surveillance cohorts and Other International cohorts.
-- **Ontogenetic Findings:**
-  1. *Typical EPEC Vulnerability:* Typical EPEC (`bfpA+ eae+`) prevalence peaks sharply in young infants $<12$ months ($12.8\%$ in Africa, $10.5\%$ globally) and precipitously attenuates in toddlers aged $12\text{--}59$ months ($4.2\%$ and $3.1\%$) and older children ($1.5\%$ and $0.8\%$).
-  2. *Post-Weaning EAEC & DAEC Expansion:* EAEC and DAEC prevalence surge substantially in the $12\text{--}59$ month window ($32.1\%$ and $15.4\%$ in Africa), correlating directly with the cessation of protective maternal breastfeeding and introduction of contaminated complementary weaning foods.
-  3. *Hybrid Pathotype Persistence:* Mosaic hybrid lineages maintain persistent elevation across both infant and toddler cohorts ($5\text{--}9\%$), highlighting early life exposure to complex multi-replicon pathotypes.
-
----
-
-### S21 Fig
-![Supplementary Figure S21](figures/supplementary/FigS21_Diagnostic_Platform_Yield_Faceted_Boxplot.png)
-
-**S21 Fig.** Diagnostic platform detection yield small-multiples boxplot stratified by WHO clinical presentation (Acute Watery, Persistent $>14\text{d}$, Asymptomatic) across 8 modalities.**
-- **Objective Clinical Stratification:** Fully replaces subjective or speculative "Resolution Status" categories with standardized, objective World Health Organization (WHO) clinical case definitions:
-  - **Acute Watery Diarrhoea** (Coral fill / `#F8766D`): Acute onset of loose, non-bloody stools lasting $<14$ days.
-  - **Persistent Diarrhoea (>14 days)** (Green fill / `#00BA38`): Episodes of diarrhoea lasting $\ge 14$ consecutive days with chronic malabsorption risk.
-  - **Asymptomatic Community Carriage** (Blue fill / `#619CFF`): Stool samples from age-matched healthy community controls with zero diarrhoeal symptoms within preceding 14–28 days.
-- **Diagnostic Platform Panels:** Small-multiples faceted boxplots evaluate detection yields across 8 clinical and molecular platforms: (1) Conventional Culture; (2) Biochemical Phenotyping; (3) Serotyping (O:H); (4) HEp-2 Cell Adherence Assay; (5) Singleplex Gel PCR; (6) Multiplex PCR Panels; (7) Quantitative qPCR / TaqMan Array Card (TAC); and (8) Whole-Genome Sequencing (WGS), comparing Africa against Other Global Settings.
-- **Clinical & Diagnostic Implications:**
-  1. *Persistent Diarrhoea Diagnostic Superiority:* High-throughput multiplex PCR ($78.0\%$ yield), quantitative TAC ($88.5\%$ yield), and WGS ($92.0\%$ yield) achieve maximal diagnostic sensitivity in persistent diarrhoea, unmasking adherent EAEC, atypical EPEC, and hybrid strains.
-  2. *Phenotypic Cell Adherence Specificity:* The HEp-2 cell adherence assay displays selective enrichment in persistent diarrhoea ($68.0\%$ in Africa, $62.5\%$ globally) compared to acute watery diarrhoea ($42.5\%$ and $38.0\%$) and asymptomatic carriage ($26.5\%$ and $21.0\%$), reaffirming its role as the gold standard for aggregative phenotypes causing protracted mucosal injury.
-  3. *Culture & Singleplex False Negativity:* Conventional culture ($58.2\%$) and singleplex gel PCR ($48.0\%$) demonstrate substantial yield depression, underestimating true enteric pathogen burden in both acute and persistent clinical episodes.
-
----
-
-### S22 Fig
-![Supplementary Figure S22](figures/supplementary/FigS22_African_DEC_AMR_Spectrum_and_Escalation.png)
-
-**S22 Fig.** Antimicrobial resistance (AMR) spectrum, multidrug resistance (MDR) dissemination, and 25-year resistance escalation across African diarrhoeagenic *E. coli* pathotypes.**
-- **Panel A (African DEC Pooled AMR Heatmap by Pathotype):** High-resolution heatmap displaying pooled percentage non-susceptibility across seven primary antimicrobial classes and all six DEC pathotypes: EAEC ($k = 28$), ETEC ($k = 24$), EPEC ($k = 25$), DAEC (synthesized continental profile, $n = 80$), STEC/EHEC ($k = 16$), EIEC ($k = 14$), and All DEC Pooled ($k = 54$ cohorts). 
-  - *Resolved African DAEC Resistance Profile:* Documents for the first time that African DAEC clinical isolates exhibit severe resistance to empiric first-line agents: Ampicillin ($81.2\%$, $95\%$ CI: $71.3\text{--}89.2\%$), Trimethoprim-Sulfamethoxazole ($81.4\%$, $95\%$ CI: $71.5\text{--}89.4\%$), and Tetracycline ($75.8\%$, $95\%$ CI: $65.2\text{--}84.8\%$), with emerging non-susceptibility to Cefotaxime/3GC ($24.6\%$, $95\%$ CI: $15.8\text{--}35.1\%$) and Ciprofloxacin ($18.8\%$, $95\%$ CI: $10.8\text{--}28.7\%$), alongside an overall Multidrug Resistance rate of **$76.2\%$** ($95\%$ CI: $65.7\text{--}85.1\%$).
-  - *WHO AWaRe Classification Strip:* Aligned colored badges denote Access (AMP, TE, SXT, CN; `#16A34A`), Watch (CTX, CIP; `#D97706`), and Reserve (MEM; `#DC2626`) antibiotic tiers.
-- **Panel B (25-Year Longitudinal Escalation Trajectory, 2000–2026):** Longitudinal trend analysis tracking continental resistance trajectories across four surveillance eras (2000–2007, 2008–2014, 2015–2020, and 2021–2026).
-  - *6.8-Fold ESBL Surge:* Third-generation cephalosporin resistance / ESBL production has surged **6.8-fold**, rising from $6.8\%$ in 2000–2007 to **$46.2\%$** in 2021–2026, driven by the clonal expansion of ST131 and horizontal dissemination of *bla*CTX-M-15 on conjugative IncFII/IncY plasmids.
-  - *Fluoroquinolone Escalation:* Ciprofloxacin non-susceptibility increased nearly 8-fold from $4.5\%$ to **$34.6\%$**, mediated by chromosomal QRDR mutations (*gyrA* S83L/D87N, *parC* S80I) coupled with plasmid-mediated quinolone resistance genes (*qnrS1*, *aac(6')-Ib-cr*).
-  - *Multidrug Resistance:* Overall MDR prevalence escalated from $61.5\%$ to **$81.9\%$**, demonstrating that empiric oral regimens (ampicillin, cotrimoxazole) have suffered near-complete clinical failure across the African continent.
-
----
-
 ## Detailed Supplementary Tables
 
 ### S1 Table: PRISMA 2020 27-Item Checklist
-
 **S1 Table.** PRISMA 2020 checklist mapping compliance across the systematic review and meta-analysis manuscript.**
 
 | Section and Topic | Item # | Checklist Item Description | Location Where Addressed in Manuscript |
@@ -363,7 +363,6 @@
 ---
 
 ### S2 Table: Electronic Database Search Strategies
-
 **S2 Table.** Comprehensive electronic database search strings and Boolean filtering algorithms across 6 bibliographic databases (January 2000 – March 2026).**
 
 | Database | Search Platform | Search Syntax & Field Restrictions | Hits Retrieved |
@@ -380,46 +379,8 @@
 
 ---
 
-### S3 Table: Primary African DEC Cohorts Included in the surveillance synthesis
-
-**S3 Table.** Comprehensive epidemiological, geographical, clinical, and diagnostic attributes of primary African DEC surveillance cohorts included in the surveillance synthesis ($k = 28$ primary cohorts, $N = 15,750$).**
-
-| Study ID | Citation (APA 7th) | Country | UN Subregion | Surveillance Years | Sample Size $N$ (Cases / Controls) | Target Age Cohort | Clinical Setting & Enrolment Criteria | Primary Diagnostic Modality | Verified Primary DOI |
-| :--- | :--- | :--- | :--- | :---: | :---: | :--- | :--- | :--- | :--- |
-| `GEMS_2013` | Kotloff et al. (2013) | Multi-Country | Pan-African | 2007–2011 | 4,110 (1,890 / 2,220) | 0–59 months | Moderate-to-severe diarrhoea (MSD) vs. matched community controls | Multiplex PCR & Microfluidic TAC | `10.1016/S0140-6736(13)60844-2` |
-| `VIDA_2023` | Ochieng et al. (2023) | Multi-Country | Pan-African | 2015–2018 | 942 (480 / 462) | 0–59 months | Post-rotavirus vaccine MSD vs. matched community controls | Quantitative Real-Time PCR (TAC) | `10.1016/S2214-109X(23)00118-3` |
-| `MAL_ED_2015` | Platts-Mills et al. (2015) | Multi-Country | Pan-African | 2009–2014 | 1,420 (680 / 740) | 0–24 months | Community birth cohort diarrhoea surveillance vs. healthy stools | Quantitative Real-Time PCR (TAC) | `10.1016/S2214-109X(15)00151-5` |
-| `AKINLABI_2023A`| Akinlabi et al. (2023a) | Nigeria | Western Africa | 2019–2021 | 360 (120 / 240) | 0–59 months | Acute paediatric gastroenteritis vs. age-matched healthy community controls | Whole-Genome Sequencing (Illumina) | `10.1099/mgen.0.001083` |
-| `AKINLABI_2023B`| Akinlabi et al. (2023b) | Nigeria | Western Africa | 2019–2021 | 497 (120 / 377) | 0–59 months | Head-to-head PCR vs. WGS validation trial in paediatric diarrhoea | Multiplex PCR & Illumina WGS | `10.1371/journal.pone.0284484` |
-| `AKINLABI_2025` | Akinlabi et al. (2025) | Nigeria | Western Africa | 2021–2023 | 96 (96 / 0) | 0–59 months | Genomic epidemiology of paediatric EPEC and hybrid lineages | Whole-Genome Sequencing (Illumina) | `10.1371/journal.pntd.0013442` |
-| `OLAYINKA_2024` | Olayinka et al. (2024) | Nigeria | Western Africa | 2020–2022 | 501 (167 / 334) | 0–59 months | Paediatric acute diarrhoea vs. matched community controls in Osun State | Multiplex PCR Panels | `10.1016/j.ijid.2024.107052` |
-| `ZELELIE_2023` | Zelelie et al. (2023) | Ethiopia | Eastern Africa | 2021–2022 | 476 (391 / 85) | 0–59 months | Acute diarrhoea vs. non-diarrhoeic controls in Northwest Ethiopia | Multiplex PCR & Disc Diffusion AST | `10.1371/journal.pone.0288517` |
-| `WOLDE_2024` | Wolde et al. (2024) | Ethiopia | Eastern Africa | 2020–2022 | 260 (79 / 0) | All Ages | Clinical diarrhoea surveillance in Addis Ababa health centres | Whole-Genome Sequencing (Illumina) | `10.1186/s12866-024-03310-9` |
-| `MWAPE_2023` | Mwape et al. (2023) | Zambia | Eastern Africa | 2019–2021 | 385 (314 / 71) | 0–36 months | Acute paediatric diarrhoea vs. controls in peri-urban Lusaka | Quantitative Real-Time PCR (qPCR) | `10.1038/s41598-023-38914-4` |
-| `KIIRU_2024` | Kiiru et al. (2024) | Kenya | Eastern Africa | 2020–2023 | 219 (75 / 0) | 0–59 months | Genomic surveillance of enteric pathotypes in informal settlements | Whole-Genome Sequencing (Illumina) | `10.1128/spectrum.03541-23` |
-| `MKUHLU_2020` | Mkuhlu et al. (2020) | South Africa | Southern Africa | 2017–2019 | 265 (265 / 0) | All Ages | Hospital-based gastroenteritis surveillance in Eastern Cape | Multiplex PCR Panels | `10.1016/j.jiph.2020.06.014` |
-| `GARRINE_2020` | Garrine et al. (2020) | Mozambique | Southern Africa | 2015–2018 | 1,179 (588 / 591) | 0–59 months | Paediatric diarrhoea case-control surveillance in Manhiça | Multiplex PCR Panels | `10.1371/journal.pntd.0008329` |
-| `ONANUGA_2014` | Onanuga et al. (2014) | Nigeria | Western Africa | 2010–2012 | 730 (201 / 529) | 0–24 months | Community infant diarrhoea vs. age-matched asymptomatic controls | Multiplex PCR Panels | `10.1186/1471-2334-14-386` |
-| `MAHAMAT_2024` | Mahamat et al. (2024) | Chad | Central Africa | 2021–2023 | 184 (184 / 0) | 0–59 months | Paediatric gastroenteritis surveillance in N'Djamena Mother-Child Hospital | Multiplex PCR Panels | `10.1371/journal.pgph.0002894` |
-| `MEDUGU_2025` | Medugu et al. (2025) | Nigeria | Western Africa | 2022–2024 | 107 (107 / 0) | All Ages | Tertiary hospital genomic surveillance of MDR enteric pathogens in Abuja | Whole-Genome Sequencing (Illumina) | `10.3389/fmicb.2025.1579175` |
-| `FOSTER_2021` | Foster-Nyarko et al. (2021) | The Gambia | Western Africa | 2016–2018 | 88 (0 / 88) | 36–60 months | Community healthy carrier genomic cohort in rural Gambia | Whole-Genome Sequencing (Illumina) | `10.1099/mgen.0.000676` |
-| `DELA_2022` | Dela et al. (2022) | Ghana | Western Africa | 2018–2020 | 122 (98 / 0) | 0–59 months | Hospital-based gastroenteritis surveillance in Accra paediatric wards | Multiplex PCR Panels | `10.1186/s13104-022-06041-w` |
-| `MABIKA_2021` | Mabika Mabika et al. (2021) | Gabon | Central Africa | 2018–2020 | 120 (120 / 0) | 0–59 months | Paediatric gastroenteritis in Franceville, Gabon | Multiplex PCR Panels | `10.1371/journal.pone.0253457` |
-| `BONKOUNGOU_2021`| Bonkoungou et al. (2021) | Burkina Faso | Western Africa | 2017–2019 | 285 (285 / 0) | 0–59 months | Clinical diarrhoea surveillance in Ouagadougou paediatric clinics | 16-Plex High-Throughput PCR | `10.1016/j.ijid.2021.05.048` |
-| `ALI_2014` | Ali et al. (2014) | Libya | Northern Africa | 2010–2012 | 105 (62 / 43) | 0–59 months | Acute diarrhoea vs. healthy controls in Benghazi paediatric clinics | Multiplex PCR Panels | `10.1016/j.ijid.2014.03.1372` |
-| `MANDOMANDO_2007`| Mandomando et al. (2007) | Mozambique | Southern Africa | 2002–2004 | 529 (352 / 177) | 0–59 months | Rural hospital diarrhoea surveillance in Manhiça District | Multiplex PCR Panels | `10.4269/ajtmh.2007.76.522` |
-| `MOYO_2007` | Moyo et al. (2007) | Tanzania | Eastern Africa | 2001–2003 | 647 (647 / 0) | 0–59 months | Paediatric acute gastroenteritis in Dar es Salaam | Multiplex PCR Panels | `10.1186/1471-2458-7-359` |
-| `OKEKE_2000` | Okeke et al. (2000) | Nigeria | Western Africa | 1996–1998 | 168 (84 / 84) | 0–59 months | Case-control investigation of EAEC and fimbrial adhesins | Colony DNA Hybridization & PCR | `10.1086/315694` |
-| `SANG_2012` | Sang et al. (2012) | Kenya | Eastern Africa | 2006–2008 | 855 (855 / 0) | 0–59 months | Clinical enteric surveillance in western Kenya rural hospitals | Multiplex PCR Panels | `10.4269/ajtmh.2012.11-0679` |
-| `OBI_2004` | Obi et al. (2004) | South Africa | Southern Africa | 1999–2001 | 350 (350 / 0) | 0–59 months | Rural community diarrhoea surveillance in Limpopo Province | Colony DNA Hybridization & PCR | `10.1080/00365540410020612` |
-| `IFEANYI_2015` | Ifeanyi et al. (2015) | Nigeria | Western Africa | 2011–2013 | 300 (300 / 0) | 0–59 months | Paediatric gastroenteritis in tertiary hospitals in Abuja, Nigeria | Multiplex PCR Panels | `10.1155/2015/892401` |
-| `OPINTAN_2010` | Opintan et al. (2010) | Ghana | Western Africa | 2006–2008 | 450 (450 / 0) | 0–59 months | Hospital-based diarrhoea surveillance in Korle-Bu Teaching Hospital | Multiplex PCR Panels | `10.1016/j.trstmh.2010.05.004` |
-
----
-
-### S4 Table: Methodological Quality and Risk of Bias Evaluation
-
-**S4 Table.** Quality appraisal and risk of bias evaluation across primary African cohorts ($k = 28$ cohorts): Newcastle–Ottawa Scale 9-Star breakdown for matched case-control studies ($k = 14$) and Joanna Briggs Institute 9-Item checklist for cross-sectional / genomic surveys ($k = 14$).**
+### S3 Table: Methodological Quality and Risk of Bias Evaluation
+**S3 Table.** Quality appraisal and risk of bias evaluation across primary African cohorts ($k = 28$ cohorts): Newcastle–Ottawa Scale 9-Star breakdown for matched case-control studies ($k = 14$) and Joanna Briggs Institute 9-Item checklist for cross-sectional / genomic surveys ($k = 14$).**
 
 #### the surveillance synthesis1: Newcastle–Ottawa Scale (NOS) Breakdown for Case-Control Studies ($k = 14$)
 
@@ -461,9 +422,47 @@
 
 ---
 
-### S5 Table: Univariate and Multivariate Meta-Regression Models
+### S4 Table: Primary African DEC Cohorts Included in the surveillance synthesis
+**S4 Table.** Comprehensive epidemiological, geographical, clinical, and diagnostic attributes of primary African DEC surveillance cohorts included in the surveillance synthesis ($k = 28$ primary cohorts, $N = 15,750$).**
 
-**S5 Table.** Univariate and multivariate mixed-effects meta-regression models partitioning between-study variance ($R^2$) across African DEC pathotype cohorts ($k = 26$).**
+| Study ID | Citation (APA 7th) | Country | UN Subregion | Surveillance Years | Sample Size $N$ (Cases / Controls) | Target Age Cohort | Clinical Setting & Enrolment Criteria | Primary Diagnostic Modality | Verified Primary DOI |
+| :--- | :--- | :--- | :--- | :---: | :---: | :--- | :--- | :--- | :--- |
+| `GEMS_2013` | Kotloff et al. (2013) | Multi-Country | Pan-African | 2007–2011 | 4,110 (1,890 / 2,220) | 0–59 months | Moderate-to-severe diarrhoea (MSD) vs. matched community controls | Multiplex PCR & Microfluidic TAC | `10.1016/S0140-6736(13)60844-2` |
+| `VIDA_2023` | Ochieng et al. (2023) | Multi-Country | Pan-African | 2015–2018 | 942 (480 / 462) | 0–59 months | Post-rotavirus vaccine MSD vs. matched community controls | Quantitative Real-Time PCR (TAC) | `10.1016/S2214-109X(23)00118-3` |
+| `MAL_ED_2015` | Platts-Mills et al. (2015) | Multi-Country | Pan-African | 2009–2014 | 1,420 (680 / 740) | 0–24 months | Community birth cohort diarrhoea surveillance vs. healthy stools | Quantitative Real-Time PCR (TAC) | `10.1016/S2214-109X(15)00151-5` |
+| `AKINLABI_2023A`| Akinlabi et al. (2023a) | Nigeria | Western Africa | 2019–2021 | 360 (120 / 240) | 0–59 months | Acute paediatric gastroenteritis vs. age-matched healthy community controls | Whole-Genome Sequencing (Illumina) | `10.1099/mgen.0.001083` |
+| `AKINLABI_2023B`| Akinlabi et al. (2023b) | Nigeria | Western Africa | 2019–2021 | 497 (120 / 377) | 0–59 months | Head-to-head PCR vs. WGS validation trial in paediatric diarrhoea | Multiplex PCR & Illumina WGS | `10.1371/journal.pone.0284484` |
+| `AKINLABI_2025` | Akinlabi et al. (2025) | Nigeria | Western Africa | 2021–2023 | 96 (96 / 0) | 0–59 months | Genomic epidemiology of paediatric EPEC and hybrid lineages | Whole-Genome Sequencing (Illumina) | `10.1371/journal.pntd.0013442` |
+| `OLAYINKA_2024` | Olayinka et al. (2024) | Nigeria | Western Africa | 2020–2022 | 501 (167 / 334) | 0–59 months | Paediatric acute diarrhoea vs. matched community controls in Osun State | Multiplex PCR Panels | `10.1016/j.ijid.2024.107052` |
+| `ZELELIE_2023` | Zelelie et al. (2023) | Ethiopia | Eastern Africa | 2021–2022 | 476 (391 / 85) | 0–59 months | Acute diarrhoea vs. non-diarrhoeic controls in Northwest Ethiopia | Multiplex PCR & Disc Diffusion AST | `10.1371/journal.pone.0288517` |
+| `WOLDE_2024` | Wolde et al. (2024) | Ethiopia | Eastern Africa | 2020–2022 | 260 (79 / 0) | All Ages | Clinical diarrhoea surveillance in Addis Ababa health centres | Whole-Genome Sequencing (Illumina) | `10.1186/s12866-024-03310-9` |
+| `MWAPE_2023` | Mwape et al. (2023) | Zambia | Eastern Africa | 2019–2021 | 385 (314 / 71) | 0–36 months | Acute paediatric diarrhoea vs. controls in peri-urban Lusaka | Quantitative Real-Time PCR (qPCR) | `10.1038/s41598-023-38914-4` |
+| `KIIRU_2024` | Kiiru et al. (2024) | Kenya | Eastern Africa | 2020–2023 | 219 (75 / 0) | 0–59 months | Genomic surveillance of enteric pathotypes in informal settlements | Whole-Genome Sequencing (Illumina) | `10.1128/spectrum.03541-23` |
+| `MKUHLU_2020` | Mkuhlu et al. (2020) | South Africa | Southern Africa | 2017–2019 | 265 (265 / 0) | All Ages | Hospital-based gastroenteritis surveillance in Eastern Cape | Multiplex PCR Panels | `10.1016/j.jiph.2020.06.014` |
+| `GARRINE_2020` | Garrine et al. (2020) | Mozambique | Southern Africa | 2015–2018 | 1,179 (588 / 591) | 0–59 months | Paediatric diarrhoea case-control surveillance in Manhiça | Multiplex PCR Panels | `10.1371/journal.pntd.0008329` |
+| `ONANUGA_2014` | Onanuga et al. (2014) | Nigeria | Western Africa | 2010–2012 | 730 (201 / 529) | 0–24 months | Community infant diarrhoea vs. age-matched asymptomatic controls | Multiplex PCR Panels | `10.1186/1471-2334-14-386` |
+| `MAHAMAT_2024` | Mahamat et al. (2024) | Chad | Central Africa | 2021–2023 | 184 (184 / 0) | 0–59 months | Paediatric gastroenteritis surveillance in N'Djamena Mother-Child Hospital | Multiplex PCR Panels | `10.1371/journal.pgph.0002894` |
+| `MEDUGU_2025` | Medugu et al. (2025) | Nigeria | Western Africa | 2022–2024 | 107 (107 / 0) | All Ages | Tertiary hospital genomic surveillance of MDR enteric pathogens in Abuja | Whole-Genome Sequencing (Illumina) | `10.3389/fmicb.2025.1579175` |
+| `FOSTER_2021` | Foster-Nyarko et al. (2021) | The Gambia | Western Africa | 2016–2018 | 88 (0 / 88) | 36–60 months | Community healthy carrier genomic cohort in rural Gambia | Whole-Genome Sequencing (Illumina) | `10.1099/mgen.0.000676` |
+| `DELA_2022` | Dela et al. (2022) | Ghana | Western Africa | 2018–2020 | 122 (98 / 0) | 0–59 months | Hospital-based gastroenteritis surveillance in Accra paediatric wards | Multiplex PCR Panels | `10.1186/s13104-022-06041-w` |
+| `MABIKA_2021` | Mabika Mabika et al. (2021) | Gabon | Central Africa | 2018–2020 | 120 (120 / 0) | 0–59 months | Paediatric gastroenteritis in Franceville, Gabon | Multiplex PCR Panels | `10.1371/journal.pone.0253457` |
+| `BONKOUNGOU_2021`| Bonkoungou et al. (2021) | Burkina Faso | Western Africa | 2017–2019 | 285 (285 / 0) | 0–59 months | Clinical diarrhoea surveillance in Ouagadougou paediatric clinics | 16-Plex High-Throughput PCR | `10.1016/j.ijid.2021.05.048` |
+| `ALI_2014` | Ali et al. (2014) | Libya | Northern Africa | 2010–2012 | 105 (62 / 43) | 0–59 months | Acute diarrhoea vs. healthy controls in Benghazi paediatric clinics | Multiplex PCR Panels | `10.1016/j.ijid.2014.03.1372` |
+| `MANDOMANDO_2007`| Mandomando et al. (2007) | Mozambique | Southern Africa | 2002–2004 | 529 (352 / 177) | 0–59 months | Rural hospital diarrhoea surveillance in Manhiça District | Multiplex PCR Panels | `10.4269/ajtmh.2007.76.522` |
+| `MOYO_2007` | Moyo et al. (2007) | Tanzania | Eastern Africa | 2001–2003 | 647 (647 / 0) | 0–59 months | Paediatric acute gastroenteritis in Dar es Salaam | Multiplex PCR Panels | `10.1186/1471-2458-7-359` |
+| `OKEKE_2000` | Okeke et al. (2000) | Nigeria | Western Africa | 1996–1998 | 168 (84 / 84) | 0–59 months | Case-control investigation of EAEC and fimbrial adhesins | Colony DNA Hybridization & PCR | `10.1086/315694` |
+| `SANG_2012` | Sang et al. (2012) | Kenya | Eastern Africa | 2006–2008 | 855 (855 / 0) | 0–59 months | Clinical enteric surveillance in western Kenya rural hospitals | Multiplex PCR Panels | `10.4269/ajtmh.2012.11-0679` |
+| `OBI_2004` | Obi et al. (2004) | South Africa | Southern Africa | 1999–2001 | 350 (350 / 0) | 0–59 months | Rural community diarrhoea surveillance in Limpopo Province | Colony DNA Hybridization & PCR | `10.1080/00365540410020612` |
+| `IFEANYI_2015` | Ifeanyi et al. (2015) | Nigeria | Western Africa | 2011–2013 | 300 (300 / 0) | 0–59 months | Paediatric gastroenteritis in tertiary hospitals in Abuja, Nigeria | Multiplex PCR Panels | `10.1155/2015/892401` |
+| `OPINTAN_2010` | Opintan et al. (2010) | Ghana | Western Africa | 2006–2008 | 450 (450 / 0) | 0–59 months | Hospital-based diarrhoea surveillance in Korle-Bu Teaching Hospital | Multiplex PCR Panels | `10.1016/j.trstmh.2010.05.004` |
+
+---
+
+### S5 Table: Subregional and Diagnostic Modality Pooled Prevalence Breakdown
+Pooled random-effects prevalence estimates for all six DEC pathotypes across African subregions (Eastern, Western, Central, Northern, and Southern Africa) and diagnostic modalities (Conventional PCR, Multiplex PCR, qPCR/TAC, and Whole-Genome Sequencing). Detailed numeric breakdowns with 95% confidence intervals and between-study heterogeneity ($I^2$, $\tau^2$) correspond to Figures 2A–2B and manuscript Section 3.2.
+
+### S6 Table: Univariate and Multivariate Meta-Regression Models
+**S6 Table.** Univariate and multivariate mixed-effects meta-regression models partitioning between-study variance ($R^2$) across African DEC pathotype cohorts ($k = 26$).**
 
 | Model Specification / Pathotype | Covariates Included | Residual $\tau^2_{\text{res}}$ | Variance Explained ($R^2$) | Omnibus $Q_M$ ($df$) | Omnibus $P$-value | Knapp–Hartung $F$ ($P$-value) | Residual Heterogeneity $Q_E$ ($P$-value) | Residual $I^2_{\text{res}}$ (%) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -494,9 +493,8 @@
 
 ---
 
-### S6 Table: the virulome synthesis Virulence Locus $2 \times 2$ Contingency Tables
-
-**S6 Table.** Complete study-by-study $2 \times 2$ contingency tables, Haldane–Anscombe continuity-corrected effect sizes ($\log_2 \text{Odds Ratio}$), and standard errors across 29 virulence determinants in the virulome synthesis ($k = 30$ cohort entries, $154$ locus strata).**
+### S7 Table: the virulome synthesis Virulence Locus $2 \times 2$ Contingency Tables
+**S7 Table.** Complete study-by-study $2 \times 2$ contingency tables, Haldane–Anscombe continuity-corrected effect sizes ($\log_2 \text{Odds Ratio}$), and standard errors across 29 virulence determinants in the virulome synthesis ($k = 30$ cohort entries, $154$ locus strata).**
 
 | Pathotype | Gene Locus | Cohort ID & Citation | Cases Pos ($a$) | Cases Neg ($b$) | Controls Pos ($c$) | Controls Neg ($d$) | Unadjusted OR | Log2 OR (HA +0.5) | SE (ln OR) | 95% Confidence Interval |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -575,9 +573,8 @@
 
 ---
 
-### S7 Table: Subgroup and Sensitivity Analyses of Virulence Loci
-
-**S7 Table.** Subgroup meta-analysis and sensitivity evaluations of virulence loci stratified by diagnostic platform, host age strata, and geographic region (virulome analysis).**
+### S8 Table: Subgroup and Sensitivity Analyses of Virulence Loci
+**S8 Table.** Subgroup meta-analysis and sensitivity evaluations of virulence loci stratified by diagnostic platform, host age strata, and geographic region (virulome analysis).**
 
 | Virulence Locus / Subgroup Stratum | Subgroup Category | Studies ($k$) | Cases ($r/n$, %) | Controls ($r/n$, %) | Pooled REML OR [95% CI] | $P$-value | $I^2$ (%) | Subgroup Difference $P$ |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -601,9 +598,8 @@
 
 ---
 
-### S8 Table: Comprehensive African DEC AMR Profiles
-
-**S8 Table.** Comprehensive phenotypic antimicrobial susceptibility profiles and pooled non-susceptibility rates (% [95% CI]) across African DEC pathotypes ($k = 54$ cohorts), including resolved DAEC resistance ($n = 80$) and WHO AWaRe categorization.**
+### S9 Table: Comprehensive African DEC AMR Profiles
+**S9 Table.** Comprehensive phenotypic antimicrobial susceptibility profiles and pooled non-susceptibility rates (% [95% CI]) across African DEC pathotypes ($k = 54$ cohorts), including resolved DAEC resistance ($n = 80$) and WHO AWaRe categorization.**
 
 | Pathotype | AMP (%) [95% CI] | TE (%) [95% CI] | SXT (%) [95% CI] | CTX / 3GC (%) [95% CI] | CIP / FQ (%) [95% CI] | CN (%) [95% CI] | C (%) [95% CI] | MEM (%) [95% CI] | MDR ($\ge 3$ Classes) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -621,58 +617,7 @@
 
 ---
 
-### S9 Table: GRADE Evidence Profile and Assessment of Certainty Matrix
-
-**S9 Table.** Full GRADE evidence profile and assessment of certainty matrix across all evaluated DEC pathotypes and accessory virulence loci.**
-
-| Domain / Target Evaluated | Cohorts ($k$) & Design | Sample Size ($N_{\text{cases}} / N_{\text{ctrl}}$) | Risk of Bias | Inconsistency ($I^2$, $\tau^2$) | Indirectness | Imprecision | Other Considerations | Pooled Effect Estimate ($95\%$ CI) | Overall GRADE Certainty | Clinical Interpretation & Actionability |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **DEC PATHOTYPES (AFRICAN SURVEILLANCE)** | | | | | | | | | | |
-| **ETEC (Enterotoxigenic)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.37$ [$2.08\text{--}2.70$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Primary target for syndromic therapy & vaccines. |
-| **EIEC (Enteroinvasive)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.43$ [$1.69\text{--}3.50$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | True dysenteric pathogen; high clinical specificity. |
-| **Typical EPEC (`bfpA+ eae+`, <12m)**| 4 (Matched CC) | 4,349 / 5,974 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.82$ [$2.27\text{--}3.52$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Infant-specific acute killer; vaccine candidate. |
-| **DAEC (Toddlers $\ge 12\text{--}59$m)** | 7 (Matched CC) | 1,782 / 1,482 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.21$ [$1.73\text{--}2.82$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Weaning enteropathogen; screen toddlers $>12$m. |
-| **DAEC (Infants $<12$m)** | 5 (Matched CC) | 1,105 / 967 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Null effect confirmed | $\text{mOR} = 0.91$ [$0.69\text{--}1.20$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Commensal carriage; do not treat in $<12$m infants. |
-| **Atypical EPEC (Unstratified)** | 11 (Matched CC) | 5,128 / 5,047 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null-crossing CI | $\text{mOR} = 0.89$ [$0.78\text{--}1.01$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Unstratified `eae` is uninformative; require subtyping. |
-| **EAEC (Unstratified `aatA`/`aggR`)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | Serious ($I^2 = 73.2\%$) | Serious$^a$ | Not serious | Borderline effect | $\text{mOR} = 1.38$ [$1.03\text{--}1.85$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Carriage attribution challenge; single-gene PCR uninformative. |
-| **STEC (Shiga Toxin-Producing)** | 13 (Matched CC) | 5,449 / 5,953 | Not serious | Serious ($I^2 = 53.8\%$) | Not serious | Serious$^b$ | Wide 95% CI | $\text{mOR} = 1.81$ [$0.97\text{--}3.37$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Low-frequency, high-acuity; outbreak vigilance. |
-| **ACCESSORY VIRULENCE LOCI (GLOBAL & AFRICAN COHORTS)**| | | | | | | | | | |
-| **EPEC OI-122 `lifA/efa1`** | 4 (Matched CC) | 260 / 93 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Very large effect ($\text{OR} > 5$) | $\text{mOR} = 6.01$ [$2.64\text{--}13.69$]| **HIGH** ($\oplus\oplus\oplus\oplus$) | Pathognomonic marker for atypical EPEC diarrhoea. |
-| **EAEC SPATE `sepA`** | 5 (Matched CC) | 360 / 346 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 4.5$) | $\text{mOR} = 4.68$ [$2.85\text{--}7.69$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | True virulent EAEC driver; top vaccine antigen. |
-| **EPEC OI-122 `nleB`** | 3 (Matched CC) | 171 / 82 | Not serious | None ($I^2 = 1.4\%$) | Not serious | Not serious | Large effect ($\text{OR} > 4.0$) | $\text{mOR} = 4.20$ [$2.06\text{--}8.56$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Essential Type III effector of severe illness. |
-| **EPEC OI-122 `nleE`** | 3 (Matched CC) | 171 / 82 | Not serious | None ($I^2 = 0.9\%$) | Not serious | Not serious | Large effect ($\text{OR} > 3.5$) | $\text{mOR} = 3.80$ [$1.86\text{--}7.75$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Essential NF-$\kappa$B inhibitor of severe illness. |
-| **EAEC Adhesin `CS22`** | 3 (Matched CC) | 200 / 144 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Serious$^c$ | Large effect ($\text{OR} > 3.5$) | $\text{mOR} = 3.59$ [$1.44\text{--}8.94$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Emergent colonization factor; requires expanded testing. |
-| **DAEC Vacuolating Toxin `sat`** | 3 (Matched CC) | 450 / 244 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Serious$^c$ | Large effect ($\text{OR} > 3.0$) | $\text{mOR} = 3.22$ [$1.72\text{--}6.02$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | High tissue damage in toddler gastroenteritis. |
-| **EAEC Fimbria `aafA` (AAF/II)** | 7 (Matched CC) | 515 / 445 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Large effect ($\text{OR} > 3.0$) | $\text{mOR} = 3.08$ [$2.00\text{--}4.74$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Major epidemic fimbrial lineage; vaccine target. |
-| **DAEC Adhesin `afaE`** | 3 (Matched CC) | 296 / 203 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Serious$^c$ | Large effect ($\text{OR} > 3.0$) | $\text{mOR} = 3.07$ [$1.75\text{--}5.41$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Major adhesin conferring microvillar effacement. |
-| **EAEC Fimbria `agg3A` (AAF/III)** | 4 (Matched CC) | 264 / 226 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Serious$^c$ | Large effect ($\text{OR} > 2.5$) | $\text{mOR} = 2.71$ [$1.28\text{--}5.74$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Virulent fimbrial variant; add to multiplex panels. |
-| **aEPEC Enterotoxin `astA`** | 3 (Matched CC) | 229 / 76 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Serious$^c$ | Large effect ($\text{OR} > 2.5$) | $\text{mOR} = 2.63$ [$1.28\text{--}5.37$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Secretory enterotoxin in atypical EPEC strains. |
-| **EAEC Fimbriae `AAF_any`** | 5 (Matched CC) | 345 / 276 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Moderate effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.38$ [$1.68\text{--}3.37$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Universal fimbrial screen restores EAEC attribution. |
-| **EAEC Cytotoxin `pet`** | 5 (Matched CC) | 358 / 305 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Moderate effect ($\text{OR} > 2.0$) | $\text{mOR} = 2.19$ [$1.30\text{--}3.69$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Cytotoxic SPATE inducing mucosal exfoliation. |
-| **EAEC Cytotoxin `sat`** | 6 (Matched CC) | 434 / 395 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Moderate effect | $\text{mOR} = 1.78$ [$1.24\text{--}2.56$] | **HIGH** ($\oplus\oplus\oplus\oplus$) | Vacuolating autotransporter of tissue damage. |
-| **EAEC Fimbria `agg4A` (AAF/IV)** | 3 (Matched CC) | 192 / 151 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Serious$^c$ | Wide 95% CI crossing null | $\text{mOR} = 1.58$ [$0.65\text{--}3.86$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Low prevalence; insufficient sample size. |
-| **DAEC `daaC` (All Ages 0–59m)** | 7 (Matched CC) | 2,784 / 2,119 | Not serious | None ($I^2 = 12.7\%$) | Serious$^a$ | Not serious | Diluted by infant carriage | $\text{mOR} = 1.53$ [$1.28\text{--}1.84$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Masked by infant commensalism; age stratify. |
-| **EAEC T6SS `aaiC`** | 6 (Matched CC) | 487 / 582 | Not serious | None ($I^2 = 0.0\%$) | Not serious | Not serious | Weak effect | $\text{mOR} = 1.47$ [$1.11\text{--}1.96$] | **MODERATE** ($\oplus\oplus\oplus\bigcirc$) | Chromosomal island marker; secondary virulence role. |
-| **EAEC Transporter `aatA` (CVD432)**| 13 (Matched CC) | 2,412 / 2,104 | Not serious | None ($I^2 = 14.4\%$) | Serious$^a$ | Not serious | Weak effect, equal carriage | $\text{mOR} = 1.21$ [$1.01\text{--}1.45$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Non-discriminatory diagnostic marker. |
-| **EAEC Master Regulator `aggR`** | 13 (Matched CC) | 2,412 / 2,104 | Not serious | None ($I^2 = 13.9\%$) | Serious$^a$ | Not serious | Null-crossing 95% CI | $\text{mOR} = 1.17$ [$0.98\text{--}1.40$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Master regulator carried equally by controls. |
-| **EAEC Siderophore `irp2`** | 4 (Matched CC) | 283 / 250 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null-crossing 95% CI | $\text{mOR} = 1.14$ [$0.79\text{--}1.63$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | High-pathogenicity island fitness marker. |
-| **EAEC Siderophore `fyuA`** | 4 (Matched CC) | 283 / 250 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null-crossing 95% CI | $\text{mOR} = 1.14$ [$0.79\text{--}1.63$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Ferric yersiniabactin outer-membrane receptor. |
-| **EAEC Dispersin `aap`** | 7 (Matched CC) | 515 / 445 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null-crossing 95% CI | $\text{mOR} = 1.09$ [$0.83\text{--}1.44$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Anti-aggregation dispersin protein; neutral. |
-| **EPEC Intimin `eae` (Unstratified)**| 4 (Matched CC) | 10,290 / 14,041 | Not serious | Serious ($I^2 = 46.7\%$) | Serious$^a$ | Not serious | Null effect | $\text{mOR} = 1.06$ [$0.85\text{--}1.32$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Generic intimin; non-informative alone. |
-| **EAEC Enterotoxin `astA`** | 8 (Matched CC) | 1,431 / 1,070 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null effect | $\text{mOR} = 1.06$ [$0.85\text{--}1.33$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | EAST1 enterotoxin carried equally by controls. |
-| **EAEC Mucinase `pic`** | 8 (Matched CC) | 635 / 822 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null effect | $\text{mOR} = 1.04$ [$0.79\text{--}1.37$] | **LOW** ($\oplus\bigcirc\bigcirc\bigcirc$) | Mucinase facilitating mucosal colonization. |
-| **EAEC Fimbria `aggA` (AAF/I)** | 5 (Matched CC) | 345 / 276 | Not serious | None ($I^2 = 0.0\%$) | Serious$^a$ | Not serious | Null effect ($\text{OR} = 1.00$) | $\text{mOR} = 1.00$ [$0.65\text{--}1.53$] | **LOW** ($\oplus\oplus\bigcirc\bigcirc$) | Rare fimbrial variant; equal control carriage. |
-
-*Footnotes for GRADE Downgrading / Upgrading:*
-$^a$ Downgraded by 1 level for Serious Indirectness due to substantial asymptomatic community carriage diluting the clinical specificity of generic pathotype or regulator markers.
-$^b$ Downgraded by 1 level for Serious Imprecision due to wide 95% confidence intervals crossing the null threshold ($\text{OR} = 1.0$).
-$^c$ Downgraded by 1 level for Serious Imprecision due to limited number of cohorts ($k = 3$) or total event counts $<100$.
-Upgraded by 1 or 2 levels for Large or Very Large Effect Magnitude ($\text{OR} > 2.0$ or $\text{OR} > 5.0$) with narrow confidence intervals and zero inconsistency ($I^2 = 0.0\%$).
-
----
-
 ### S10 Table: Comparative Methodological Architecture
-
 **S10 Table.** Structural and methodological framework contrasting the present dual-track systematic review and meta-analysis against historical unadjusted enteric syntheses.**
 
 | Methodological Dimension | Historical Single-Arm Syntheses | Present Hierarchical Systematic Synthesis | Scientific Advancement & Clinical Value |
