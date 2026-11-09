@@ -1,0 +1,140 @@
+study_id,author_year,country,region,pathotype,locus,cases_pos,cases_total,ctrl_pos,ctrl_total,verbatim_source
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,aggR,45,57,36,40,"PMC7500659 Table 1, p. 7 (aggR: 45/57 [78.9%] cases vs 36/40 [90.0%] controls; OR=0.4)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,aar,27,57,29,40,"PMC7500659 Table 1, p. 7 (aar: 27/57 [47.4%] cases vs 29/40 [72.5%] controls; OR=0.3)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,aaiC,21,57,16,40,"PMC7500659 Table 1, p. 7 (aaiC: 21/57 [36.8%] cases vs 16/40 [40.0%] controls; OR=0.9)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,aap,48,57,38,40,"PMC7500659 Table 1, p. 7 (aap: 48/57 [84.2%] cases vs 38/40 [95.0%] controls; OR=0.3)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,aatA,40,57,33,40,"PMC7500659 Table 1, p. 7 (aatA: 40/57 [70.2%] cases vs 33/40 [82.5%] controls; OR=0.5)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,aggA,11,57,11,40,"PMC7500659 Table 1, p. 7 (aggA: 11/57 [19.3%] cases vs 11/40 [27.5%] controls; OR=0.6)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,aafA,3,57,5,40,"PMC7500659 Table 1, p. 7 (aafA: 3/57 [5.3%] cases vs 5/40 [12.5%] controls; OR=0.4)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,agg3A,3,57,6,40,"PMC7500659 Table 1, p. 7 (agg3A: 3/57 [5.3%] cases vs 6/40 [15.0%] controls; OR=0.3)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,agg4A,14,57,7,40,"PMC7500659 Table 1, p. 7 (agg4A: 14/57 [24.6%] cases vs 7/40 [17.5%] controls; OR=1.3)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,agg5A,7,57,9,40,"PMC7500659 Table 1, p. 7 (agg5A: 7/57 [12.3%] cases vs 9/40 [22.5%] controls; OR=0.5)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,AAF_any,38,57,38,40,PMC7500659 Table 1 & text (Any AAF variant: 38/57 cases vs 38/40 controls)
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,ORF3,37,57,33,40,"PMC7500659 Table 1, p. 7 (ORF3: 37/57 [64.9%] cases vs 33/40 [82.5%] controls; OR=0.4)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,ORF4,41,57,33,40,"PMC7500659 Table 1, p. 7 (ORF4: 41/57 [71.9%] cases vs 33/40 [82.5%] controls; OR=0.5)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,capU,36,57,31,40,"PMC7500659 Table 1, p. 7 (capU: 36/57 [63.2%] cases vs 31/40 [77.5%] controls; OR=0.5)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,air,11,57,6,40,"PMC7500659 Table 1, p. 7 (air: 11/57 [19.3%] cases vs 6/40 [15.0%] controls; OR=1.4)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,eilA,14,57,11,40,"PMC7500659 Table 1, p. 7 (eilA: 14/57 [24.6%] cases vs 11/40 [27.5%] controls; OR=0.9)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,sigA,2,57,6,40,"PMC7500659 Table 1, p. 7 (sigA: 2/57 [3.5%] cases vs 6/40 [15.0%] controls; OR=0)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,sepA,27,57,7,40,"PMC7500659 Table 1, p. 7 (sepA: 27/57 [47.4%] cases vs 7/40 [17.5%] controls; OR=4.2*, P<0.05)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,sat,12,57,6,40,"PMC7500659 Table 1, p. 7 (sat: 12/57 [21.1%] cases vs 6/40 [15.0%] controls; OR=1.5)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,pic,20,57,15,40,"PMC7500659 Table 1, p. 7 (pic: 20/57 [35.1%] cases vs 15/40 [37.5%] controls; OR=0.9)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,pet,4,57,4,40,"PMC7500659 Table 1, p. 7 (pet: 4/57 [7.0%] cases vs 4/40 [10.0%] controls; OR=0.7)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,astA,21,57,15,40,"PMC7500659 Table 1, p. 7 (astA: 21/57 [36.8%] cases vs 15/40 [37.5%] controls; OR=1.0)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,CS22,3,57,0,40,"PMC7500659 Table 1, p. 7 (CS22: 3/57 [5.3%] cases vs 0/40 [0.0%] controls)"
+BOISEN_2020,BOISEN_2020,"Multi-country (Mali, Mozambique, Bangladesh; Global Enteric Multicenter Study [GEMS])",AFRO / SEARO,EAEC,fyuA,37,57,19,40,"PMC7500659 Table 1, p. 7 (fyuA: 37/57 [64.9%] cases vs 19/40 [47.5%] controls; OR=2.0)"
+HEDGE_2012,HEDGE_2012,India (Mangalore),SEARO,EAEC,aatA,26,200,5,100,PMID:22885192 Abstract & Results (EAEC [CVD432/aatA]: 26/200 [13.0%] in cases vs 5/100 [5.0%] in controls)
+HEDGE_2012,HEDGE_2012,India (Mangalore),SEARO,EPEC,eae_unstratified,32,200,3,100,PMID:22885192 Abstract & Results (EPEC [eae]: 32/200 [16.0%] in cases vs 3/100 [3.0%] in controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aggR,91,138,11,33,PMC7673547 Table 7 & 8 (tEAEC [aggR+]: 91/138 [66.0%] cases vs 11/33 [33.3%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,astA,121,138,30,33,PMC7673547 Table 8 (astA: 121/138 [87.6%] cases vs 30/33 [90.9%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,sigA,4,138,2,33,PMC7673547 Table 8 (sigA: 4/138 [2.8%] cases vs 2/33 [6.0%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,pic,18,138,3,33,PMC7673547 Table 8 (pic: 18/138 [13.0%] cases vs 3/33 [9.0%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,sepA,14,138,3,33,PMC7673547 Table 8 (sepA: 14/138 [10.1%] cases vs 3/33 [9.0%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,sat,20,138,3,33,PMC7673547 Table 8 (sat: 20/138 [14.5%] cases vs 3/33 [9.0%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,pet,10,138,10,33,PMC7673547 Table 8 (pet: 10/138 [7.2%] cases vs 10/33 [30.3%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aap,85,138,16,33,PMC7673547 Table 8 (aap: 85/138 [61.6%] cases vs 16/33 [48.4%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aaiC,22,138,8,33,PMC7673547 Table 8 (aaiC: 22/138 [16.4%] cases vs 8/33 [24.2%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,agg4A,60,138,3,33,PMC7673547 Table 8 (agg4A: 60/138 [43.4%] cases vs 3/33 [9.0%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aggA,34,138,4,33,PMC7673547 Table 8 (aggA: 34/138 [24.6%] cases vs 4/33 [12.1%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aafA,5,138,2,33,PMC7673547 Table 8 (aafA: 5/138 [3.6%] cases vs 2/33 [6.0%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,agg3A,7,138,1,33,PMC7673547 Table 8 (agg3A: 7/138 [5.1%] cases vs 1/33 [3.0%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,eilA,57,138,15,33,PMC7673547 Table 8 (eilA: 57/138 [41.3%] cases vs 15/33 [45.4%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,capU,73,138,15,33,PMC7673547 Table 8 (capU: 73/138 [52.8%] cases vs 15/33 [45.4%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,air,28,138,4,33,PMC7673547 Table 8 (air: 28/138 [20.3%] cases vs 4/33 [12.1%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aggR,186,3943,37,1026,PMC7765457 Table 1 (t-EAEC [aggR+]: 186/3943 [4.7%] cases vs 37/1026 [3.6%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aap,354,440,55,74,PMC7765457 Table 3 (aap: 354/440 [80.5%] cases vs 55/74 [74.3%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,irp2,348,440,41,74,PMC7765457 Table 3 (irp2: 348/440 [79.1%] cases vs 41/74 [55.4%] controls; P=0.001)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,pic,241,440,42,74,PMC7765457 Table 3 (pic: 241/440 [54.8%] cases vs 42/74 [56.8%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,astA,196,440,31,74,PMC7765457 Table 3 (astA: 196/440 [44.5%] cases vs 31/74 [41.9%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aggA,85,440,11,74,PMC7765457 Table 3 (aggA: 85/440 [19.3%] cases vs 11/74 [14.9%] controls)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,aafA,73,440,6,74,PMC7765457 Table 3 (aafA: 73/440 [16.6%] cases vs 6/74 [8.1%] controls; P=0.039)
+KHURANA_2020,KHURANA_2020,India & Bolivia (Two Disentangled Cohorts),SEARO & PAHO,EAEC,pet,68,440,9,74,PMC7765457 Table 3 (pet: 68/440 [15.5%] cases vs 9/74 [12.2%] controls)
+SARANTUYA_2004,SARANTUYA_2004,Mongolia (Ulaanbaatar),WPRO,EAEC,aggR,21,235,2,134,PMC321701 Abstract & Table 2 (AggR-positive typical EAEC: 21/235 [8.9%] cases vs 2/134 [1.5%] controls; P=0.0004)
+OCHOA_2009,OCHOA_2009,Peru (Lima),PAHO,EAEC,aggR,141,936,76,424,PMC2779581 Table 3 (EAEC [aggR]: 141/936 [15.1%] diarrhea vs 76/424 [17.9%] controls)
+OCHOA_2009,OCHOA_2009,Peru (Lima),PAHO,DAEC,daaC_all,43,936,9,424,PMC2779581 Table 3 (DAEC [daaC] all infants: 43/936 [4.6%] diarrhea vs 9/424 [2.1%] controls)
+OCHOA_2009,OCHOA_2009,Peru (Lima),PAHO,DAEC,daaC_infants,17,406,5,153,PMC2779581 Table 3 (DAEC [daaC] < 6 months: 17/406 [4.2%] diarrhea vs 5/153 [3.2%] controls)
+OCHOA_2009,OCHOA_2009,Peru (Lima),PAHO,DAEC,daaC_toddlers,26,530,4,271,PMC2779581 Table 3 (DAEC [daaC] >= 6 months: 26/530 [4.9%] diarrhea vs 4/271 [1.5%] controls; P=0.02)
+OCHOA_2009,OCHOA_2009,Peru (Lima),PAHO,EPEC,eae_unstratified,71,936,42,424,PMC2779581 Table 3 (EPEC [eae]: 71/936 [7.6%] diarrhea vs 42/424 [9.9%] controls)
+ZELELIE_2023,ZELELIE_2023,Ethiopia (Addis Ababa & Debre Berhan),AFRO,EAEC,aggR,54,391,2,85,PMC10348587 Table 3 (Total aggR+: 23 aggR-alone [5.9%] + 31 aggR+astA+ [7.9%] = 54/391 [13.8%] in cases vs 2/85 [2.4%] in controls)
+ZELELIE_2023,ZELELIE_2023,Ethiopia (Addis Ababa & Debre Berhan),AFRO,EAEC,astA,43,391,8,85,PMC10348587 Table 3 (Total astA+: 12 astA-alone [3.1%] + 31 aggR+astA+ [7.9%] = 43/391 [11.0%] in cases vs 8/85 [9.4%] in controls)
+ZELELIE_2023,ZELELIE_2023,Ethiopia (Addis Ababa & Debre Berhan),AFRO,DAEC,daaC_all,0,391,1,85,PMC10348587 Table 3 (DAEC [daaF+]: 0/391 [0.0%] in cases vs 1/85 [1.2%] in controls)
+ZELELIE_2023,ZELELIE_2023,Ethiopia (Addis Ababa & Debre Berhan),AFRO,EPEC,eae_unstratified,26,391,2,85,PMC10348587 Table 3 (EPEC [eae+]: 26/391 [6.6%] in cases vs 2/85 [2.3%] in controls)
+FARFAN_2020,FARFAN_2020,Colombia (Bucaramanga),PAHO,EAEC,aggR,38,361,38,328,PMC7357789 Table 6 (Typical EAEC [aggR]: 38/361 [10.5%] in cases vs 38/328 [11.6%] in controls; plus 2 hybrids in cases = 40/361)
+FARFAN_2020,FARFAN_2020,Colombia (Bucaramanga),PAHO,EAEC,aaiC,20,361,19,328,"PMC7357789 Table 6 (Atypical EAEC [aaiC+, aggR-neg]: 20/361 [5.5%] in cases vs 19/328 [5.8%] in controls)"
+FARFAN_2020,FARFAN_2020,Colombia (Bucaramanga),PAHO,DAEC,daaC_all,4,361,2,328,PMC7357789 Table 6 (DAEC [daaE]: 4/361 [1.1%] in cases vs 2/328 [0.6%] in controls)
+FARFAN_2020,FARFAN_2020,Colombia (Bucaramanga),PAHO,EPEC,eae_unstratified,31,361,51,328,PMC7357789 Table 6 (All EPEC [eae]: 29 atypical + 2 typical = 31/361 [8.6%] in cases vs 47 atypical + 4 typical = 51/328 [15.5%] in controls)
+FARFAN_2020,FARFAN_2020,Colombia (Bucaramanga),PAHO,EPEC,bfpA_infants,2,361,4,328,PMC7357789 Table 6 (Typical EPEC [bfpA]: 2/361 [0.6%] in cases vs 4/328 [1.2%] in controls)
+HAUGAN_2024,HAUGAN_2024,Norway (Mid-Norway / Trondelag),EURO,EAEC,aggR,440,9487,8,375,PMC11025732 Table 2 (Overall EAEC [aggR]: 440/9487 [4.6%] diarrhoeal episodes vs 8/375 [2.1%] healthy controls; P=0.02)
+HAUGAN_2024,HAUGAN_2024,Norway (Mid-Norway / Trondelag),EURO,EAEC,aggR_pediatric_0_9y,58,1856,0,39,PMC11025732 Table 2 (Age 0-9 years EAEC [aggR]: 58/1856 [3.1%] cases vs 0/39 [0.0%] controls)
+PABST_2003,PABST_2003,Switzerland (Zurich & St. Gallen),EURO,EAEC,aatA,19,187,3,137,PMC156476 Results p. 2291 (EAEC [pCVD432/aatA] all children: 19/187 [10.2%] cases vs 3/137 [2.2%] controls; P=0.006)
+PABST_2003,PABST_2003,Switzerland (Zurich & St. Gallen),EURO,EAEC,aatA_under5,18,151,2,91,PMC156476 Results p. 2291 (EAEC [pCVD432/aatA] children < 5y: 18/151 [11.9%] cases vs 2/91 [2.2%] controls; P=0.007)
+PABST_2003,PABST_2003,Switzerland (Zurich & St. Gallen),EURO,EPEC,eae_unstratified,30,187,15,137,PMC156476 Results p. 2291 (EPEC [eaeA]: 30/187 [16.0%] cases vs 15/137 [10.9%] controls; P>0.05)
+ROBINS_2004,ROBINS_2004,Australia (Melbourne),WPRO,EAEC,aatA,45,696,15,489,PMC3323264 Table 4 (EAEC [aatA/pCVD432 probe]: 45/696 [6.5%] symptomatic vs 15/489 [3.1%] symptom-free controls; P=0.02)
+ROBINS_2004,ROBINS_2004,Australia (Melbourne),WPRO,EPEC,eae_unstratified,91,696,12,489,PMC3323264 Table 4 (All EPEC [eae]: 89 aEPEC + 2 tEPEC = 91/696 [13.1%] cases vs 11 aEPEC + 1 tEPEC = 12/489 [2.5%] controls; P<0.0001)
+ROBINS_2004,ROBINS_2004,Australia (Melbourne),WPRO,EPEC,bfpA_infants,2,696,1,489,PMC3323264 Table 4 (Typical EPEC [bfpA+eae+]: 2/696 [0.3%] cases vs 1/489 [0.2%] controls)
+ROBINS_2004,ROBINS_2004,Australia (Melbourne),WPRO,EPEC,lifA_efa1,2,11,1,11,"PMC3323264 Table 5 (efa1 in characterized aEPEC: 2/11 symptomatic [G: W1040, W1056] vs 1/11 asymptomatic controls [N: W145])"
+ROBINS_2004,ROBINS_2004,Australia (Melbourne),WPRO,EPEC,astA_aEPEC,1,11,1,11,PMC3323264 Table 5 (astA in characterized aEPEC: 1/11 symptomatic [G: W1056] vs 1/11 asymptomatic controls [N: W145])
+OCHIENG_2023,OCHIENG_2023,"Multi-country (The Gambia, Mali, Kenya; Vaccine Impact on Diarrhea in Africa [VIDA])",AFRO,EAEC,aatA_tac_qpcr,2818,4836,3090,4836,PMC10116530 Table 2 (EAEC by TAC qPCR: 2818/4836 [58.3%] cases vs 3090/4836 [63.9%] controls; P<0.0001)
+OCHIENG_2023,OCHIENG_2023,"Multi-country (The Gambia, Mali, Kenya; Vaccine Impact on Diarrhea in Africa [VIDA])",AFRO,EAEC,aatA_conv_pcr,755,4719,866,4733,PMC10116530 Table 1 (EAEC by Conventional PCR: 755/4719 [16.0%] cases vs 866/4733 [18.3%] controls)
+OCHIENG_2023,OCHIENG_2023,"Multi-country (The Gambia, Mali, Kenya; Vaccine Impact on Diarrhea in Africa [VIDA])",AFRO,EPEC,bfpA_tac_all,1077,4836,1086,4836,PMC10116530 Table 2 (Typical EPEC [bfpA] by TAC qPCR: 1077/4836 [22.3%] cases vs 1086/4836 [22.5%] controls)
+OCHIENG_2023,OCHIENG_2023,"Multi-country (The Gambia, Mali, Kenya; Vaccine Impact on Diarrhea in Africa [VIDA])",AFRO,EPEC,bfpA_infants,394,4836,413,4836,PMC10116530 Table 2 (Typical EPEC [bfpA] 0-11 months: 394/4836 [36.6% of positives] in cases vs 413/4836 [38.0%] in controls)
+OCHIENG_2023,OCHIENG_2023,"Multi-country (The Gambia, Mali, Kenya; Vaccine Impact on Diarrhea in Africa [VIDA])",AFRO,EPEC,bfpA_toddlers,396,4836,401,4836,PMC10116530 Table 2 (Typical EPEC [bfpA] 12-23 months: 396/4836 [36.8% of positives] in cases vs 401/4836 [36.9%] in controls)
+OCHIENG_2023,OCHIENG_2023,"Multi-country (The Gambia, Mali, Kenya; Vaccine Impact on Diarrhea in Africa [VIDA])",AFRO,EPEC,eae_unstratified,1127,4836,1321,4836,"PMC10116530 Table 2 (Atypical EPEC [eae+, bfpA-] by TAC qPCR: 1127/4836 [23.3%] cases vs 1321/4836 [27.3%] controls; P<0.0001)"
+AKINLABI_2023A,AKINLABI_2023A,Nigeria (Osun State),AFRO,EAEC,aatA,25,120,74,357,PMC10406320 Table 4 (EAEC [CVD432/aatA] by PCR: 25/120 [20.8%] cases vs 74/357 [20.7%] controls; P=0.9804)
+AKINLABI_2023A,AKINLABI_2023A,Nigeria (Osun State),AFRO,EAEC,aatA_wgs,35,120,102,357,PMC10406320 Table 4 (EAEC [CVD432/aatA] by WGS: 35/120 [29.2%] cases vs 102/357 [28.6%] controls; P=0.9075)
+AKINLABI_2023A,AKINLABI_2023A,Nigeria (Osun State),AFRO,EPEC,eae_unstratified,15,120,28,357,PMC10406320 Table 4 (EPEC [eae] by PCR: 15/120 [12.5%] cases vs 28/357 [8.4%] controls; P=0.1233)
+AKINLABI_2023A,AKINLABI_2023A,Nigeria (Osun State),AFRO,EPEC,bfpA_infants,7,120,16,357,PMC10406320 Table 4 (Typical EPEC [bfpA] by PCR: 1 eae+bfp+ + 6 bfp-alone = 7/120 [5.8%] cases vs 3 eae+bfp+ + 13 bfp-alone = 16/357 [4.5%] controls)
+ALI_2014,ALI_2014,Egypt (Cairo),EMRO,EAEC,aatA,19,62,4,43,"JIDC 2014;8(5):589-596 Abstract & Table 2 (EAEC [pCVD432/aatA]: 19/62 [30.7%] diarrheic cases vs 4/43 [9.3%] controls; OR=4.31, P<0.01)"
+ALI_2014,ALI_2014,Egypt (Cairo),EMRO,EAEC,aggR_isolate_level,18,19,4,4,JIDC 2014;8(5):589-596 Table 3 (aggR among EAEC: 18/19 [94.7%] cases vs 4/4 [100%] controls)
+ALI_2014,ALI_2014,Egypt (Cairo),EMRO,EAEC,aggA_isolate_level,8,19,3,4,JIDC 2014;8(5):589-596 Table 3 (aggA among EAEC: 8/19 [42.1%] cases vs 3/4 [75.0%] controls)
+ALI_2014,ALI_2014,Egypt (Cairo),EMRO,EAEC,astA_isolate_level,10,19,2,4,JIDC 2014;8(5):589-596 Table 3 (astA among EAEC: 10/19 [52.6%] cases vs 2/4 [50.0%] controls)
+ALI_2014,ALI_2014,Egypt (Cairo),EMRO,EAEC,pic_isolate_level,1,19,0,4,JIDC 2014;8(5):589-596 Table 3 (pic among EAEC: 1/19 [5.3%] cases vs 0/4 [0.0%] controls)
+ALI_2014,ALI_2014,Egypt (Cairo),EMRO,EAEC,aap_isolate_level,10,19,0,4,JIDC 2014;8(5):589-596 Table 3 (aap among EAEC: 10/19 [52.6%] cases vs 0/4 [0.0%] controls)
+ALI_2014,ALI_2014,Egypt (Cairo),EMRO,EPEC,eae_unstratified,2,62,1,43,JIDC 2014;8(5):589-596 Abstract & Table 2 (EPEC [eae]: 2/62 [3.2%] cases vs 1/43 [2.3%] controls)
+ONANUGA_2014,ONANUGA_2014,"Nigeria (Gwagwalada, Abuja)",AFRO,EAEC,aatA,16,201,5,529,PMC4219803 Table 2 & Section 3.2 (EAEC at child level: 16/201 [8.0%] cases vs 5/529 [0.9%] controls; P=0.0014)
+ONANUGA_2014,ONANUGA_2014,"Nigeria (Gwagwalada, Abuja)",AFRO,EAEC,aatA_isolate_level,16,277,5,388,PMC4219803 Table 2 (EAEC at isolate level: 16/277 [5.8%] cases vs 5/388 [1.3%] controls; P=0.0014)
+ONANUGA_2014,ONANUGA_2014,"Nigeria (Gwagwalada, Abuja)",AFRO,EPEC,bfpA_infants,8,201,1,529,PMC4219803 Table 2 (Typical EPEC [bfpA+eae+] at child level: 8/201 [4.0%] cases vs 1/529 [0.2%] controls; P=0.0049)
+ONANUGA_2014,ONANUGA_2014,"Nigeria (Gwagwalada, Abuja)",AFRO,EPEC,bfpA_isolate_level,8,277,1,388,PMC4219803 Table 2 (Typical EPEC [bfpA+eae+] at isolate level: 8/277 [2.9%] cases vs 1/388 [0.3%] controls; P=0.0049)
+LOZER_2013,LOZER_2013,Brazil,,EAEC,aatA,36,141,81,419,Table 3
+LOZER_2013,LOZER_2013,Brazil,,DAEC,daaC_all,26,141,39,419,Table 3
+LOZER_2013,LOZER_2013,Brazil,,DAEC,daaC_infants,5,40,10,110,Table 1
+LOZER_2013,LOZER_2013,Brazil,,DAEC,daaC_toddlers,15,53,18,163,Table 1
+LOZER_2013,LOZER_2013,Brazil,,EPEC,eae_unstratified,16,141,33,419,Table 3
+LLORENTE_2025,LLORENTE_2025,Spain,,EAEC,CS22,0,9,0,57,Text p. 5 & Table S5
+MEZA_SEGURA_2020,MEZA_SEGURA_2020,Mexico,,EAEC,fyuA,15,16,2,7,Table 3
+MEZA_SEGURA_2020,MEZA_SEGURA_2020,Mexico,,DAEC,sat_DAEC,6,10,0,7,Table 3
+MANSAN_2013,MANSAN_2013,Brazil,,DAEC,daaC_all,21,127,25,127,Table 1
+MANSAN_2013,MANSAN_2013,Brazil,,DAEC,daaC_toddlers,27,143,5,119,Table 1
+MANSAN_2013,MANSAN_2013,Brazil,,DAEC,sat_DAEC,23,50,11,58,Table 3
+MANSAN_2013,MANSAN_2013,Brazil,,DAEC,sat_DAEC,18,27,13,15,Table 3
+MANSAN_2013,MANSAN_2013,Brazil,,DAEC,afaE,22,50,19,58,Table 2
+MANSAN_2013,MANSAN_2013,Brazil,,DAEC,afaE,12,27,5,15,Table 2
+GARRINE_2020,GARRINE_2020,Mozambique,,DAEC,daaC_all,10,415,16,451,Tables 1 & 2
+GARRINE_2020,GARRINE_2020,Mozambique,,DAEC,daaC_infants,8,175,10,199,Tables 1 & 2
+GARRINE_2020,GARRINE_2020,Mozambique,,DAEC,daaC_toddlers,2,240,6,252,Tables 1 & 2
+SCALETSKY_2002,SCALETSKY_2002,Brazil,,DAEC,daaC_all,49,237,40,231,Abstract & Text
+SCALETSKY_2002,SCALETSKY_2002,Brazil,,EPEC,eae_unstratified,21,237,7,231,Abstract
+SPANO_2008,SPANO_2008,Brazil,,DAEC,daaC_all,40,218,7,86,Abstract & Text
+OKEKE_2000A,OKEKE_2000A,Nigeria,,DAEC,daaC_all,18,187,8,144,Table 2 & Text
+AKINLABI_2025,AKINLABI_2025,Nigeria,,DAEC,afaE,1,39,4,57,S1/S2 Table
+AKINLABI_2025,AKINLABI_2025,Nigeria,,EPEC,bfpA_infants,8,22,4,36,"Table 1, Table 3, & S1 Table"
+AKINLABI_2025,AKINLABI_2025,Nigeria,,EPEC,bfpA_toddlers,0,8,0,15,Table 1 & S1 Table
+AKINLABI_2025,AKINLABI_2025,Nigeria,,EPEC,lifA_efa1,3,39,11,57,S1/S2 Table
+AKINLABI_2025,AKINLABI_2025,Nigeria,,EPEC,nleB,31,39,53,57,S1/S2 Table
+AKINLABI_2025,AKINLABI_2025,Nigeria,,EPEC,astA_aEPEC,4,39,5,57,S1/S2 Table
+MERO_2021,MERO_2021,Guinea-Bissau,,EPEC,eae_unstratified,140,228,126,201,Table 2
+AFSET_2004,AFSET_2004,Norway,,EPEC,eae_unstratified,38,251,21,210,Abstract & Table 1
+OLAYINKA_2024,OLAYINKA_2024,Nigeria,,EPEC,eae_unstratified,12,167,10,334,Table 3
+VUBIL_2026,VUBIL_2026,Mozambique,,EPEC,bfpA_infants,26,35,52,66,Table 3
+VUBIL_2026,VUBIL_2026,Mozambique,,EPEC,bfpA_toddlers,12,18,23,38,Table 3
+HAZEN_2016,HAZEN_2016,Multi-country (GEMS),,EPEC,bfpA_infants,44,47,17,23,Table 1 & Table 2
+MERCADO_2016,MERCADO_2016,Peru,,EPEC,bfpA_infants,19,128,25,251,Table 2
+MERCADO_2016,MERCADO_2016,Peru,,EPEC,lifA_efa1,39,128,53,251,Table 2
+MERCADO_2016,MERCADO_2016,Peru,,EPEC,nleB,50,128,92,251,Table 2
+MERCADO_2016,MERCADO_2016,Peru,,EPEC,nleE,48,128,95,251,Table 2
+XU_2017,XU_2017,China,,EPEC,lifA_efa1,36,121,0,27,Table 3
+XU_2017,XU_2017,China,,EPEC,nleB,50,121,2,27,Table 3
+XU_2017,XU_2017,China,,EPEC,nleE,53,121,2,27,Table 3
+XU_2017,XU_2017,China,,EPEC,astA_aEPEC,13,121,5,27,Table 3
+SALVADOR_2014,SALVADOR_2014,Brazil,,EPEC,nleB,37,71,13,36,Table 1
+SALVADOR_2014,SALVADOR_2014,Brazil,,EPEC,nleE,32,71,13,36,Table 1
