@@ -28,8 +28,8 @@ dec-attribution-meta-analysis/
 │   ├── Table_3_Key_Virulence_Loci_Determinants.xlsx
 │   └── Table_4_GRADE_Summary_of_Findings.xlsx
 ├── supplementary/                 # Supplementary Information Suite
-│   ├── figures/                   # Supplementary Figures S1 through S22 (300 DPI)
-│   ├── tables/                    # Master Excel Workbook + Tables S1 through S10
+│   ├── figures/                   # Supplementary Figures S1 through S21 (300 DPI)
+│   ├── tables/                    # Master Excel Workbook + Tables S1 through S9
 │   └── document/                  # Supplementary Information Document (.docx, .pdf, .md)
 ├── data/                          # Underlying Datasets
 │   ├── Master_Supplementary_Dataset.xlsx           # Complete Multi-Tab Excel Workbook
