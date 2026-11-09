@@ -1,156 +1,199 @@
-study_id,author_year,country,region,pathotype,locus,cases_pos,cases_total,ctrl_pos,ctrl_total,age_strata,modality,doi
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,sepA,21,60,5,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aggR,44,60,46,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aatA,38,60,39,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aap,35,60,37,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aaiC,24,60,22,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,pic,12,60,11,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,sat,19,60,14,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,pet,7,60,5,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,astA,25,60,27,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aggA,11,60,12,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,aafA,9,60,4,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,agg3A,8,60,4,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,agg4A,5,60,3,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2012,Boisen et al. (2012),Mali,Western Africa,EAEC,AAF_any,33,60,23,61,0–59m,Multiplex PCR & CGH,10.1093/infdis/jir757
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,sepA,27,57,7,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,CS22,9,57,2,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aggR,45,57,36,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aatA,39,57,30,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aap,36,57,27,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aaiC,28,57,18,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aggA,11,57,9,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,aafA,12,57,4,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,agg3A,10,57,3,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,agg4A,4,57,3,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,AAF_any,44,57,23,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,pic,11,57,7,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,sat,16,57,8,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,irp2,38,57,27,40,0–59m,WGS,10.1371/journal.pntd.0008613
-BOISEN_2020,Boisen et al. (2020),"Mali, Mozambique, Bangladesh",Africa/Asia,EAEC,fyuA,38,57,27,40,0–59m,WGS,10.1371/journal.pntd.0008613
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aafA,19,81,4,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aggA,16,81,11,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,AAF_any,35,81,15,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aggR,34,81,21,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aatA,29,81,18,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,aap,31,81,19,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,pic,13,81,8,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,pet,11,81,4,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,astA,28,81,18,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,irp2,42,81,24,50,0–59m,Probe & PCR,10.1086/315204
-OKEKE_2000,Okeke et al. (2000),Nigeria,Western Africa,EAEC,fyuA,42,81,24,50,0–59m,Probe & PCR,10.1086/315204
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,pet,12,75,4,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aafA,15,75,7,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,agg3A,4,75,1,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aggA,8,75,7,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,AAF_any,27,75,15,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aaiC,21,75,16,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aatA,31,75,33,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aggR,28,75,30,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,aap,29,75,32,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,pic,18,75,20,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,sat,14,75,9,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,astA,20,75,22,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,sepA,11,75,3,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,irp2,26,75,28,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-LIMA_2013,Lima et al. (2013),Brazil,Latin America,EAEC,fyuA,26,75,28,91,0–59m,Multiplex PCR,10.1099/jmm.0.054262-0
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aatA,38,100,26,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aaiC,22,100,11,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aggR,31,100,24,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aap,34,100,28,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,pic,19,100,21,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,sat,16,100,10,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,aafA,11,100,4,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-HAVT_2017,Havt et al. (2017),Brazil,Latin America,EAEC,sepA,14,100,4,100,0–59m,Multiplex PCR & qPCR,10.1016/j.diagmicrobio.2017.06.024
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aafA,16,70,5,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aggR,58,70,56,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aatA,62,70,60,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,aap,55,70,53,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,pic,14,70,12,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,pet,12,70,7,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,sat,22,70,14,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,astA,27,70,25,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,irp2,48,70,45,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-JENKINS_2007,Jenkins et al. (2007),United Kingdom,Europe,EAEC,fyuA,48,70,45,69,All Ages,Multiplex PCR,10.1007/s10096-007-0388-z
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aggR,58,72,25,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aatA,60,72,26,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aap,52,72,23,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aafA,18,72,3,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,aggA,19,72,8,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,agg3A,11,72,2,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,AAF_any,48,72,13,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,pet,15,72,3,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,sat,17,72,4,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,pic,15,72,7,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-MOHAMED_2007,Mohamed et al. (2007),Mexico,Latin America,EAEC,astA,31,72,15,34,All Ages,Multiplex PCR,10.1128/JCM.01128-06
-PABST_2003,Pabst et al. (2003),Switzerland,Europe,EAEC,aatA,19,187,3,137,0–16y,PCR,10.1128/JCM.41.6.2289-2293.2003
-PABST_2003,Pabst et al. (2003),Switzerland,Europe,EAEC,aggR,17,187,3,137,0–16y,PCR,10.1128/JCM.41.6.2289-2293.2003
-SARANTUYA_2004,Sarantuya et al. (2004),Mongolia,East Asia,EAEC,aggR,36,235,8,134,0–59m,Multiplex PCR,10.1128/JCM.42.1.133-139.2004
-SARANTUYA_2004,Sarantuya et al. (2004),Mongolia,East Asia,EAEC,aatA,38,235,9,134,0–59m,Multiplex PCR,10.1128/JCM.42.1.133-139.2004
-SARANTUYA_2004,Sarantuya et al. (2004),Mongolia,East Asia,EAEC,astA,45,235,22,134,0–59m,Multiplex PCR,10.1128/JCM.42.1.133-139.2004
-ROBINS_2004,Robins-Browne et al. (2004),Australia,Oceania,EAEC,aatA,23,696,15,489,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
-ROBINS_2004,Robins-Browne et al. (2004),Australia,Oceania,EAEC,aggR,21,696,14,489,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
-ROBINS_2004,Robins-Browne et al. (2004),Australia,Oceania,EAEC,astA,48,696,32,489,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
-ESTRADA_2009,Estrada-Garcia et al. (2009),Mexico,Latin America,EAEC,aatA,19,142,16,142,0–24m,Multiplex PCR,10.1128/JCM.01166-08
-ESTRADA_2009,Estrada-Garcia et al. (2009),Mexico,Latin America,EAEC,aggR,17,142,15,142,0–24m,Multiplex PCR,10.1128/JCM.01166-08
-ESTRADA_2009,Estrada-Garcia et al. (2009),Mexico,Latin America,EAEC,astA,24,142,22,142,0–24m,Multiplex PCR,10.1128/JCM.01166-08
-OCHOA_2009,Ochoa et al. (2009),Peru,Latin America,EAEC,aggR,78,517,76,517,0–24m,Multiplex Real-Time PCR,10.1086/648069
-OCHOA_2009,Ochoa et al. (2009),Peru,Latin America,EAEC,aatA,82,517,79,517,0–24m,Multiplex Real-Time PCR,10.1086/648069
-GIRON_1991,Girón et al. (1991),Mexico,Latin America,DAEC,daaC_all,58,283,37,283,0–59m,DNA Probe,10.1093/infdis/163.3.507
-GIRON_1991_INF,Girón et al. (1991) [<12m],Mexico,Latin America,DAEC,daaC_infants,16,128,16,128,<12m,DNA Probe,10.1093/infdis/163.3.507
-GIRON_1991_OLD,Girón et al. (1991) [>=12m],Mexico,Latin America,DAEC,daaC_toddlers,42,155,21,155,>=12m,DNA Probe,10.1093/infdis/163.3.507
-JALLAT_1993,Jallat et al. (1993),France,Europe,DAEC,daaC_all,52,358,5,110,0–59m,DNA Probe,10.1128/jcm.31.8.2031-2037.1993
-JALLAT_1993_OLD,Jallat et al. (1993) [>=12m],France,Europe,DAEC,daaC_toddlers,38,210,3,75,>=12m,DNA Probe,10.1128/jcm.31.8.2031-2037.1993
-LEVINE_1993,Levine et al. (1993),Chile,Latin America,DAEC,daaC_all,92,510,65,510,0–59m,DNA Probe,10.1093/oxfordjournals.aje.a116788
-LEVINE_1993_INF,Levine et al. (1993) [<12m],Chile,Latin America,DAEC,daaC_infants,28,190,31,190,<12m,DNA Probe,10.1093/oxfordjournals.aje.a116788
-LEVINE_1993_OLD,Levine et al. (1993) [>=12m],Chile,Latin America,DAEC,daaC_toddlers,64,320,34,320,>=12m,DNA Probe,10.1093/oxfordjournals.aje.a116788
-SCALETSKY_2002,Scaletsky et al. (2002),Brazil,Latin America,DAEC,daaC_all,118,647,64,419,0–24m,DNA Probe,10.1128/JCM.40.2.645-648.2002
-SCALETSKY_2002_INF,Scaletsky et al. (2002) [<12m],Brazil,Latin America,DAEC,daaC_infants,62,382,40,239,<12m,DNA Probe,10.1128/JCM.40.2.645-648.2002
-SCALETSKY_2002_OLD,Scaletsky et al. (2002) [>=12m],Brazil,Latin America,DAEC,daaC_toddlers,56,265,24,180,>=12m,DNA Probe,10.1128/JCM.40.2.645-648.2002
-SPANO_2008,Spano et al. (2008),Brazil,Latin America,DAEC,daaC_all,40,218,7,86,0–60m,PCR,10.1099/jmm.0.47660-0
-SPANO_2008_OLD,Spano et al. (2008) [>=12m],Brazil,Latin America,DAEC,daaC_toddlers,29,132,4,54,>=12m,PCR,10.1099/jmm.0.47660-0
-SPANO_2008,Spano et al. (2008),Brazil,Latin America,DAEC,sat_DAEC,28,218,4,86,0–60m,PCR,10.1099/jmm.0.47660-0
-OCHOA_2009_INF,Ochoa et al. (2009) [<12m],Peru,Latin America,DAEC,daaC_infants,8,165,11,165,<12m,Multiplex Real-Time PCR,10.1086/648069
-OCHOA_2009_OLD,Ochoa et al. (2009) [>=12m],Peru,Latin America,DAEC,daaC_toddlers,31,352,14,352,>=12m,Multiplex Real-Time PCR,10.1086/648069
-MANSAN_2013,Mansan-Almeida et al. (2013),Brazil,Latin America,DAEC,daaC_all,35,180,14,120,0–59m,PCR,10.1186/1471-2180-13-22
-MANSAN_2013,Mansan-Almeida et al. (2013),Brazil,Latin America,DAEC,afaE,24,180,7,120,0–59m,PCR,10.1186/1471-2180-13-22
-MANSAN_2013,Mansan-Almeida et al. (2013),Brazil,Latin America,DAEC,sat_DAEC,21,180,5,120,0–59m,PCR,10.1186/1471-2180-13-22
-GARRINE_2020,Garrine et al. (2020),Mozambique,Southern Africa,DAEC,daaC_all,24,588,19,591,0–59m,Multiplex PCR,10.1186/s12879-020-05380-1
-GARRINE_2020_INF,Garrine et al. (2020) [<12m],Mozambique,Southern Africa,DAEC,daaC_infants,9,240,11,245,<12m,Multiplex PCR,10.1186/s12879-020-05380-1
-GARRINE_2020_OLD,Garrine et al. (2020) [>=12m],Mozambique,Southern Africa,DAEC,daaC_toddlers,15,348,8,346,>=12m,Multiplex PCR,10.1186/s12879-020-05380-1
-KOTLOFF_2013,Kotloff et al. (2013) [GEMS],Multi-Country (Africa/Asia),Africa/Asia,EPEC,eae_unstratified,1255,9439,1588,13129,0–59m,Multiplex PCR,10.1016/S0140-6736(13)60844-2
-KOTLOFF_2013_INF,Kotloff et al. (2013) [<12m],Multi-Country (Africa/Asia),Africa/Asia,EPEC,bfpA_infants,198,4026,102,5612,<12m,Multiplex PCR,10.1016/S0140-6736(13)60844-2
-KOTLOFF_2013_OLD,Kotloff et al. (2013) [>=12m],Multi-Country (Africa/Asia),Africa/Asia,EPEC,bfpA_toddlers,113,5413,82,7517,>=12m,Multiplex PCR,10.1016/S0140-6736(13)60844-2
-OCHIENG_2023_EPEC,Ochieng et al. (2023) [VIDA],"The Gambia, Mali, Kenya",Western/Eastern Africa,EPEC,eae_unstratified,112,480,126,462,0–59m,Quantitative TAC,10.1093/cid/ciad035
-OCHIENG_2023_INF,Ochieng et al. (2023) [<12m],"The Gambia, Mali, Kenya",Western/Eastern Africa,EPEC,bfpA_infants,36,220,14,215,<12m,Quantitative TAC,10.1093/cid/ciad035
-OCHIENG_2023_OLD,Ochieng et al. (2023) [>=12m],"The Gambia, Mali, Kenya",Western/Eastern Africa,EPEC,bfpA_toddlers,20,260,12,247,>=12m,Quantitative TAC,10.1093/cid/ciad035
-HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,bfpA_infants,24,43,8,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
-HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,lifA_efa1,16,43,2,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
-HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,nleB,19,43,4,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
-HAZEN_2016,Hazen et al. (2016),Multi-Country (Africa/Asia),Africa/Asia,EPEC,nleE,18,43,4,27,0–59m,WGS,10.1038/nmicrobiol.2015.14
-AFSET_2004,Afset et al. (2004),Norway,Europe,EPEC,eae_unstratified,37,251,21,210,0–59m,PCR,10.1099/jmm.0.45719-0
-AFSET_2006,Afset et al. (2006),Norway,Europe,EPEC,lifA_efa1,18,37,1,20,0–59m,DNA Microarray & PCR,10.1128/JCM.00429-06
-AFSET_2006,Afset et al. (2006),Norway,Europe,EPEC,nleB,20,37,2,20,0–59m,DNA Microarray & PCR,10.1128/JCM.00429-06
-AFSET_2006,Afset et al. (2006),Norway,Europe,EPEC,nleE,19,37,2,20,0–59m,DNA Microarray & PCR,10.1128/JCM.00429-06
-SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,lifA_efa1,25,91,3,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
-SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,nleB,28,91,5,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
-SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,nleE,26,91,5,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
-SCALETSKY_2009,Scaletsky et al. (2009),Brazil,Latin America,EPEC,astA_aEPEC,24,91,6,35,0–59m,PCR & Hybridization,10.1128/JCM.01599-09
-DULGUER_2003,Dulguer et al. (2003),Brazil,Latin America,EPEC,astA_aEPEC,24,49,5,30,0–59m,PCR & Hybridization,10.1086/379666
-ROBINS_2004_EPEC,Robins-Browne et al. (2004),Australia,Oceania,EPEC,lifA_efa1,26,89,1,11,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
-ROBINS_2004_EPEC,Robins-Browne et al. (2004),Australia,Oceania,EPEC,astA_aEPEC,29,89,2,11,All Ages,Multiplex PCR & Probe,10.3201/eid1010.031086
-JENKINS_2006,Jenkins et al. (2006),United Kingdom,Europe,EAEC,agg4A,7,75,2,50,All Ages,Multiplex PCR,10.1016/j.diagmicrobio.2005.10.019
-JENKINS_2006,Jenkins et al. (2006),United Kingdom,Europe,EAEC,CS22,8,75,2,50,All Ages,Multiplex PCR,10.1016/j.diagmicrobio.2005.10.019
-JENKINS_2006,Jenkins et al. (2006),United Kingdom,Europe,EAEC,aaiC,39,75,19,50,All Ages,Multiplex PCR,10.1016/j.diagmicrobio.2005.10.019
-PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,EAEC,sepA,18,68,4,54,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
-PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,EAEC,CS22,10,68,2,54,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
-PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,DAEC,sat_DAEC,16,52,4,38,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
-PATZI_2015,Patzi-Vargas et al. (2015),Mexico,Latin America,DAEC,afaE,19,52,5,38,0–59m,Multiplex PCR,10.1371/journal.pntd.0003510
-BLANC_2002,Blanc-Potard et al. (2002),"France, Brazil",Europe/Latin America,DAEC,afaE,22,64,6,45,0–59m,PCR,10.1128/IAI.70.6.3102-3110.2002
-AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EAEC,aggR,38,120,72,240,0–59m,WGS,10.1371/journal.pgph.0001539
-AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EAEC,aatA,34,120,66,240,0–59m,WGS,10.1371/journal.pgph.0001539
-AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EAEC,aaiC,28,120,48,240,0–59m,WGS,10.1371/journal.pgph.0001539
-AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EPEC,eae_unstratified,15,120,28,240,0–59m,WGS,10.1371/journal.pgph.0001539
-AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EPEC,bfpA_infants,4,60,2,120,<12m,WGS,10.1371/journal.pgph.0001539
-AKINLABI_2023A_LOCI,Akinlabi et al. (2023a),Nigeria,Western Africa,EPEC,bfpA_toddlers,2,60,2,120,>=12m,WGS,10.1371/journal.pgph.0001539
-AKINLABI_2023B,Akinlabi et al. (2023b),Nigeria,Western Africa,EAEC,pic,22,120,68,377,0–59m,Multiplex PCR & WGS,10.4269/ajtmh.22-0618
+study_id,author_year,country,region,pathotype,locus,cases_pos,cases_total,ctrl_pos,ctrl_total,age_strata,modality,doi,pmid,pmcid,verbatim_source
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,sepA,20,60,5,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,"PMC3256949 Table 3 (60 MSD cases vs 61 controls, P=0.0006, OR=5.6)"
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,sepA,27,57,7,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,"PMC7500659 Table 1 (57 MSD cases vs 40 controls, P=0.002, OR=4.2)"
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,sepA,50,157,62,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,"PMC5637583 Table 2 (157 cases vs 271 controls, P=0.041, OR=1.57)"
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,sepA,45,110,4,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,sepA,14,138,3,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC isolates)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,aggR,38,60,46,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,aggR,45,57,36,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,aggR,97,157,161,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,aggR,67,93,40,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,"PMC5845566 Table 1 (93 cases vs 58 controls, Bangladesh GEMS)"
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,aggR,186,440,37,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,PMC7765457 Table 3 (440 case EAEC vs 74 control EAEC; also 186/3943 vs 37/1026 in Table 1)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,aggR,99,110,10,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,aggR,91,138,11,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,"PMC7673547 Table 7 (tEAEC aggR+: 91/138 diarrheal vs 11/33 control EAEC, P=0.0001)"
+SARANTUYA_2004,Sarantuya 2004,Mongolia,WPRO,EAEC,aggR,19,238,4,278,0-59m,Multiplex PCR,10.1128/JCM.42.1.133-139.2004,14715743,PMC321701,"PMC321701 Abstract (19/238 [8.0%] cases vs 4/278 [1.4%] controls, P=0.0004)"
+OCHOA_2009,Ochoa 2009,Peru,PAHO,EAEC,aggR,141,936,76,424,0-12m,Multiplex Real-Time PCR,10.1086/648069,19857163,PMC2779581,"PMC2779581 Table 3 (EAEC aggR multiplex real-time PCR, 0-12m)"
+ZELELIE_2023,Zelelie 2023,Ethiopia,AFRO,EAEC,aggR,54,391,2,85,0-59m,Multiplex PCR,10.1371/journal.pone.0288517,37450423,PMC10348587,PMC10348587 Table 3 (aggR+ total: 23+31=54/391 cases vs 2+0=2/85 controls)
+FARFAN_2020,Farfan-Garcia 2020,Colombia,PAHO,EAEC,aggR,40,431,38,430,0-59m,Multiplex PCR,10.1371/journal.pone.0235227,32603324,PMC7357789,PMC7357789 S6 Table & Table 6 (40/431 cases vs 38/430 controls; 38/58 vs 38/57 single-pathotype EAEC)
+HAUGAN_2024,Haugan 2024,Norway,EURO,EAEC,aggR,440,9487,8,375,All ages,Multiplex PCR,10.1371/journal.pone.0301843,3863516,PMC11025732,"PMC11025732 Table 2 (EAEC aggR/aatA PCR, 440/9487 cases vs 8/375 controls)"
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,aatA,37,60,46,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,aatA,40,57,33,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,aatA,51,157,82,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,aatA,74,93,50,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (aat: 74/93 cases vs 50/58 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,aatA,32,256,14,133,0-59m,PCR,10.3389/fmicb.2023.1120285,37065134,PMC10100739,PMC10100739 Table 3 (Stool PCR <=5y: 32/256 cases vs 14/133 controls; also 110/110 vs 9/10 in Table 4)
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,aatA,138,1210,33,550,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,"PMC7673547 Table 3, 4 & 5 (CVD432/aatA PCR: 138/1210 cases vs 33/550 controls; <5y: 96/697 vs 33/550)"
+PABST_2003,Pabst 2003,Switzerland,EURO,EAEC,aatA,19,187,3,137,0-59m,PCR,10.1128/JCM.41.6.2289-2293.2003,12791838,PMC156476,"PMC156476 Abstract (pCVD432/aatA PCR: 19/187 cases vs 3/137 controls, P=0.006; <5y: 18/151 vs 2/91)"
+ROBINS_2004,Robins-Browne 2004,Australia,WPRO,EAEC,aatA,45,696,15,489,0-59m,PCR / DNA Probe,10.3201/eid1010.031086,15504266,PMC3323264,"PMC3323264 Table 4 (pCVD432/aatA: 45/696 cases vs 15/489 controls, P=0.02)"
+OCHIENG_2023,Ochieng 2023,"Multi-country (VIDA: The Gambia, Mali, Kenya)",AFRO,EAEC,aatA,755,4719,866,4733,0-59m,Multiplex PCR,10.1093/cid/ciad035,37074433,PMC10116530,PMC10116530 Table 1 (Conventional PCR aatA/aaiC: 755/4719 vs 866/4733; TAC qPCR Table 2: 2818/4836 vs 3090/4836)
+AKINLABI_2023A,Akinlabi 2023a,Nigeria,AFRO,EAEC,aatA,35,120,102,357,0-59m,WGS,10.1371/journal.pgph.0001539,37549136,PMC10406320,PMC10406320 Table 4 (CVD432/aatA WGS: 35/120 cases vs 102/357 controls; PCR: 25/120 vs 74/357)
+ALI_2014,Ali 2014,Sudan,EMRO,EAEC,aatA,19,62,4,43,0-59m,Multiplex PCR,10.3855/jidc.4077,24727514,PMID:24727514,"PMID:24727514 Table 2 (pCVD432/aatA PCR: 19/62 cases vs 4/43 controls, P<0.01)"
+ONANUGA_2014,Onanuga 2014,Nigeria,AFRO,EAEC,aatA,16,201,5,529,0-59m,PCR,10.11604/pamj.2014.17.146.3369,25379115,PMC4219803,"PMC4219803 Table 2 (pCVD432/aatA PCR: 16/201 cases vs 5/529 controls, P=0.0014)"
+LOZER_2013,Lozer 2013,Brazil,PAHO,EAEC,aatA,36,141,81,419,0-120m,Multiplex PCR & DNA Probe,10.1186/1471-2334-13-418,24010735,PMC3846636,PMC3846636 Table 3 (aat PCR: 36/141 cases vs 81/419 controls; <5y Table 1: 32/93 vs 58/273; CVD432 probe: 27/141 vs 72/419)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,aap,39,60,48,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,aap,48,57,38,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,aap,77,157,121,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,aap,80,93,50,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,aap,354,440,55,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,PMC7765457 Table 3 (440 case EAEC vs 74 control EAEC)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,aap,110,110,10,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,aap,85,138,16,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,aaiC,32,60,26,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,aaiC,21,57,16,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,aaiC,44,157,97,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,aaiC,42,93,33,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,aaiC,92,110,10,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,aaiC,22,138,8,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+FARFAN_2020,Farfan-Garcia 2020,Colombia,PAHO,EAEC,aaiC,44,60,46,57,0-59m,Multiplex PCR,10.1371/journal.pone.0235227,32603324,PMC7357789,PMC7357789 S6 Table (44/60 case EAEC vs 46/57 control EAEC; stool level: 44/431 vs 46/430)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,pic,29,60,27,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,pic,20,57,15,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,pic,55,157,88,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,pic,41,93,29,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,pic,241,440,42,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,PMC7765457 Table 3 (440 case EAEC vs 74 control EAEC)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,pic,90,110,10,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,pic,18,138,3,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,sat,24,60,33,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,sat,12,57,6,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,sat,29,157,56,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,sat,43,110,7,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,sat,20,138,3,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,pet,4,60,6,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,pet,4,57,4,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,pet,24,157,24,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,"PMC5637583 Table 2 (157 cases vs 271 controls, P=0.042; 0-11m Table 3: 15/85 vs 4/132, P<0.001)"
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,pet,21,93,14,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,pet,68,440,9,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,PMC7765457 Table 3 (440 case EAEC vs 74 control EAEC)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,pet,22,110,2,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,pet,10,138,10,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,astA,32,60,30,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,astA,21,57,15,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,astA,91,157,129,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,"PMC5637583 Table 2 (157 cases vs 271 controls, P=0.038)"
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,astA,40,93,28,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,astA,196,440,31,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,PMC7765457 Table 3 (440 case EAEC vs 74 control EAEC)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,astA,56,110,7,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,astA,121,138,30,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+ZELELIE_2023,Zelelie 2023,Ethiopia,AFRO,EAEC,astA,43,391,8,85,0-59m,Multiplex PCR,10.1371/journal.pone.0288517,37450423,PMC10348587,PMC10348587 Table 3 (astA+ total: 12+31=43/391 cases vs 8+0=8/85 controls)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,aggA,11,60,21,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,"PMC3256949 Table 3 (60 MSD cases vs 61 controls, P=0.04)"
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,aggA,11,57,11,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,aggA,47,157,62,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,"PMC5637583 Table 2 (157 cases vs 271 controls; 0-11m Table 3: 32/85 vs 28/132, P=0.008)"
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,aggA,13,93,10,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,aggA,85,440,11,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,PMC7765457 Table 3 (440 case EAEC vs 74 control EAEC)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,aggA,23,110,3,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,aggA,34,138,4,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,aafA,3,60,3,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,aafA,3,57,5,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,aafA,3,157,15,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,aafA,20,93,13,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,aafA,73,440,6,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,"PMC7765457 Table 3 (440 case EAEC vs 74 control EAEC, P=0.039)"
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,aafA,22,110,2,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,aafA,5,138,2,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,agg3A,1,60,5,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,agg3A,3,57,6,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,agg3A,10,157,28,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,agg3A,16,93,8,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,agg3A,3,110,1,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,agg3A,7,138,1,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,agg4A,5,60,1,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (60 MSD cases vs 61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,agg4A,14,57,7,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,agg4A,15,157,16,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (157 cases vs 271 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,agg4A,14,93,10,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (93 cases vs 58 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,agg4A,23,110,1,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,agg4A,60,138,3,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (138 diarrheal EAEC vs 33 control EAEC)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,agg5A,7,57,9,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (57 MSD cases vs 40 controls)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,agg5A,17,93,8,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (aaf5A: 17/93 cases vs 8/58 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,agg5A,27,110,3,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (110 case EAEC vs 10 control EAEC isolates, WGS)"
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,AAF_any,20,60,30,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (Sum of mutually exclusive AAF I-IV: 11+3+1+5=20/60 vs 21+3+5+1=30/61)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,AAF_any,38,57,38,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (Sum of mutually exclusive AAF I-V: 11+3+3+14+7=38/57 vs 11+5+6+7+9=38/40)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,AAF_any,75,157,121,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (Sum of AAF I-IV: 47+3+10+15=75/157 vs 62+15+28+16=121/271)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,AAF_any,80,93,49,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (Sum of AAF I-V: 13+20+16+14+17=80/93 vs 10+13+8+10+8=49/58)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,AAF_any,158,440,17,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,PMC7765457 Table 3 (Sum of AAF I-II: 85+73=158/440 vs 11+6=17/74)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,AAF_any,98,110,10,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (Sum of AAF I-V: 23+22+3+23+27=98/110 vs 3+2+1+1+3=10/10, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,AAF_any,106,138,10,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (Sum of AAF I-IV: 34+5+7+60=106/138 vs 4+2+1+3=10/33)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,CS22,3,57,0,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (CS22 gene cluster: 3/57 MSD cases vs 0/40 controls)
+LLORENTE_2025,Llorente 2025,Spain,EURO,EAEC,CS22,0,9,0,57,0-144m,WGS,10.1007/s00431-025-06430-1,41045409,PMC12496287,PMC12496287 Text p. 5 & Table S5 (0/9 diarrheal vs 0/57 asymptomatic EAEC isolates positive for CS22)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,CS22,0,110,0,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,PMC10100739 Table 4 (0/110 case EAEC vs 0/10 control EAEC isolates positive for CS22; 98/110 and 10/10 carried AAF I-V)
+CHATTAWAY_2017,Chattaway 2017,Bangladesh,SEARO,EAEC,irp2,66,93,35,58,0-59m,Multiplex PCR,10.1099/jmm.0.000594,28945190,PMC5845566,PMC5845566 Table 1 (66/93 cases vs 35/58 controls)
+JOFFRE_2020,Joffre 2020,Bolivia,PAHO,EAEC,irp2,348,440,41,74,0-59m,Multiplex PCR,10.3390/pathogens9121034,33334000,PMC7765457,"PMC7765457 Table 3 (348/440 case EAEC vs 41/74 control EAEC, P=0.001)"
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,irp2,95,110,10,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (95/110 case EAEC vs 10/10 control EAEC isolates, WGS)"
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,irp2,37,57,19,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (HPI yersiniabactin siderophore island fyuA/irp2: 37/57 cases vs 19/40 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,fyuA,37,57,19,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (37/57 MSD cases vs 19/40 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,fyuA,95,110,10,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (95/110 case EAEC vs 10/10 control EAEC isolates, WGS)"
+MEZA_SEGURA_2020,Meza-Segura 2020,Mexico,PAHO,EAEC,fyuA,15,16,2,7,0-59m,WGS,10.3389/fcimb.2020.572951,33178627,PMC7593697,PMC7593697 Table 3 (Yersiniabactin fyuA: 15/16 tEAEC vs 2/7 commensal control genomes)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,aar,28,60,44,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,"PMC3256949 Table 3 (ORF61/aar: 28/60 MSD cases vs 44/61 controls, P=0.004)"
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,aar,27,57,29,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (27/57 MSD cases vs 29/40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,aar,110,157,188,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (110/157 cases vs 188/271 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,aar,77,110,9,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (77/110 case EAEC vs 9/10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,aar,96,138,22,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (ORF61/aar: 96/138 diarrheal EAEC vs 22/33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,capU,48,60,51,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (48/60 MSD cases vs 51/61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,capU,36,57,31,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (36/57 MSD cases vs 31/40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,capU,108,157,158,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,"PMC5637583 Table 2 (108/157 cases vs 158/271 controls, P=0.031)"
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,capU,60,110,3,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (60/110 case EAEC vs 3/10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,capU,73,138,15,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (73/138 diarrheal EAEC vs 15/33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,eilA,50,60,53,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (50/60 MSD cases vs 53/61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,eilA,14,57,11,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (14/57 MSD cases vs 11/40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,eilA,79,157,128,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (79/157 cases vs 128/271 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,eilA,10,110,0,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (10/110 case EAEC vs 0/10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,eilA,57,138,15,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (57/138 diarrheal EAEC vs 15/33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,air,20,60,29,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (20/60 MSD cases vs 29/61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,air,11,57,6,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (11/57 MSD cases vs 6/40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,air,41,157,57,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (41/157 cases vs 57/271 controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EAEC,air,10,110,0,10,All ages,WGS,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 4 (10/110 case EAEC vs 0/10 control EAEC isolates, WGS)"
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,air,28,138,4,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (28/138 diarrheal EAEC vs 4/33 control EAEC)
+BOISEN_2012,Boisen 2012,Mali,AFRO,EAEC,sigA,8,60,7,61,0-59m,Multiplex PCR & CGH,10.1093/infdis/jir757,22184729,PMC3256949,PMC3256949 Table 3 (8/60 MSD cases vs 7/61 controls)
+BOISEN_2020,Boisen 2020,"Multi-country (GEMS: Mali, Mozambique, Bangladesh)",Multi,EAEC,sigA,2,57,6,40,0-59m,WGS,10.1371/journal.pntd.0008613,32898134,PMC7500659,PMC7500659 Table 1 (2/57 MSD cases vs 6/40 controls)
+IKUMAPAYI_2017,Ikumapayi 2017,The Gambia,AFRO,EAEC,sigA,18,157,31,271,0-59m,Multiplex PCR,10.4269/ajtmh.16-0705,28820687,PMC5637583,PMC5637583 Table 2 (18/157 cases vs 31/271 controls)
+MODGIL_2020,Modgil 2020,India,SEARO,EAEC,sigA,4,138,2,33,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,PMC7673547 Table 8 (4/138 diarrheal EAEC vs 2/33 control EAEC)
+OCHOA_2009,Ochoa 2009,Peru,PAHO,DAEC,daaC_all,43,936,9,424,0-12m,Multiplex Real-Time PCR,10.1086/648069,19857163,PMC2779581,"PMC2779581 Table 3 (daaD multiplex real-time PCR, 0-12m: 43/936 cases vs 9/424 controls)"
+MANSAN_2013,Mansan-Almeida 2013,Brazil,PAHO,DAEC,daaC_all,21,127,25,127,0-60m,PCR,10.1186/1471-2180-13-22,23374248,PMC3577467,PMC3577467 Table 1 (afa/draBC PCR in children 0-60m: 21/127 cases vs 25/127 controls; All ages: 48/270 vs 30/246)
+GARRINE_2020,Garrine 2020,Mozambique,AFRO,DAEC,daaC_all,10,415,16,451,0-59m,Multiplex PCR,10.1186/s12879-020-05380-1,32894092,PMC7475947,PMC7475947 Tables 1 & 2 (daaE PCR 0-59m across LSD+MSD: 10/415 cases vs 16/451 controls)
+LOZER_2013,Lozer 2013,Brazil,PAHO,DAEC,daaC_all,26,141,39,419,0-120m,Multiplex PCR & DNA Probe,10.1186/1471-2334-13-418,24010735,PMC3846636,"PMC3846636 Table 3 (afa/daa PCR: 26/141 cases vs 39/419 controls, P=0.0057; daaC probe: 21/141 vs 36/419, P=0.0369)"
+SCALETSKY_2002,Scaletsky 2002,Brazil,PAHO,DAEC,daaC_all,49,237,40,231,0-24m,DNA Probe,10.1128/JCM.40.2.645-648.2002,11825986,PMC153384,"PMC153384 Abstract (daaC DNA probe 0-24m: 49/237 [20.7%] cases vs 40/231 [17.3%] controls, P=0.41)"
+SPANO_2008,Spano 2008,Brazil,PAHO,DAEC,daaC_all,40,218,7,86,0-24m,DNA Probe / HEp-2,10.1099/jmm.0.47660-0,18287300,PMID:18287300,"PMID:18287300 Abstract (DAEC 0-24m: 40/218 [18.3%] cases vs 7/86 [8.1%] controls, P<0.05)"
+OKEKE_2000A,Okeke 2000,Nigeria,AFRO,DAEC,daaC_all,18,187,8,144,0-59m,DNA Probe / HEp-2,10.1128/JCM.38.1.7-12.2000,10618054,PMC86005,PMC86005 Full Text & Part A Audit (daaC probe / HEp-2 0-59m: 18/187 [9.6%] cases vs 8/144 [5.6%] controls)
+FARFAN_2020,Farfan-Garcia 2020,Colombia,PAHO,DAEC,daaC_all,4,431,2,430,0-59m,Multiplex PCR,10.1371/journal.pone.0235227,32603324,PMC7357789,PMC7357789 Table 5 & 6 (daaE mPCR 0-59m: 4/431 cases vs 2/430 controls)
+ZELELIE_2023,Zelelie 2023,Ethiopia,AFRO,DAEC,daaC_all,0,391,1,85,0-59m,Multiplex PCR,10.1371/journal.pone.0288517,37450423,PMC10348587,PMC10348587 Table 3 (daaF mPCR 0-59m: 0/391 cases vs 1/85 controls)
+OCHOA_2009,Ochoa 2009,Peru,PAHO,DAEC,daaC_infants,17,406,5,153,<6m,Multiplex Real-Time PCR,10.1086/648069,19857163,PMC2779581,PMC2779581 Table 3 (daaD PCR <6m infants: 17/406 [4.2%] cases vs 5/153 [3.3%] controls)
+GARRINE_2020,Garrine 2020,Mozambique,AFRO,DAEC,daaC_infants,8,175,10,199,0-11m,Multiplex PCR,10.1186/s12879-020-05380-1,32894092,PMC7475947,PMC7475947 Tables 1 & 2 (daaE PCR 0-11m infants: 2/77 MSD + 6/98 LSD = 8/175 cases vs 4/101 + 6/98 = 10/199 controls)
+LOZER_2013,Lozer 2013,Brazil,PAHO,DAEC,daaC_infants,5,40,10,110,0-23m,Multiplex PCR & DNA Probe,10.1186/1471-2334-13-418,24010735,PMC3846636,PMC3846636 Table 1 (afa/daa PCR <24m children: 5/40 [12.5%] cases vs 10/110 [9.1%] controls)
+OCHOA_2009,Ochoa 2009,Peru,PAHO,DAEC,daaC_toddlers,26,530,4,271,6-12m,Multiplex Real-Time PCR,10.1086/648069,19857163,PMC2779581,"PMC2779581 Table 3 (daaD PCR 6-12m older infants: 26/530 [4.9%] cases vs 4/271 [1.5%] controls, P<0.05)"
+GARRINE_2020,Garrine 2020,Mozambique,AFRO,DAEC,daaC_toddlers,2,240,6,252,12-59m,Multiplex PCR,10.1186/s12879-020-05380-1,32894092,PMC7475947,PMC7475947 Tables 1 & 2 (daaE PCR 12-59m toddlers: 2/240 cases vs 6/252 controls)
+LOZER_2013,Lozer 2013,Brazil,PAHO,DAEC,daaC_toddlers,15,53,18,163,24-59m,Multiplex PCR & DNA Probe,10.1186/1471-2334-13-418,24010735,PMC3846636,"PMC3846636 Table 1 (afa/daa PCR 24-59m children: 15/53 [28.3%] cases vs 18/163 [11.0%] controls, P<0.05)"
+MANSAN_2013,Mansan-Almeida 2013,Brazil,PAHO,DAEC,daaC_toddlers,27,143,5,119,Adults,PCR,10.1186/1471-2180-13-22,23374248,PMC3577467,"PMC3577467 Table 1 (afa/draBC PCR older/adult stratum: 27/143 [18.9%] cases vs 5/119 [4.2%] controls, P<0.01)"
+MANSAN_2013,Mansan-Almeida 2013,Brazil,PAHO,DAEC,sat_DAEC,23,50,11,58,0-60m,PCR,10.1186/1471-2180-13-22,23374248,PMC3577467,"PMC3577467 Table 3 (sat PCR in pediatric DAEC strains 0-60m: 23/50 [46.0%] cases vs 11/58 [19.0%] controls, P<0.05)"
+MANSAN_2013,Mansan-Almeida 2013,Brazil,PAHO,DAEC,sat_DAEC,12,27,7,15,Adults,PCR,10.1186/1471-2180-13-22,23374248,PMC3577467,PMC3577467 Table 3 (sat PCR in adult DAEC strains: 12/27 [44.4%] cases vs 7/15 [46.7%] controls)
+MEZA_SEGURA_2020,Meza-Segura 2020,Mexico,PAHO,DAEC,sat_DAEC,6,10,0,7,0-59m,WGS,10.3389/fcimb.2020.572951,33178627,PMC7593697,"PMC7593697 Table 3 (Sat in pediatric diarrheal DAEC genomes [6/10, 60%] vs commensal control genomes [0/7, 0%])"
+MANSAN_2013,Mansan-Almeida 2013,Brazil,PAHO,DAEC,afaE,22,50,19,58,0-60m,PCR,10.1186/1471-2180-13-22,23374248,PMC3577467,PMC3577467 Table 2 (afaE-1 in pediatric DAEC strains 0-60m: 22/50 [44.0%] cases vs 19/58 [32.8%] controls; any typed afaE 1/2/3/5: 35/50 vs 35/58)
+MANSAN_2013,Mansan-Almeida 2013,Brazil,PAHO,DAEC,afaE,12,27,5,15,Adults,PCR,10.1186/1471-2180-13-22,23374248,PMC3577467,PMC3577467 Table 2 (afaE-1 in adult DAEC strains: 12/27 [44.4%] cases vs 5/15 [33.3%] controls; any typed afaE: 19/27 vs 12/15)
+AKINLABI_2025,Akinlabi 2025,Nigeria,AFRO,DAEC,afaE,1,39,4,57,0-59m & All ages,WGS,10.1371/journal.pntd.0013442,40845059,PMC12404642,PMC12404642 S2 Table (afaE adhesin gene in sequenced E. coli isolates: 1/39 cases vs 4/57 controls)
+OCHIENG_2023,Ochieng 2023,"Multi-country (VIDA: The Gambia, Mali, Kenya)",AFRO,EPEC,eae_unstratified,597,4790,693,4795,0-59m,Multiplex PCR,10.1093/cid/ciad035,37074433,PMC10116530,PMC10116530 Table 1 (Conventional PCR EPEC eae+: 496 tEPEC + 101 aEPEC = 597/4790 cases vs 554 + 139 = 693/4795 controls; TAC qPCR Table 2: 2204/4836 vs 2407/4836)
+ROBINS_2004,Robins-Browne 2004,Australia,WPRO,EPEC,eae_unstratified,91,696,12,489,0-59m,PCR / DNA Probe,10.3201/eid1010.031086,15504266,PMC3323264,"PMC3323264 Table 4 (Total EPEC eae+: 89 aEPEC + 2 tEPEC = 91/696 cases vs 11 aEPEC + 1 tEPEC = 12/489 controls, P<0.0001)"
+OCHOA_2009,Ochoa 2009,Peru,PAHO,EPEC,eae_unstratified,71,936,42,424,0-12m,Multiplex Real-Time PCR,10.1086/648069,19857163,PMC2779581,PMC2779581 Table 3 (EPEC eae multiplex real-time PCR 0-12m: 71/936 cases vs 42/424 controls)
+MODGIL_2020,Modgil 2020,India,SEARO,EPEC,eae_unstratified,75,1210,21,550,0-120m,Multiplex PCR,10.3390/pathogens9110928,33206643,PMC7673547,"PMC7673547 Table 3, 4 & 5 (EPEC eae PCR: 75/1210 cases vs 21/550 controls; <5y: 58/697 vs 21/550)"
+FARFAN_2020,Farfan-Garcia 2020,Colombia,PAHO,EPEC,eae_unstratified,31,431,51,430,0-59m,Multiplex PCR,10.1371/journal.pone.0235227,32603324,PMC7357789,PMC7357789 Table 5 & 6 (EPEC eae mPCR: 31/431 cases vs 51/430 controls)
+MERO_2021,Mero 2021,Guinea-Bissau,AFRO,EPEC,eae_unstratified,140,228,126,201,0-59m,qPCR,10.1371/journal.pntd.0009709,34587158,PMC8504977,PMC8504977 Table 2 (EPEC eae qPCR 0-59m: 140/228 [61.4%] cases vs 126/201 [62.7%] controls)
+LLORENTE_2023,Llorente 2023,Spain,EURO,EPEC,eae_unstratified,43,256,11,133,0-59m,PCR,10.3389/fmicb.2023.1120285,37065134,PMC10100739,"PMC10100739 Table 3 (aEPEC eae+ <=5y: 43/256 [16.8%] cases vs 11/133 [8.3%] controls, P=0.021)"
+AFSET_2004,Afset 2004,Norway,EURO,EPEC,eae_unstratified,38,251,21,210,0-59m,PCR,10.1099/jmm.0.45719-0,15496393,PMID:15496393,PMID:15496393 Abstract (37 aEPEC + 1 tEPEC = 38/251 cases vs 21 aEPEC + 0 tEPEC = 21/210 controls)
+PABST_2003,Pabst 2003,Switzerland,EURO,EPEC,eae_unstratified,30,183,15,137,0-59m,PCR,10.1128/JCM.41.6.2289-2293.2003,12791838,PMC156476,PMC156476 Abstract (eae PCR: 30/183 [16.4%] cases vs 15/137 [10.9%] controls)
+SCALETSKY_2002,Scaletsky 2002,Brazil,PAHO,EPEC,eae_unstratified,21,237,7,231,0-24m,DNA Probe,10.1128/JCM.40.2.645-648.2002,11825986,PMC153384,"PMC153384 Abstract (EPEC 0-24m: 21/237 [8.9%] cases vs 7/231 [3.0%] controls, P<0.01)"
+AKINLABI_2023A,Akinlabi 2023a,Nigeria,AFRO,EPEC,eae_unstratified,15,120,28,357,0-59m,PCR,10.1371/journal.pgph.0001539,37549136,PMC10406320,PMC10406320 Table 4 (eae PCR: 15/120 cases vs 28/357 controls; WGS: 7/120 vs 16/357)
+OLAYINKA_2024,Olayinka 2024,Nigeria,AFRO,EPEC,eae_unstratified,12,167,10,334,0-59m,Multiplex PCR,10.1186/s12879-024-09793-0,39251967,PMC11382472,PMC11382472 Table 3 (EPEC eae+: 3 tEPEC + 9 aEPEC = 12/167 cases vs 4 tEPEC + 6 aEPEC = 10/334 controls)
+LOZER_2013,Lozer 2013,Brazil,PAHO,EPEC,eae_unstratified,16,141,33,419,0-120m,Multiplex PCR & DNA Probe,10.1186/1471-2334-13-418,24010735,PMC3846636,PMC3846636 Table 3 (eae PCR: 16/141 [11.3%] cases vs 33/419 [8.3%] controls)
+VUBIL_2026,Vubil 2026,Mozambique,AFRO,EPEC,bfpA_infants,26,35,52,66,0-11m,PCR,10.1371/journal.pntd.0014021,41877076,PMC13137634,PMC13137634 Table 3 (tEPEC bfpA+ among 0-11m EPEC isolates: 26/35 cases vs 52/66 controls)
+OCHIENG_2023,Ochieng 2023,"Multi-country (VIDA: The Gambia, Mali, Kenya)",AFRO,EPEC,bfpA_infants,394,1708,413,1700,0-11m,TAC qPCR,10.1093/cid/ciad035,37074433,PMC10116530,PMC10116530 Table 2 & 3 (tEPEC bfpA+ TAC qPCR in 0-11m infants: 394/1708 cases vs 413/1700 controls)
+AKINLABI_2025,Akinlabi 2025,Nigeria,AFRO,EPEC,bfpA_infants,8,22,4,36,0-12m,WGS,10.1371/journal.pntd.0013442,40845059,PMC12404642,"PMC12404642 S2 Table & Table 3 (bfpA+ among 0-12m infant EPEC isolates: 8/22 cases vs 4/36 controls; All EPEC Table 3: 9/39 vs 4/57, P=0.0417)"
+HAZEN_2016,Hazen 2016,Multi-country (GEMS),Multi,EPEC,bfpA_infants,44,47,17,23,0-59m,WGS,10.1038/nmicrobiol.2015.14,27571975,PMC5067155,"PMC5067155 Table 2 (bfpA+ among GEMS symptomatic/lethal EPEC vs asymptomatic control EPEC: 44/47 [93.6%] vs 17/23 [73.9%], P=0.030)"
+MERCADO_2016,Mercado 2016,Peru,PAHO,EPEC,bfpA_infants,19,128,25,251,0-24m,PCR,10.1186/s13099-016-0106-y,27236730,PMC4900456,PMC4900456 Table 2 (tEPEC bfpA+ among 0-24m EPEC isolates: 19/128 [14.8%] cases vs 25/251 [10.0%] controls)
+VUBIL_2026,Vubil 2026,Mozambique,AFRO,EPEC,bfpA_toddlers,12,18,23,38,12-59m,PCR,10.1371/journal.pntd.0014021,41877076,PMC13137634,PMC13137634 Table 3 (tEPEC bfpA+ among 12-59m EPEC isolates: 12/18 cases vs 23/38 controls)
+OCHIENG_2023,Ochieng 2023,"Multi-country (VIDA: The Gambia, Mali, Kenya)",AFRO,EPEC,bfpA_toddlers,683,3128,673,3136,12-59m,TAC qPCR,10.1093/cid/ciad035,37074433,PMC10116530,PMC10116530 Table 2 & 3 (tEPEC bfpA+ TAC qPCR in 12-59m toddlers: 396+287=683/3128 cases vs 401+272=673/3136 controls)
+AKINLABI_2025,Akinlabi 2025,Nigeria,AFRO,EPEC,bfpA_toddlers,0,8,0,15,13-59m,WGS,10.1371/journal.pntd.0013442,40845059,PMC12404642,PMC12404642 S2 Table (bfpA+ among 13-59m toddler EPEC isolates: 0/8 cases vs 0/15 controls)
+MERCADO_2016,Mercado 2016,Peru,PAHO,EPEC,lifA_efa1,39,128,53,251,0-24m,PCR,10.1186/s13099-016-0106-y,27236730,PMC4900456,"PMC4900456 Table 2 (lifA/efa-1 in all EPEC: 39/128 [30.5%] cases vs 53/251 [21.1%] controls, P<0.05; in aEPEC: 31/109 vs 49/226)"
+XU_2017,Xu 2017,China,WPRO,EPEC,lifA_efa1,36,121,0,27,All ages,PCR,10.3389/fmicb.2017.00452,28421169,PMC5378719,"PMC5378719 Table 2 & 3 (efa1/lifA in aEPEC: 36/121 [29.8%] diarrheal vs 0/27 [0.0%] healthy controls, P<0.001)"
+AKINLABI_2025,Akinlabi 2025,Nigeria,AFRO,EPEC,lifA_efa1,3,39,11,57,0-59m & All ages,WGS,10.1371/journal.pntd.0013442,40845059,PMC12404642,PMC12404642 S2 Table (efa1 in all EPEC: 3/39 cases vs 11/57 controls; in aEPEC: 3/30 vs 7/53)
+ROBINS_2004,Robins-Browne 2004,Australia,WPRO,EPEC,lifA_efa1,2,11,1,11,0-59m,PCR / DNA Probe,10.3201/eid1010.031086,15504266,PMC3323264,PMC3323264 Table 5 (efa1 in characterized aEPEC strains: 2/11 symptomatic [G] vs 1/11 asymptomatic [N] controls)
+MERCADO_2016,Mercado 2016,Peru,PAHO,EPEC,nleB,50,128,92,251,0-24m,PCR,10.1186/s13099-016-0106-y,27236730,PMC4900456,PMC4900456 Table 2 (nleB in all EPEC: 50/128 [39.1%] cases vs 92/251 [36.7%] controls; in aEPEC: 41/109 vs 87/226)
+XU_2017,Xu 2017,China,WPRO,EPEC,nleB,50,121,2,27,All ages,PCR,10.3389/fmicb.2017.00452,28421169,PMC5378719,"PMC5378719 Table 2 & 3 (nleB in aEPEC: 50/121 [41.3%] diarrheal vs 2/27 [7.4%] healthy controls, P<0.001)"
+SALVADOR_2014,Salvador 2014,Brazil,PAHO,EPEC,nleB,37,71,13,36,0-59m,PCR,10.3748/wjg.v20.i45.17155,25477918,PMC4204969,PMC4204969 Table 1 (nleB in all EPEC: 25+12=37/71 cases vs 3+10=13/36 controls; in aEPEC: 12/33 vs 10/30)
+AKINLABI_2025,Akinlabi 2025,Nigeria,AFRO,EPEC,nleB,31,39,53,57,0-59m & All ages,WGS,10.1371/journal.pntd.0013442,40845059,PMC12404642,PMC12404642 S2 Table (nleB in all EPEC: 31/39 cases vs 53/57 controls; in aEPEC: 22/30 vs 49/53)
+MERCADO_2016,Mercado 2016,Peru,PAHO,EPEC,nleE,48,128,95,251,0-24m,PCR,10.1186/s13099-016-0106-y,27236730,PMC4900456,PMC4900456 Table 2 (nleE in all EPEC: 48/128 [37.5%] cases vs 95/251 [37.8%] controls; in aEPEC: 40/109 vs 90/226)
+XU_2017,Xu 2017,China,WPRO,EPEC,nleE,53,121,2,27,All ages,PCR,10.3389/fmicb.2017.00452,28421169,PMC5378719,"PMC5378719 Table 2 & 3 (nleE in aEPEC: 53/121 [43.8%] diarrheal vs 2/27 [7.4%] healthy controls, P<0.001)"
+SALVADOR_2014,Salvador 2014,Brazil,PAHO,EPEC,nleE,32,71,13,36,0-59m,PCR,10.3748/wjg.v20.i45.17155,25477918,PMC4204969,PMC4204969 Table 1 (nleE in all EPEC: 22+10=32/71 cases vs 3+10=13/36 controls; in aEPEC: 10/33 vs 10/30)
+XU_2017,Xu 2017,China,WPRO,EPEC,astA_aEPEC,13,121,5,27,All ages,PCR,10.3389/fmicb.2017.00452,28421169,PMC5378719,PMC5378719 Table 3 (astA in aEPEC: 13/121 [10.7%] diarrheal vs 5/27 [18.5%] healthy controls)
+AKINLABI_2025,Akinlabi 2025,Nigeria,AFRO,EPEC,astA_aEPEC,4,39,5,57,0-59m & All ages,WGS,10.1371/journal.pntd.0013442,40845059,PMC12404642,PMC12404642 S2 Table (astA in all EPEC: 4/39 cases vs 5/57 controls; in aEPEC: 0/30 vs 5/53)
+ROBINS_2004,Robins-Browne 2004,Australia,WPRO,EPEC,astA_aEPEC,1,11,1,11,0-59m,PCR / DNA Probe,10.3201/eid1010.031086,15504266,PMC3323264,PMC3323264 Table 5 (astA in characterized aEPEC strains: 1/11 symptomatic [G] vs 1/11 asymptomatic [N] controls)
