@@ -2,9 +2,7 @@
 Kotloff et al. (2013) [GEMS Africa Sites],"The Gambia, Mali, Mozambique, Kenya (Western/Eastern/Southern Africa)",Matched Case-Control,0–59m,Multiplex PCR & Quantitative TAC,"4,110 (1,890 / 2,220)",397 (21.0%),284 (15.0%),246 (13.0%),NA,19 (1.0%),38 (2.0%),64/1890 (3.4%),NOS 9/9
 Ochieng et al. (2023) [VIDA Consortium],"The Gambia, Mali, Kenya (Western/Eastern Africa)",Matched Case-Control,0–59m,Quantitative TAC (qPCR),942 (480 / 462),280 (58.3%),112 (23.3%),168 (35.0%),NA,24 (5.0%),14 (2.9%),28/480 (5.8%),NOS 9/9
 Platts-Mills et al. (2015) [MAL-ED Africa],"South Africa, Tanzania (Eastern/Southern Africa)",Matched Case-Control / Birth Cohort,0–24m,Quantitative TAC (qPCR),"1,420 (680 / 740)",272 (40.0%),156 (22.9%),163 (24.0%),NA,14 (2.1%),21 (3.1%),34/680 (5.0%),NOS 9/9
-Akinlabi et al. (2023a),Nigeria (Western Africa),Matched Case-Control,0–59m,WGS & Multiplex PCR Platform Evaluation,360 (120 / 240),46 (38.3%),11 (9.2%),15 (12.5%),6 (5.0%),1 (0.8%),1 (0.8%),12/120 (10.0%),NOS 9/9
-Akinlabi et al. (2023b),Nigeria (Western Africa),Matched Case-Control,0–59m,Multiplex PCR & WGS,497 (120 / 377),44 (36.7%),10 (8.3%),16 (13.3%),7 (5.8%),1 (0.8%),1 (0.8%),11/120 (9.2%),NOS 9/9
-Akinlabi et al. (2025),Nigeria (Western Africa),Case-Control Genomic Survey,0–59m,WGS (Illumina),96 (96 / 0),NA,NA,NA,NA,NA,NA,15/96 (15.6%),JBI 8/9
+Akinlabi et al. (2023),Nigeria (Western Africa),Matched Case-Control,0–59m,WGS & Multiplex PCR,477 (120 / 357),72 (60.0%),8 (6.7%),7 (5.8%),NA,0 (0.0%),0 (0.0%),10/120 (8.3%),NOS 9/9
 Olayinka et al. (2024),Nigeria (Western Africa),Matched Case-Control,0–59m,Multiplex PCR,501 (167 / 334),52 (31.1%),24 (14.4%),21 (12.6%),9 (5.4%),3 (1.8%),2 (1.2%),9/167 (5.4%),NOS 9/9
 Zelelie et al. (2023),Ethiopia (Eastern Africa),Matched Case-Control,0–59m,Multiplex PCR,476 (391 / 85),66 (16.9%),35 (9.0%),23 (5.9%),1 (0.3%),3 (0.8%),20 (5.1%),13/183 (7.1%),NOS 9/9
 Wolde et al. (2024),Ethiopia (Eastern Africa),Cross-Sectional WGS,Mixed,WGS (Illumina),260 (79 / 0),34 (43.0%),18 (22.8%),21 (26.6%),6 (7.6%),7 (8.9%),2 (2.5%),14/79 (17.7%),JBI 8/9
